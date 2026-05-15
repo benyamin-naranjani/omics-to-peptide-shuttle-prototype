@@ -1,0 +1,17 @@
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Large/generated data
+data/processed/alphafold_results/
+data/processed/reward_guided_rl/*/alphafold_results/
+data/processed/multi_receptor_reward_guided_rl/*/alphafold_results/
+
+# Optional large raw data if too big
+# data/raw/GSE225948_RAW/
+
+# System/editor
+.DS_Store
+*.swp
+*.tmp
