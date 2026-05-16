@@ -1,0 +1,6 @@
+receptor_id,peptide_id,sequence,result_dir,score_json,plddt,ptm,iptm,ranking_confidence
+Ly6a_mouse,pep_000,NFPFAPLGSH,../data/processed/reward_guided_rl/cycle_01/alphafold_results/Ly6a_mouse_pep_000,Ly6a_mouse_pep_000_complex_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000.json,31.4290625,0.17,0.05,
+Ly6a_mouse,pep_001,YPFPNHTG,../data/processed/reward_guided_rl/cycle_01/alphafold_results/Ly6a_mouse_pep_001,Ly6a_mouse_pep_001_complex_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000.json,31.4818085106383,0.17,0.05,
+Ly6a_mouse,pep_002,LVPQTYLLKGKPKYNH,../data/processed/reward_guided_rl/cycle_01/alphafold_results/Ly6a_mouse_pep_002,Ly6a_mouse_pep_002_complex_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000.json,31.53647058823529,0.17,0.06,
+Ly6a_mouse,pep_003,MVYYRTVWPENH,../data/processed/reward_guided_rl/cycle_01/alphafold_results/Ly6a_mouse_pep_003,Ly6a_mouse_pep_003_complex_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000.json,31.164081632653062,0.16,0.06,
+Ly6a_mouse,pep_004,PFLNLPPNRY,../data/processed/reward_guided_rl/cycle_01/alphafold_results/Ly6a_mouse_pep_004,Ly6a_mouse_pep_004_complex_scores_rank_001_alphafold2_multimer_v3_model_1_seed_000.json,31.74114583333333,0.17,0.05,

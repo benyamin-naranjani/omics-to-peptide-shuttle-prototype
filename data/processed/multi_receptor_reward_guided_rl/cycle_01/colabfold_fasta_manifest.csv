@@ -1,0 +1,11 @@
+receptor_id,peptide_id,sequence,fasta_file,receptor_domain_length,peptide_length,complex_total_length
+Ly6a_mouse,pep_000,LIVVYPVNTGNH,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ly6a_mouse/Ly6a_mouse_pep_000_complex.fasta,86,12,98
+Ly6a_mouse,pep_001,HAPFQQPH,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ly6a_mouse/Ly6a_mouse_pep_001_complex.fasta,86,8,94
+Ly6a_mouse,pep_002,YAFDVGGRGRRRG,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ly6a_mouse/Ly6a_mouse_pep_002_complex.fasta,86,13,99
+Ly6a_mouse,pep_003,RLFMRVYSPTTRTTG,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ly6a_mouse/Ly6a_mouse_pep_003_complex.fasta,86,15,101
+Ly6a_mouse,pep_004,KFVQTGYGRP,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ly6a_mouse/Ly6a_mouse_pep_004_complex.fasta,86,10,96
+Ecscr_mouse,pep_000,LIVVYPVNTGNH,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ecscr_mouse/Ecscr_mouse_pep_000_complex.fasta,162,12,174
+Ecscr_mouse,pep_001,HAPFQQPH,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ecscr_mouse/Ecscr_mouse_pep_001_complex.fasta,162,8,170
+Ecscr_mouse,pep_002,YAFDVGGRGRRRG,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ecscr_mouse/Ecscr_mouse_pep_002_complex.fasta,162,13,175
+Ecscr_mouse,pep_003,RLFMRVYSPTTRTTG,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ecscr_mouse/Ecscr_mouse_pep_003_complex.fasta,162,15,177
+Ecscr_mouse,pep_004,KFVQTGYGRP,../data/processed/multi_receptor_reward_guided_rl/cycle_01/alphafold_inputs/Ecscr_mouse/Ecscr_mouse_pep_004_complex.fasta,162,10,172

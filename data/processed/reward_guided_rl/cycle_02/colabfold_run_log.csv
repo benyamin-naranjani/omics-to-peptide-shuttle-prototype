@@ -1,0 +1,6 @@
+query_name,fasta_file,result_dir,returncode,elapsed_seconds,elapsed_minutes,n_pdb_files,n_score_json_files,success
+Ly6a_mouse_pep_000,../data/processed/reward_guided_rl/cycle_02/alphafold_inputs/Ly6a_mouse_pep_000_complex.fasta,../data/processed/reward_guided_rl/cycle_02/alphafold_results/Ly6a_mouse_pep_000,0,285.6952559380006,4.761587598966677,1,1,True
+Ly6a_mouse_pep_001,../data/processed/reward_guided_rl/cycle_02/alphafold_inputs/Ly6a_mouse_pep_001_complex.fasta,../data/processed/reward_guided_rl/cycle_02/alphafold_results/Ly6a_mouse_pep_001,0,282.1398798059963,4.7023313300999385,1,1,True
+Ly6a_mouse_pep_002,../data/processed/reward_guided_rl/cycle_02/alphafold_inputs/Ly6a_mouse_pep_002_complex.fasta,../data/processed/reward_guided_rl/cycle_02/alphafold_results/Ly6a_mouse_pep_002,0,270.21985013599624,4.503664168933271,1,1,True
+Ly6a_mouse_pep_003,../data/processed/reward_guided_rl/cycle_02/alphafold_inputs/Ly6a_mouse_pep_003_complex.fasta,../data/processed/reward_guided_rl/cycle_02/alphafold_results/Ly6a_mouse_pep_003,0,279.13675914600026,4.652279319100004,1,1,True
+Ly6a_mouse_pep_004,../data/processed/reward_guided_rl/cycle_02/alphafold_inputs/Ly6a_mouse_pep_004_complex.fasta,../data/processed/reward_guided_rl/cycle_02/alphafold_results/Ly6a_mouse_pep_004,0,263.4724627399992,4.39120771233332,1,1,True
