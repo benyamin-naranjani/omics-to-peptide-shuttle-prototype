@@ -1,3 +1,3 @@
 cycle,n_generated,n_receptors,n_colabfold_peptides,n_colabfold_pairs,n_colabfold_success,mean_final_reward,top_final_reward,rl_loss_last,temperature,best_receptor_counts,cycle_dir
-1,100,2,5,10,10,0.20307445526123047,0.3092224895954132,1.493996262550354,1.0,"{""Ecscr_mouse"": 5}",../data/processed/multi_receptor_reward_guided_rl/cycle_01
-2,100,2,5,10,10,0.20675411820411682,0.2452927529811859,0.7278127670288086,1.0,"{""Ecscr_mouse"": 5}",../data/processed/multi_receptor_reward_guided_rl/cycle_02
+1,100,2,5,10,10,0.20307445526123047,0.3092224895954132,-5.153380870819092,1.0,"{""Ecscr_mouse"": 5}",../data/processed/multi_receptor_reward_guided_rl/cycle_01
+2,100,2,5,10,10,0.20675411820411682,0.2452927529811859,1.613256812095642,1.0,"{""Ecscr_mouse"": 5}",../data/processed/multi_receptor_reward_guided_rl/cycle_02
