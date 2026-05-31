@@ -101,13 +101,13 @@
   },
   "training_summary": {
     "cpp_best_epoch": 52,
-    "cpp_best_val_loss": 1.9254250327746074,
-    "cpp_test_loss": 1.9499402195215225,
-    "cpp_test_perplexity": 7.028267414841637,
+    "cpp_best_val_loss": 1.9253921111424763,
+    "cpp_test_loss": 1.9499332308769226,
+    "cpp_test_perplexity": 7.028218296950155,
     "b3p_best_epoch": 77,
-    "b3p_best_val_loss": 2.7454206943511963,
-    "b3p_test_loss": 2.773807644844055,
-    "b3p_test_perplexity": 16.01951465267782
+    "b3p_best_val_loss": 2.7452083826065063,
+    "b3p_test_loss": 2.773916721343994,
+    "b3p_test_perplexity": 16.021262100567874
   },
   "generation_summary": {
     "n_generated": 100,
