@@ -1,6 +1,6 @@
 # Omics-to-Peptide-Shuttle Prototype
 
-A version-controlled computational prototype for omics-guided design and prioritisation of brain-targeting peptides.
+A version-controlled computational prototype for omics-guided target prioritisation and generative peptide design for brain-targeted therapeutic development.
 
 The workflow connects stroke endothelial transcriptomics, target prioritisation, generative peptide modelling, receptor-aware structural triage and reward-guided optimisation.
 
@@ -10,9 +10,9 @@ The workflow connects stroke endothelial transcriptomics, target prioritisation,
 
 ## Preliminary computational feasibility
 
-![Preliminary computational feasibility](figures/computational_feasibility.png)
+[![Preliminary computational feasibility](figures/computational_feasibility.png)](figures/computational_feasibility.png)
 
-**Current prototype results.** Analysis of 7,627 brain endothelial cells identified eight primary stroke-responsive target hypotheses. The peptide generator produced 100 valid and unique peptides, of which 99 were novel relative to the training data. A subsequent 1,000-peptide run yielded 997 unique sequences, with 10 diverse candidates advanced to receptor-aware structural triage. A proof-of-principle reward-guided update demonstrated iterative adaptation of the generator.
+**Current prototype results.** Analysis of 7,627 brain endothelial cells identified eight primary stroke-responsive target hypotheses. The peptide generator produced 100 valid unique peptides, of which 99 were novel relative to the training data. A 1,000-peptide run subsequently yielded 997 unique sequences, with 10 diverse candidates advanced to receptor-aware structural triage. A proof-of-principle reward-guided update demonstrated iterative adaptation of the generator.
 
 These results establish computational feasibility of the workflow but do not demonstrate target binding, BBB transport or therapeutic activity.
 
