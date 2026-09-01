@@ -1,57 +1,55 @@
 # Omics-to-Peptide-Shuttle Prototype
 
-Compact end-to-end prototype for an omics-guided peptide-shuttle design workflow.
+A version-controlled computational prototype for omics-guided design and prioritisation of brain-targeting peptides.
 
-## Aim
+The workflow connects stroke endothelial transcriptomics, target prioritisation, generative peptide modelling, receptor-aware structural triage and reward-guided optimisation.
 
-This repository demonstrates a computational decision chain for stroke-context peptide-shuttle design:
+## Computational workflow
 
-stroke endothelial omics → receptor prioritisation → peptide generator training → receptor-aware structure triage → reward-guided peptide optimisation
+**stroke endothelial omics → target prioritisation → peptide generation → receptor-aware structural triage → reward-guided optimisation**
 
-## Workflow
+## Preliminary computational feasibility
+
+<!-- Figure will be uploaded to the figures/ directory -->
+![Preliminary computational feasibility](figures/preliminary_computational_feasibility.png)
+
+**Current prototype results.** Analysis of 7,627 brain endothelial cells identified eight primary stroke-responsive target hypotheses. The peptide generator produced 100 valid and unique peptides, of which 99 were novel relative to the training data. A subsequent 1,000-peptide run yielded 997 unique sequences, with 10 diverse candidates advanced to receptor-aware structural triage. A proof-of-principle reward-guided update demonstrated iterative adaptation of the generator.
+
+These results establish computational feasibility of the workflow but do not demonstrate target binding, BBB transport or therapeutic activity.
+
+## Workflow implementation
 
 1. `01_gse225948_endothelial_receptor_mining.ipynb`  
-   Mines stroke-responsive endothelial receptor candidates from public single-cell RNA-seq data.
+   Mines stroke-responsive endothelial candidates from public single-cell RNA-seq data and applies surface-accessibility prioritisation.
 
 2. `02_b3pdb_data_downloader.ipynb`  
    Retrieves and cleans B3PDB and CPPsite2 peptide datasets.
 
 3. `03_peptide_transformer_generation_and_scoring.ipynb`  
-   Trains a peptide transformer: CPPsite2 pretraining followed by B3PDB fine-tuning.
+   Trains a peptide transformer using CPPsite2 pretraining followed by B3PDB fine-tuning and generates candidate sequences.
 
 4. `04_receptor_aware_peptide_triage.ipynb`  
-   Generates peptides and performs Ly6a-aware ColabFold triage.
+   Performs physicochemical analysis and Ly6a-aware ColabFold structural triage.
 
 5. `05_reward_guided_peptide_rl_update.ipynb`  
-   Demonstrates single-receptor reward-guided generator update.
+   Demonstrates reward-guided updating of peptide sequence probabilities using receptor-aware computational signals.
 
 6. `06_multi_receptor_structure_triage.ipynb`  
-   Extends the workflow to multi-receptor structure-aware reward-guided optimisation.
-
-## Key features
-
-- Single-cell endothelial receptor mining
-- UniProt-based surface-accessibility annotation
-- Peptide transformer generation
-- Cheap peptide developability and safety heuristics
-- ColabFold-Multimer receptor-peptide triage
-- Structure-aware reward scoring
-- Reward-guided generator update
-- Multi-receptor reward aggregation
+   Extends the workflow to multi-receptor structure-aware triage and reward aggregation.
 
 ## Scope
 
-This is a proof-of-concept prototype. Generated peptides are computational candidates only. ColabFold-derived scores are used as structure-aware triage signals, not binding affinities. No experimental binding, BBB transport, toxicity, or in vivo validation is claimed.
+This repository is a proof-of-concept computational prototype. Generated peptides are computational candidates only. ColabFold-derived metrics are used as structure-aware triage signals rather than binding affinities. No experimental binding, BBB transport, toxicity or in vivo efficacy is claimed.
 
-## Main outputs
+## Outputs
 
-Key outputs are generated under:
+Key processed outputs are generated under:
 
 - `data/processed/`
 - `models/`
 
-Large ColabFold result folders are excluded from version control where appropriate.
+Large ColabFold result directories are excluded from version control where appropriate.
 
 ## Reproducibility
 
-Run notebooks in order from `01` to `06`.
+Run notebooks sequentially from `01` to `06`.
