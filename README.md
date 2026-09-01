@@ -10,8 +10,7 @@ The workflow connects stroke endothelial transcriptomics, target prioritisation,
 
 ## Preliminary computational feasibility
 
-<!-- Figure will be uploaded to the figures/ directory -->
-![Preliminary computational feasibility](figures/preliminary_computational_feasibility.png)
+![Preliminary computational feasibility](figures/computational_feasibility.png)
 
 **Current prototype results.** Analysis of 7,627 brain endothelial cells identified eight primary stroke-responsive target hypotheses. The peptide generator produced 100 valid and unique peptides, of which 99 were novel relative to the training data. A subsequent 1,000-peptide run yielded 997 unique sequences, with 10 diverse candidates advanced to receptor-aware structural triage. A proof-of-principle reward-guided update demonstrated iterative adaptation of the generator.
 
