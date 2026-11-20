@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "status": "blocked_pending_manual_target_and_fragment_approval",
+  "approved_receptors": [],
+  "approved_receptor_fragments": [],
+  "provisional_review_genes_not_approved": [
+    "Ecscr",
+    "Tm4sf1",
+    "Procr"
+  ],
+  "manual_approval_source": "EC_receptor_manual_adjudication_template_v1.csv",
+  "ready_for_colabfold": false,
+  "ready_for_peptide_generation_receptor_conditioning": false,
+  "generation_and_evaluation_metrics_must_remain_separate": true
+}
