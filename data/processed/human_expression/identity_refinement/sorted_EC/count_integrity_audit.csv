@@ -1,0 +1,2 @@
+"dataset_key","assay","layer","n_features","n_cells","n_stored_values","n_positive_values","n_nonfinite_values","n_negative_values","n_fractional_values","maximum_count","n_zero_library_cells","minimum_cell_library_size","median_cell_library_size","maximum_cell_library_size"
+"sorted_EC","RNA","counts",26666,76125,166076688,166076688,0,0,0,19350,0,505,4569,45312

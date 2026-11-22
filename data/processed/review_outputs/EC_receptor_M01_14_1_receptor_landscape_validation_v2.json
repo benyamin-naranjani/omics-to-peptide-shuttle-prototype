@@ -1,0 +1,67 @@
+{
+  "figure_id": "OmiPep_Module01_Cell14.1_v2",
+  "visualization_revision": "v2; 4:3 compact editorial layout, continuous x-axis, minimal labels",
+  "timestamp_utc": "2026-11-22T14:52:06.628353+00:00",
+  "source_sha256": {
+    "audit": "d197b38db69941170c1a1d86f4893c604c3a8562053b4bf5fe6a7597171ed3b3",
+    "selection": "cc7668f7bdf9f0f91117bd93361a537e7df9020593cc01717c304bc1dba63e30"
+  },
+  "input_paths": {
+    "audit": "data/processed/review_outputs/EC_receptor_M01_12_4l_125_gate_audit_v1.csv",
+    "selection": "data/processed/review_outputs/EC_receptor_M01_12_4l_six_receptor_selection_v1.csv"
+  },
+  "relationship_total": 125,
+  "unique_mouse_genes": 114,
+  "stroke_categories_full_125": {
+    "D02 unavailable": 4,
+    "Not significant": 18,
+    "Significantly downregulated": 9,
+    "Significantly upregulated": 94
+  },
+  "plotted_relationships": 110,
+  "plotted_stroke_categories": {
+    "Not significant": 17,
+    "Significantly downregulated": 9,
+    "Significantly upregulated": 84
+  },
+  "missing_D02": 4,
+  "missing_human_CPM": 11,
+  "missing_both": 0,
+  "excluded_from_coordinates": 15,
+  "provisional_primaries": [
+    "PROCR",
+    "TM4SF1"
+  ],
+  "provisional_reserves": [
+    "SELP",
+    "ECSCR",
+    "ACKR1"
+  ],
+  "benchmark_only": "LRP1 (D02 unavailable)",
+  "numeric_y_transform": "log10(1 + human_brain_EC_CPM)",
+  "displayed_y_ticks": [
+    0,
+    1,
+    10,
+    100,
+    1000,
+    10000
+  ],
+  "interpretation_limitations": [
+    "Post-hoc manually adjudicated receptor roles; no prospective automated optimization claimed",
+    "Relationship records sharing one mouse gene do not constitute independent mouse DE observations",
+    "No claim of native human stroke-luminal protein expression, human intact cargo transcytosis, or receptor safety",
+    "Independent benchmark LRP1 excluded from D02 quantification without imputation"
+  ],
+  "outputs": [
+    "data/processed/review_outputs/EC_receptor_M01_14_1_receptor_landscape_source_v2.csv",
+    "data/processed/review_outputs/EC_receptor_M01_14_1_receptor_landscape_caption_v2.txt",
+    "results/figures/module_01/M01_receptor_landscape_14_1_v2.svg",
+    "results/figures/module_01/M01_receptor_landscape_14_1_v2.pdf",
+    "results/figures/module_01/M01_receptor_landscape_14_1_v2.png"
+  ],
+  "input_files_unchanged": true,
+  "no_broken_axis": true,
+  "no_jitter_or_imputation": true,
+  "selection_approval_claimed": false
+}

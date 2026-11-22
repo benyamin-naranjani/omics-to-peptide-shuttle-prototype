@@ -1,0 +1,5 @@
+"dataset_key","assay","assay_class","layer","matrix_class","n_features","n_cells","sparse_matrix","all_metadata_cells_present","metadata_order_identical","candidate_count_layer"
+"sorted_EC","RNA","Assay","counts","dgCMatrix",26666,76125,TRUE,TRUE,TRUE,TRUE
+"sorted_EC","RNA","Assay","data","dgCMatrix",26666,76125,TRUE,TRUE,TRUE,FALSE
+"sorted_EC","integrated","Assay","data","dgCMatrix",3000,76125,TRUE,TRUE,TRUE,FALSE
+"sorted_EC","integrated","Assay","scale.data","matrix;array",3000,76125,FALSE,TRUE,TRUE,FALSE

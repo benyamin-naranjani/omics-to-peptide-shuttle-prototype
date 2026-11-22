@@ -1,0 +1,78 @@
+{
+  "created_utc": "2026-11-21T17:10:02.303439+00:00",
+  "module": "OmiPep v0.2 Module 01",
+  "cell": "12.4f",
+  "microbatch_id": "LIT-R03-02",
+  "relationship_count": 5,
+  "relationship_ids_ordered": [
+    "Orai1::ENSG00000276045",
+    "Orai1::ENSG00000293604",
+    "Tspan4::ENSG00000214063",
+    "Car4::ENSG00000167434",
+    "Ostc::ENSG00000198856"
+  ],
+  "mouse_genes_ordered": [
+    "Orai1",
+    "Orai1",
+    "Tspan4",
+    "Car4",
+    "Ostc"
+  ],
+  "upstream_literature_column_names": [
+    "is_curated_reference",
+    "reference_category",
+    "reference_description",
+    "orthology_evidence_source",
+    "EC_vs_non_EC_reference_higher_donor_pct",
+    "capillary_vs_arterial_reference_higher_donor_pct",
+    "capillary_vs_venous_reference_higher_donor_pct",
+    "mouse_surface_evidence_available",
+    "computational_evidence_status",
+    "luminal_accessibility_evidence",
+    "internalisation_evidence",
+    "intracellular_trafficking_evidence",
+    "BBB_transcytosis_evidence",
+    "systemic_off_target_evidence",
+    "literature_delivery_category",
+    "n_reviewed_publications",
+    "n_literature_evidence_records",
+    "literature_source_ids",
+    "literature_source_urls",
+    "literature_endpoint_categories",
+    "literature_review_status",
+    "literature_species_scope",
+    "literature_primary_profile_available",
+    "n_publication_identifiers",
+    "n_matched_publication_identifiers",
+    "n_directly_reviewed_PMIDs",
+    "human_orthology_evidence_lane",
+    "delivery_evidence_family",
+    "primary_claim_reconciliation",
+    "targeted_literature_available",
+    "primary_literature_review_pending",
+    "selection_claim",
+    "reference_ligand_format_context",
+    "primary_literature_context",
+    "transcytosis_caveat"
+  ],
+  "source_input_hashes_sha256": {
+    "dossier": "a4c65b9d5cd90785174ec03ccd94dcd6c0aab5b55c8e2b36ef8952ef486ef6f7",
+    "expert": "8e0758afe01b3cffc6cf4890abcfd3c30a33c9f05cc9ba5c3d4ee067f3e33f2c",
+    "worklist": "9f97de2d77615e2a3267920c789e3ec9c65293d2eac9478a6ded5fa4ed701767",
+    "sessions": "2546eceaf69f3fdc87ef85f4349e090f78b419fba14533b9b23491e1e01c6f4c",
+    "provenance": "380263487a41e8f9ce9a0879cd562d23b12aa0d2868a980dab6a44ed8859d079"
+  },
+  "generated_file_hashes_sha256": {
+    "dossier": "580006944e78520d5332fef863dccfc825311da64919fc546925fed043fc2d46",
+    "expert": "dcabe6b2869d11f03853be615c86c80adb83606caba2a65e50e5745972b5533a",
+    "worklist": "a9acefefcdb56405fe5f01219379cb9a366a9e671df2c62355705c4709681b20",
+    "source_claims": "43774043246a6275db3498c0729da963dd3e4f290c15937aae8b5a4e1bd776a4"
+  },
+  "evidence_status": "UNVERIFIED — source annotations only",
+  "notes": [
+    "No DOI or paper independently checked; inherited claims are not evidence validation.",
+    "Original 541-column dossier remains unchanged.",
+    "Never interpret binding or uptake as intact BBB transcytosis.",
+    "No Google Sheet edits or receptor approvals performed."
+  ]
+}

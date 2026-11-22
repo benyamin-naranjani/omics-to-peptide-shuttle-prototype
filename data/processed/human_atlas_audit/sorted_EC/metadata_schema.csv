@@ -1,0 +1,6 @@
+"column","original_class","scalar_csv_compatible","n_missing","n_unique_nonmissing"
+"PATH","character",TRUE,0,1
+"ECclusters","character",TRUE,0,12
+"Patient","factor",TRUE,0,9
+"sex","factor",TRUE,0,2
+"age","factor",TRUE,0,7

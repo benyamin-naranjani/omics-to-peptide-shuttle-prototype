@@ -1,0 +1,21 @@
+
+Dataset: sorted_EC 
+Reading original Seurat object...
+Seurat object loaded successfully.
+Stored object version: 4.1.3 
+In-memory object size: 7.7 Gb 
+Default assay: RNA 
+Total cells: 76125 
+Metadata dimensions: 76125 5 
+Metadata columns: PATH, ECclusters, Patient, sex, age 
+
+Assay: RNA | Class: Assay | Layers: counts, data 
+   counts : 26666 features x 76125 cells
+   data : 26666 features x 76125 cells
+
+Assay: integrated | Class: Assay | Layers: data, scale.data 
+   data : 3000 features x 76125 cells
+   scale.data : 3000 features x 76125 cells
+
+Metadata and assay inspection completed.
+Seurat object released from memory.

@@ -1,0 +1,30 @@
+{
+  "figure_id": "Cell 14.2 v2",
+  "inputs": {
+    "pub_table": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4m_six_receptor_publication_table_v1.csv",
+    "selection": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4l_six_receptor_selection_v1.csv",
+    "ledger": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4k_fulltext_paper_ledger_v6.csv"
+  },
+  "input_sha256": {
+    "pub_table": "58b9946e6d11d965f531f5a5126c7769bda8785d6bad0e9c64fe1bb11e9de1f7",
+    "selection": "cc7668f7bdf9f0f91117bd93361a537e7df9020593cc01717c304bc1dba63e30",
+    "ledger": "0b825a5322cb8045a038513a80c3b66f2c93ecabd94092e50cdbbd4f7584e5eb"
+  },
+  "receptor_count": 6,
+  "paper_count": 19,
+  "font_used": "Arial",
+  "svg_text_nodes": 55,
+  "notes": [
+    "Compact redesign intended as a small main-figure panel candidate.",
+    "Delivery precedent is summarized conservatively and does not imply approved shuttle function.",
+    "Peripheral HPA endothelial RNA provides exposure context only.",
+    "No approved engineered peptide blood-to-brain shuttle is claimed for any receptor."
+  ],
+  "outputs": {
+    "figure_svg": "/home/bnaranjani/projects/omipep-omics-human-v0.2/results/figures/module_01/M01_receptor_evidence_safety_matrix_14_2_v2.svg",
+    "figure_pdf": "/home/bnaranjani/projects/omipep-omics-human-v0.2/results/figures/module_01/M01_receptor_evidence_safety_matrix_14_2_v2.pdf",
+    "figure_png": "/home/bnaranjani/projects/omipep-omics-human-v0.2/results/figures/module_01/M01_receptor_evidence_safety_matrix_14_2_v2.png",
+    "source_csv": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_14_2_evidence_safety_matrix_source_v2.csv",
+    "caption_txt": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_14_2_evidence_safety_matrix_caption_v2.txt"
+  }
+}

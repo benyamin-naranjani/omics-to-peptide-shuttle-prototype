@@ -1,0 +1,49 @@
+{
+  "version": "Cell 12.4m v2",
+  "relationship_universe": 125,
+  "mouse_genes": 114,
+  "six_receptor_order": [
+    "PROCR",
+    "TM4SF1",
+    "SELP",
+    "ECSCR",
+    "ACKR1",
+    "LRP1"
+  ],
+  "provisional_primary": [
+    "PROCR",
+    "TM4SF1"
+  ],
+  "independent_benchmark": "LRP1",
+  "fulltext_ledger_publications": 19,
+  "receptor_evidence_links": 19,
+  "DOIs_retained_in_source_and_working_document": true,
+  "quantitative_stroke_and_human_EC_values_retained_in_source_not_table": true,
+  "approval": "NONE",
+  "source_sha256_before": {
+    "publication_v1": "58b9946e6d11d965f531f5a5126c7769bda8785d6bad0e9c64fe1bb11e9de1f7",
+    "selection": "cc7668f7bdf9f0f91117bd93361a537e7df9020593cc01717c304bc1dba63e30",
+    "gate_audit": "d197b38db69941170c1a1d86f4893c604c3a8562053b4bf5fe6a7597171ed3b3",
+    "ledger": "0b825a5322cb8045a038513a80c3b66f2c93ecabd94092e50cdbbd4f7584e5eb"
+  },
+  "source_sha256_after": {
+    "publication_v1": "58b9946e6d11d965f531f5a5126c7769bda8785d6bad0e9c64fe1bb11e9de1f7",
+    "selection": "cc7668f7bdf9f0f91117bd93361a537e7df9020593cc01717c304bc1dba63e30",
+    "gate_audit": "d197b38db69941170c1a1d86f4893c604c3a8562053b4bf5fe6a7597171ed3b3",
+    "ledger": "0b825a5322cb8045a038513a80c3b66f2c93ecabd94092e50cdbbd4f7584e5eb"
+  },
+  "source_paths": {
+    "publication_v1": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4m_six_receptor_publication_table_v1.csv",
+    "selection": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4l_six_receptor_selection_v1.csv",
+    "gate_audit": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4l_125_gate_audit_v1.csv",
+    "ledger": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4k_fulltext_paper_ledger_v6.csv"
+  },
+  "exports": {
+    "manuscript_docx": "/home/bnaranjani/projects/omipep-omics-human-v0.2/results/figures/module_01/M01_receptor_selection_table_12_4m_v2.docx",
+    "working_DOI_docx": "/home/bnaranjani/projects/omipep-omics-human-v0.2/results/figures/module_01/M01_receptor_selection_table_12_4m_v2_working_DOIs.docx",
+    "source_csv": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4m_six_receptor_publication_table_v2.csv",
+    "evidence_map": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4m_DOI_evidence_map_v2.csv",
+    "caption": "/home/bnaranjani/projects/omipep-omics-human-v0.2/data/processed/review_outputs/EC_receptor_M01_12_4m_table_caption_v2.txt",
+    "preview": "/home/bnaranjani/projects/omipep-omics-human-v0.2/results/figures/module_01/M01_receptor_selection_table_12_4m_v2"
+  }
+}

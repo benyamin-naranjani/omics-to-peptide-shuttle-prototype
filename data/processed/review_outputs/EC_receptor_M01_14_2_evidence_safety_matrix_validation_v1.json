@@ -1,0 +1,58 @@
+{
+  "module": "M01",
+  "cell": "14.2",
+  "output_version": "v1",
+  "relationship_universe": 125,
+  "mouse_genes": 114,
+  "reviewed_paper_count": 19,
+  "n_receptors": 6,
+  "n_cells": 42,
+  "provisional_primaries": [
+    "PROCR",
+    "TM4SF1"
+  ],
+  "provisional_reserves": [
+    "SELP",
+    "ECSCR",
+    "ACKR1"
+  ],
+  "benchmark": [
+    "LRP1"
+  ],
+  "all_receptor_approvals_pending": true,
+  "manual_cell_interpretation_not_machine_score": true,
+  "level_counts": {
+    "access:observed": 4,
+    "uptake:observed": 4,
+    "brainward:observed": 3,
+    "peptide:unestablished": 6,
+    "function:observed": 5,
+    "barrier:unknown": 5,
+    "epitope:observed": 2,
+    "brainward:unestablished": 2,
+    "barrier:observed": 1,
+    "epitope:potential": 4,
+    "access:contextual": 2,
+    "uptake:contextual": 2,
+    "brainward:reverse": 1,
+    "function:potential": 1
+  },
+  "font_family": "Arial",
+  "font_resolved_path": "/mnt/c/Windows/Fonts/arial.ttf",
+  "SVG_editable_text_nodes": 130,
+  "input_sha256": {
+    "data/processed/review_outputs/EC_receptor_M01_12_4m_six_receptor_publication_table_v1.csv": "58b9946e6d11d965f531f5a5126c7769bda8785d6bad0e9c64fe1bb11e9de1f7",
+    "data/processed/review_outputs/EC_receptor_M01_12_4l_six_receptor_selection_v1.csv": "cc7668f7bdf9f0f91117bd93361a537e7df9020593cc01717c304bc1dba63e30",
+    "data/processed/review_outputs/EC_receptor_M01_12_4l_125_gate_audit_v1.csv": "d197b38db69941170c1a1d86f4893c604c3a8562053b4bf5fe6a7597171ed3b3",
+    "data/processed/review_outputs/EC_receptor_M01_12_4k_fulltext_paper_ledger_v6.csv": "0b825a5322cb8045a038513a80c3b66f2c93ecabd94092e50cdbbd4f7584e5eb",
+    "data/processed/review_inputs/EC_receptor_M01_14_2_endpoint_risk_adjudication_v1.csv": "90aaeea9701c9082ca3a07a475dd959ad29174780a909d4d2e9b283c0e651b51"
+  },
+  "output_sha256": {
+    "M01_receptor_evidence_safety_matrix_14_2_v1.svg": "0fb470117e406fbaf9519702d139478309f2c831c6f104d4e626730657b339ff",
+    "M01_receptor_evidence_safety_matrix_14_2_v1.pdf": "8fcaace773479afcea834c733b9eb8f4d74418ac73f6d6673ada7b65974ec360",
+    "M01_receptor_evidence_safety_matrix_14_2_v1.png": "11d6706d183a95a48f317ed9e37371a89038ead17d581ccf766403ef756245cc",
+    "EC_receptor_M01_14_2_evidence_safety_matrix_source_v1.csv": "ccb348468076d1a9e9333a2bb3c71860d94324f5dd3668384426449fb9098719",
+    "EC_receptor_M01_14_2_evidence_safety_matrix_caption_v1.txt": "c830f0dfa739c2178bc5a33166d4f8b999b2454569bd110329636bfa67f085a4"
+  },
+  "safe_scope_statement": "Contextual receptor/pathway evidence only; does not show clinical or engineered-peptide safety"
+}

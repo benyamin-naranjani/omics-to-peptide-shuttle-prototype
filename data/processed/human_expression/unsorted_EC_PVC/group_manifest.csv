@@ -1,0 +1,66 @@
+group_id,dataset_key,donor_id,sex,age_years,primary_adult_cohort,cell_class,n_cells
+H0106,unsorted_EC_PVC,TL10,Male,24,True,Astrocytes,159
+H0107,unsorted_EC_PVC,TL10,Male,24,True,Endothelial cells,2486
+H0108,unsorted_EC_PVC,TL10,Male,24,True,Fibroblasts,225
+H0109,unsorted_EC_PVC,TL10,Male,24,True,Microglia and Macrophages,6695
+H0110,unsorted_EC_PVC,TL10,Male,24,True,Neuron progenitor,2
+H0111,unsorted_EC_PVC,TL10,Male,24,True,Neurons,15
+H0112,unsorted_EC_PVC,TL10,Male,24,True,Oligodendrocytes,1466
+H0113,unsorted_EC_PVC,TL10,Male,24,True,Pericytes,959
+H0114,unsorted_EC_PVC,TL10,Male,24,True,Smooth muscle cells,1090
+H0115,unsorted_EC_PVC,TL10,Male,24,True,Stem cells,8
+H0116,unsorted_EC_PVC,TL10,Male,24,True,T cells,436
+H0117,unsorted_EC_PVC,TL5,Female,69,True,Astrocytes,195
+H0118,unsorted_EC_PVC,TL5,Female,69,True,Endothelial cells,1199
+H0119,unsorted_EC_PVC,TL5,Female,69,True,Fibroblasts,177
+H0120,unsorted_EC_PVC,TL5,Female,69,True,Microglia and Macrophages,3209
+H0121,unsorted_EC_PVC,TL5,Female,69,True,Neuron progenitor,4
+H0122,unsorted_EC_PVC,TL5,Female,69,True,Neurons,9
+H0123,unsorted_EC_PVC,TL5,Female,69,True,Oligodendrocytes,418
+H0124,unsorted_EC_PVC,TL5,Female,69,True,Pericytes,420
+H0125,unsorted_EC_PVC,TL5,Female,69,True,Smooth muscle cells,1200
+H0126,unsorted_EC_PVC,TL5,Female,69,True,Stem cells,25
+H0127,unsorted_EC_PVC,TL5,Female,69,True,T cells,191
+H0128,unsorted_EC_PVC,TL6,Male,24,True,Astrocytes,113
+H0129,unsorted_EC_PVC,TL6,Male,24,True,Endothelial cells,521
+H0130,unsorted_EC_PVC,TL6,Male,24,True,Fibroblasts,154
+H0131,unsorted_EC_PVC,TL6,Male,24,True,Microglia and Macrophages,3174
+H0132,unsorted_EC_PVC,TL6,Male,24,True,Neuron progenitor,2
+H0133,unsorted_EC_PVC,TL6,Male,24,True,Neurons,4
+H0134,unsorted_EC_PVC,TL6,Male,24,True,Oligodendrocytes,165
+H0135,unsorted_EC_PVC,TL6,Male,24,True,Pericytes,289
+H0136,unsorted_EC_PVC,TL6,Male,24,True,Smooth muscle cells,425
+H0137,unsorted_EC_PVC,TL6,Male,24,True,Stem cells,4
+H0138,unsorted_EC_PVC,TL6,Male,24,True,T cells,151
+H0139,unsorted_EC_PVC,TL7,Female,39,True,Astrocytes,202
+H0140,unsorted_EC_PVC,TL7,Female,39,True,Endothelial cells,131
+H0141,unsorted_EC_PVC,TL7,Female,39,True,Fibroblasts,10
+H0142,unsorted_EC_PVC,TL7,Female,39,True,Microglia and Macrophages,3676
+H0143,unsorted_EC_PVC,TL7,Female,39,True,Neuron progenitor,5
+H0144,unsorted_EC_PVC,TL7,Female,39,True,Neurons,4
+H0145,unsorted_EC_PVC,TL7,Female,39,True,Oligodendrocytes,45
+H0146,unsorted_EC_PVC,TL7,Female,39,True,Pericytes,46
+H0147,unsorted_EC_PVC,TL7,Female,39,True,Smooth muscle cells,53
+H0148,unsorted_EC_PVC,TL7,Female,39,True,T cells,128
+H0149,unsorted_EC_PVC,TL8,Male,48,True,Astrocytes,4468
+H0150,unsorted_EC_PVC,TL8,Male,48,True,Endothelial cells,821
+H0151,unsorted_EC_PVC,TL8,Male,48,True,Fibroblasts,317
+H0152,unsorted_EC_PVC,TL8,Male,48,True,Microglia and Macrophages,5495
+H0153,unsorted_EC_PVC,TL8,Male,48,True,Neuron progenitor,1157
+H0154,unsorted_EC_PVC,TL8,Male,48,True,Neurons,15903
+H0155,unsorted_EC_PVC,TL8,Male,48,True,Oligodendrocytes,9
+H0156,unsorted_EC_PVC,TL8,Male,48,True,Pericytes,143
+H0157,unsorted_EC_PVC,TL8,Male,48,True,Smooth muscle cells,199
+H0158,unsorted_EC_PVC,TL8,Male,48,True,Stem cells,2306
+H0159,unsorted_EC_PVC,TL8,Male,48,True,T cells,138
+H0160,unsorted_EC_PVC,TL9,Male,25,True,Astrocytes,351
+H0161,unsorted_EC_PVC,TL9,Male,25,True,Endothelial cells,1655
+H0162,unsorted_EC_PVC,TL9,Male,25,True,Fibroblasts,257
+H0163,unsorted_EC_PVC,TL9,Male,25,True,Microglia and Macrophages,11381
+H0164,unsorted_EC_PVC,TL9,Male,25,True,Neuron progenitor,12
+H0165,unsorted_EC_PVC,TL9,Male,25,True,Neurons,7
+H0166,unsorted_EC_PVC,TL9,Male,25,True,Oligodendrocytes,1675
+H0167,unsorted_EC_PVC,TL9,Male,25,True,Pericytes,968
+H0168,unsorted_EC_PVC,TL9,Male,25,True,Smooth muscle cells,2638
+H0169,unsorted_EC_PVC,TL9,Male,25,True,Stem cells,9
+H0170,unsorted_EC_PVC,TL9,Male,25,True,T cells,716

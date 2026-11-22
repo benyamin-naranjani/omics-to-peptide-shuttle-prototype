@@ -1,0 +1,21 @@
+
+Dataset: unsorted_EC_PVC 
+Reading original Seurat object...
+Seurat object loaded successfully.
+Stored object version: 4.1.3 
+In-memory object size: 7.1 Gb 
+Default assay: RNA 
+Total cells: 80515 
+Metadata dimensions: 80515 4 
+Metadata columns: Cellclusters, Patient, sex, age 
+
+Assay: RNA | Class: Assay | Layers: counts, data 
+   counts : 17349 features x 80515 cells
+   data : 17349 features x 80515 cells
+
+Assay: integrated | Class: Assay | Layers: data, scale.data 
+   data : 3000 features x 80515 cells
+   scale.data : 3000 features x 80515 cells
+
+Metadata and assay inspection completed.
+Seurat object released from memory.

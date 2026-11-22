@@ -1,0 +1,5 @@
+"column","original_class","scalar_csv_compatible","n_missing","n_unique_nonmissing"
+"Cellclusters","factor",TRUE,0,11
+"Patient","factor",TRUE,0,6
+"sex","factor",TRUE,0,2
+"age","factor",TRUE,0,5

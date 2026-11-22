@@ -1,0 +1,16 @@
+
+Dataset: unsorted_EC_PVC 
+Reading original Seurat object...
+RNA count matrix: 17349 features x 80515 cells
+Auditing sparse count values...
+      dataset_key assay  layer n_features n_cells n_stored_values
+1 unsorted_EC_PVC   RNA counts      17349   80515       136763221
+  n_positive_values n_nonfinite_values n_negative_values n_fractional_values
+1         136763221                  0                 0                   0
+  maximum_count n_zero_library_cells minimum_cell_library_size
+1         10746                    0                       583
+  median_cell_library_size maximum_cell_library_size
+1                     3247                     84594
+Deposited count-matrix integrity verified.
+Aggregating 45 mapped human genes into 65 donor-cell-class groups...
+Donor-level count extraction completed.

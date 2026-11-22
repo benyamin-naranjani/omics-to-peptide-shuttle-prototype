@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1203.12pt" height="511.92pt" viewBox="0 0 1203.12 511.92" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T16:41:41.981201</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 511.92 
+L 1203.12 511.92 
+L 1203.12 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 18.72 59.76 
+L 1184.4 59.76 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #202020; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 18.72 105.84 
+L 1184.4 105.84 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #202020; stroke-width: 0.65; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 18.72 158.4 
+L 1184.4 158.4 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #d0d0d0; stroke-width: 0.38; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 18.72 210.96 
+L 1184.4 210.96 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #d0d0d0; stroke-width: 0.38; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 18.72 263.52 
+L 1184.4 263.52 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #d0d0d0; stroke-width: 0.38; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 18.72 316.08 
+L 1184.4 316.08 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #d0d0d0; stroke-width: 0.38; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 18.72 368.64 
+L 1184.4 368.64 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #d0d0d0; stroke-width: 0.38; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 18.72 368.64 
+L 1184.4 368.64 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #808080; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 18.72 421.2 
+L 1184.4 421.2 
+" clip-path="url(#p10bd510a00)" style="fill: none; stroke: #d0d0d0; stroke-width: 0.38; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Arial'; text-anchor: start; fill: #202020" x="18.72" y="39.105352" transform="rotate(-0 18.72 39.105352)">Table 1  Biological evidence and translational constraints of candidate receptors</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 70.871396)">Receptor /</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 80.666807)">role</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 70.871396)">Luminal and structural</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 80.666807)">context</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start; fill: #202020" x="352.8" y="75.769102" transform="rotate(-0 352.8 75.769102)">Transport precedent</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; text-anchor: start; fill: #202020" x="584.64" y="75.769014" transform="rotate(-0 584.64 75.769014)">Functional liability</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; fill: #202020" transform="translate(781.92 70.871396)">Peripheral EC RNA</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; fill: #202020" transform="translate(781.92 80.666807)">peak</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 70.871396)">Critical unresolved</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 80.666807)">requirement</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 123.795038)">PROCR</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 133.806012)">Primary 1</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 144.767865)">(provisional)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 123.594616)">Functional access at mouse</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 133.770583)">BBB; human stroke luminal</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 144.311378)">epitope unverified. ECD</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 154.995282)">identity: 66.8%.</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 123.645007)">Native APC: blood-to-brain</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 133.524677)">transport in mouse; no</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 144.208581)">engineered peptide.</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 122.842788)">APC/protein C competition;</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 133.487052)">coagulation and PAR1</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 144.208581)">signalling.</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.6px; font-family: 'Arial'; text-anchor: start; fill: #202020" x="781.92" y="122.752757" transform="rotate(-0 781.92 122.752757)">Thymus: 339.6 nTPM</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 122.739991)">Noncompeting human luminal epitope;</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 133.524677)">intact peptide transport and</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 144.260987)">coagulation safety.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 176.352303)">TM4SF1</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 186.366012)">Primary 2</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 197.327865)">(provisional)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 175.350382)">Human peripheral-vessel</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 186.086692)">surface binding;</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 196.781347)">glycan-sensitive EL2 epitope.</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 207.555282)">ECD identity: 77.3%.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 175.299991)">Antibody internalization in</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 186.086692)">human EC; BBB transcytosis not</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 197.623206)">demonstrated.</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 175.350382)">Vascular repair and</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 186.034286)">angiogenesis; epitope- and</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 196.768581)">payload-dependent risks.</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.6px; font-family: 'Arial'; text-anchor: start; fill: #202020" x="781.92" y="175.648694" transform="rotate(-0 781.92 175.648694)">Skin: 5,464.6 nTPM</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 175.350382)">Native human brain luminal epitope;</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 186.034286)">glycan-aware binder and intact</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 196.818972)">peptide transport.</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 228.912303)">SELP</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 239.833824)">Conditional</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 249.89265)">reserve</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 228.765007)">Activated tumour/inflamed</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 238.890583)">brain vessels; human stroke</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 250.233597)">luminal level unknown. ECD</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 260.115282)">identity: 72.6%.</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 227.910382)">Fucoidan nanoparticles:</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 238.594286)">tumour-BBB delivery; no</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 249.431378)">free-peptide evidence.</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 227.912397)">Platelet/leukocyte adhesion</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 238.646692)">and inflammatory barrier</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 249.328581)">leakage.</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.6px; font-family: 'Arial'; text-anchor: start; fill: #202020" x="781.92" y="227.872757" transform="rotate(-0 781.92 227.872757)">Lung: 158.2 nTPM</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 228.156288)">Human stroke luminal abundance;</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 238.644677)">monovalent peptide transport and</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 249.380987)">platelet safety.</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 281.472303)">ECSCR</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 292.342555)">Reserve</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 280.768694)">Cultured endothelial surface;</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 292.008911)">native human brain luminal</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 301.940987)">status unknown. ECD identity:</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 313.466751)">46.1%.</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 281.325007)">VEGFR2/KDR-associated</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 291.206692)">trafficking; no cargo BBB</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 301.091065)">passage.</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 280.472397)">VEGF/KDR signalling,</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 291.204677)">vascular repair and</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 301.940987)">systemic metabolic effects.</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.6px; font-family: 'Arial'; text-anchor: start; fill: #202020" x="781.92" y="280.729054" transform="rotate(-0 781.92 280.729054)">Breast: 1,202.2 nTPM</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 280.716288)">Human brain luminal access;</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 291.257083)">receptor-specific uptake and</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 301.888581)">signalling-neutral binder.</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 334.032303)">ACKR1</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 344.902555)">Directional</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 355.01265)">reserve</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 333.328694)">Inflamed CNS venules; native</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 344.568911)">human stroke luminal level</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 354.500987)">unknown. ECD identity: 52.2%.</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 333.834616)">Native chemokines:</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 343.764677)">brain-to-blood transport</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 354.500987)">(opposite direction).</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 333.885007)">Chemokine-mediated</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 343.714286)">leukocyte recruitment;</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 354.448581)">erythrocyte sink.</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(781.92 333.030382)">Fallopian tube:</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(781.92 344.023349)">2,761.6 nTPM</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 333.030382)">Demonstrate blood-to-brain peptide</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 343.714286)">delivery and acceptable</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 354.500987)">erythroid/immune targeting.</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 386.605292)">LRP1</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 396.644293)">Independent</text>
+    <text style="font-size: 8.75px; font-family: 'Arial'; fill: #202020" transform="translate(23.76 408.384076)">benchmark</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 385.539991)">Human brain capillary protein</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 396.570583)">detected; native luminal</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 407.111378)">epitope unresolved. ECD</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(135.36 417.795282)">identity: 98.0%.</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 385.552757)">Angiopep-2 BBB precedent; L57</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 397.128911)">brain tracer does not establish</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(352.8 407.008581)">intact parenchymal cargo.</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 385.539991)">Broad ligand clearance, BBB</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 396.274286)">polarity and peripheral</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(584.64 407.008581)">ligand uptake.</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.6px; font-family: 'Arial'; text-anchor: start; fill: #202020" x="781.92" y="386.405366" transform="rotate(-0 781.92 386.405366)">Liver: 49.1 nTPM</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 385.642788)">Peptide-specific receptor</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 396.324677)">dependence and intact abluminal</text>
+    <text style="font-size: 8.6px; font-family: 'Arial'; fill: #202020" transform="translate(937.44 406.211065)">cargo recovery.</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.1px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="18.72" y="442.937021" transform="rotate(-0 18.72 442.937021)">Roles are provisional post-hoc; LRP1 is an independent benchmark. ECD: extracellular domain; EC: endothelial cell.</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8.1px; font-family: 'Arial'; text-anchor: start; fill: #555555" x="18.72" y="459.497021" transform="rotate(-0 18.72 459.497021)">Human brain atlas CPM and HPA nTPM are not directly comparable. No binder or intact engineered-peptide BBB shuttle is approved.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p10bd510a00">
+   <rect x="5.76" y="5.76" width="1191.6" height="500.4"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,16 @@
+
+Dataset: sorted_EC 
+Reading original Seurat object...
+RNA count matrix: 26666 features x 76125 cells
+Auditing sparse count values...
+  dataset_key assay  layer n_features n_cells n_stored_values n_positive_values
+1   sorted_EC   RNA counts      26666   76125       166076688         166076688
+  n_nonfinite_values n_negative_values n_fractional_values maximum_count
+1                  0                 0                   0         19350
+  n_zero_library_cells minimum_cell_library_size median_cell_library_size
+1                    0                       505                     4569
+  maximum_cell_library_size
+1                     45312
+Deposited count-matrix integrity verified.
+Aggregating 498 mapped human genes into 105 donor-cell-class groups...
+Donor-level count extraction completed.

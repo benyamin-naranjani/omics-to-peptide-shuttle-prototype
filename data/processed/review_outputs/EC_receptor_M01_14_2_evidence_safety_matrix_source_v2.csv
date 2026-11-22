@@ -1,0 +1,16 @@
+receptor,role,status_code,delivery_precedent_short,liability_short,peripheral_site,peripheral_ntpm,evidence_class,reviewed_dois,paper_count,evidence_source_relationship_id
+PROCR,Discovery,provisional_primary_1,"Native APC blood→brain
+(mouse BBB)",APC / PAR1 pathway,Thymus,339.6,direct,10.1038/jcbfm.2008.117; 10.1182/blood-2009-03-208900; 10.1182/blood-2002-12-3680,3,Procr::ENSG00000101000
+TM4SF1,Discovery,provisional_primary_2,"Antibody uptake only
+(no BBB transport)","Vascular repair;
+glycan/species epitope",Skin,5464.6,limited,10.1007/s10456-014-9437-2; 10.1016/j.bbrc.2015.07.142; 10.1002/ccs3.12031; 10.3390/ijms27104437,4,Tm4sf1::ENSG00000169908
+SELP,Discovery,conditional_reserve_1,"Fucoidan NP blood→brain
+(tumor BBB)","Thrombo-inflammation;
+leak context",Lung,158.2,contextual,10.1038/s41563-023-01481-9; 10.1186/1471-2202-11-12; 10.1083/jcb.124.4.435,3,Selp::ENSG00000174175
+ECSCR,Discovery,reserve_2,"KDR-linked trafficking only
+(no shuttle shown)",VEGF / KDR signaling,Breast,1202.2,contextual,10.1182/blood-2009-10-248856; 10.1074/jbc.m112.413542; 10.1038/ncomms3389,3,Ecscr::ENSG00000249751
+ACKR1,Discovery,direction_mismatch_reserve,"Reverse chemokine flux
+(brain→blood)","Chemokine axis;
+erythroid sink",Fallopian tube,2761.6,reverse,10.1093/brain/awu045; 10.1038/ni.1675; 10.1016/j.cell.2024.07.005,3,Ackr1::ENSG00000213088
+LRP1,Benchmark,benchmark_only,"Angiopep-2 / L57
+benchmark comparator",Broad ligand clearance,Liver,49.1,contextual,10.1111/j.1471-4159.2008.05492.x; 10.1016/j.bbrep.2017.07.003; 10.1016/j.xphs.2020.09.019,3,Lrp1::ENSG00000123384
