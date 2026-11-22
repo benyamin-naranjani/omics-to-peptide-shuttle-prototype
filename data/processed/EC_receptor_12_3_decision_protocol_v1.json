@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "purpose": "pre-decision evidence gates, manual review audit and benchmark planning",
+  "not_preregistered": true,
+  "decision_units": "individual_mouse_gene_and_specific_human_gene_relationship",
+  "decision_rule_ids": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07",
+    "D08",
+    "D09",
+    "D10"
+  ],
+  "role_examples_not_selection": {
+    "exploratory_deep_review": [
+      "Ecscr",
+      "Tm4sf1",
+      "Procr"
+    ],
+    "references": [
+      "Lrp1",
+      "Tfrc",
+      "Insr",
+      "Igf1r",
+      "Slc3a2"
+    ]
+  },
+  "manual_sheet_is_read_only": true,
+  "no_automatic_selection_or_exclusion": true,
+  "no_composite_score": true,
+  "no_fragment_approval": true,
+  "no_generated_peptide_transport_claim": true,
+  "evidence_claim_levels_separate": [
+    "mouse_stroke_transcriptomic_association",
+    "human_EC_transcriptomic_context",
+    "native_receptor_structure_feasibility",
+    "published_ligand_transport_context",
+    "experimental_intact_generated_peptide_delivery_not_demonstrated"
+  ],
+  "limitations": [
+    "73 of 125 structural relationships and 72 of 114 genes had pending targeted primary literature review in 12.1",
+    "HPA contains no supported exact brain EC comparator; peripheral nTPM is not quantitative ligand binding",
+    "One-to-many orthologues remain separate; never use a maximum across relationships for choosing a human target",
+    "An entered manual modeling choice or coordinate string is not a structurally approved fragment",
+    "Human control brain transcriptomics does not verify human stroke receptor expression or cargo transport"
+  ]
+}

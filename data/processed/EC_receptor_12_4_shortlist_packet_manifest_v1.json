@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "generated_utc": "2026-11-20T08:05:38.273432+00:00",
+  "inputs_sha256": {
+    "comparison": "b971eaf77c8d0d3a7e68ca97c6eadd239028d53a67d31f99cb433e38bdca58f7",
+    "decision": "835d2819a92b1e67477b58a8445d19ab9a678ce64c792747d08a422433b9a928",
+    "manual": "2b3daca2dd21e99d4ec530fa26f2f50f0c0d511f02d0212ee79110eb7516c081",
+    "rules": "4c58481c576576620b17d78cc8c5f262ad2410c1614d8b59ac8340f406e32d64",
+    "controls": "c5f30dc68062ccdc51cf1f13bcdaf23e1653fc3300a3c2a6459641a6e8858890"
+  },
+  "manual_adjudication_untouched": true,
+  "provisional_review_examples": [
+    "Ecscr",
+    "Tm4sf1",
+    "Procr"
+  ],
+  "not_a_rank": true,
+  "no_composite_score": true,
+  "no_auto_exclusion": true,
+  "no_final_receptor_selection": true,
+  "no_docking_fragment_approval": true,
+  "no_generated_peptide_transport_claim": true,
+  "preserves_all_human_relationships": true,
+  "HPA_brain_EC_matched_ratio_unavailable": true,
+  "manuscript_table": "EC_receptor_12_4_manuscript_decision_table_v1.md",
+  "upstream_gate_ids": [
+    "D01",
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07",
+    "D08",
+    "D09",
+    "D10"
+  ],
+  "independent_control_plan_rows": 11,
+  "limitations": [
+    "Manual adjudication and primary-publication claim reconciliation remain incomplete",
+    "Discussion roles reflect a versioned review agenda, not a final ranking",
+    "Human control-brain RNA does not validate native luminal protein or human stroke delivery",
+    "Peripheral HPA nTPM measures cannot be directly divided by W\u00e4lchli CPM",
+    "Native ligand/antibody/AAV transport is not de novo peptide-cargo transport",
+    "Structural template existence is not receptor fragment approval"
+  ]
+}

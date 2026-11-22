@@ -1,0 +1,95 @@
+{
+  "component": "Module01 Cell12.4k TM4SF1 four-source review",
+  "date": "2026-11-22",
+  "status": "FULL_TEXT_REVIEW_COMPLETE_FOUR_SOURCES__NOT_FINAL_RECEPTOR_APPROVAL",
+  "counts": {
+    "TM4SF1_reviewed_fulltext_papers": 4,
+    "TM4SF1_experiment_records": 31,
+    "cumulative_fulltext_papers": 7,
+    "cumulative_experiments": 47,
+    "shortlist_relationships": 6,
+    "manuscript_rows": 6,
+    "review_leads_pending_fulltext": 4
+  },
+  "input_previous_procr_ledger_sha256": "592ced091a86ccbf06eddaef957ebf7c4d5a3f2a98f1d2a391a200260d55d0df",
+  "input_previous_PROCR_experiment_ledger_sha256": "a08df093d7e6f4e23a53b41d5ec6f89984e9d93bd1f9ccdf207f1c2e3ad7066f",
+  "input_previous_shortlist_v3_sha256": "7b44c703f8aae18ef36fdd0a3bf779741c823243f9e8c1267e47da1434b46af0",
+  "input_previous_manuscript_v1_sha256": "fdc1c18e121729fdc1ee792e9e19c79f09d59fd1dded62d2be2da5760759fba2",
+  "invariants": [
+    "Unchanged previous PROCR paper rows",
+    "Unchanged 16 PROCR experiments",
+    "Only TM4SF1 working shortlist row changed",
+    "Only TM4SF1 manuscript comparison row changed",
+    "All four PDFs hash-verified",
+    "No direct BBB peptide transport described in four uploads",
+    "Nonbrain uptake distinct from BBB transcytosis",
+    "No receptor approved"
+  ],
+  "files": [
+    {
+      "name": "EC_receptor_M01_12_4k_fulltext_paper_ledger_v2.csv",
+      "sha256": "7e5f469ea1e67f34032871137b8376075fc26894b348ffa1ba1132bf7840bf6b"
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_TM4SF1_experiment_ledger_v1.csv",
+      "sha256": "24faa2fecc35a6faec9e2ca6d20f441cca8459a5520bc7d80709266bc1683160"
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v1.csv",
+      "sha256": "93dda230f9a94d7fe7fd5e52524542ab9827d843d0607ed03455438e93c079de"
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_shortlist_WORKING_v4.csv",
+      "sha256": "42d64b5ef0d59c719f91915af1395108c06fefe2ed285765c6333ac0aaf88bf0"
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v2.csv",
+      "sha256": "6b1919f66d86a03da94cac581a06c082f24267b33487bab5ecf11b0f0b7a8e75"
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_TM4SF1_followup_TO_VERIFY_v1.csv",
+      "sha256": "70969eb12cfcb10f8c6e41a83ebeb50eaa8859076e0a1672205a7326e3a0b8a3"
+    },
+    {
+      "name": "OmiPep_M01_12_4k_TM4SF1_README.txt",
+      "sha256": "0e00b190809bdc8a18fd2c1c95a74e88315119ca8f5848118f45879511b3a748"
+    },
+    {
+      "name": "12_4k_verify_TM4SF1_review.py",
+      "sha256": "f2a4cd42dbeb6bdf1ae783fdd60d0599fcc659484c27ab936f0f92dc46126b6a"
+    }
+  ],
+  "source_pdfs": [
+    {
+      "name": "s10456-014-9437-2.pdf",
+      "sha256": "44f8b29481b36e7f0844b478b93be999a9f2780086fe882710e0586c6766a5af",
+      "doi": "10.1007/s10456-014-9437-2",
+      "citation_key": "Lin2014_TM4SF1_glycan_species_epitope"
+    },
+    {
+      "name": "j.bbrc.2015.07.142.pdf",
+      "sha256": "515c61801cfec5fb30f277afc10f28c3c2e63119f6c32e7c96a9436518848608",
+      "doi": "10.1016/j.bbrc.2015.07.142",
+      "citation_key": "Sciuto2015_TM4SF1_8G4_nuclear"
+    },
+    {
+      "name": "ccs3.12031.pdf",
+      "sha256": "a6ce919ccc316637ca49144f041e9bd545382b256eeb73715c2c5794fbbd2f65",
+      "doi": "10.1002/ccs3.12031",
+      "citation_key": "Lin2024_TM4SF1_TMED_cargo"
+    },
+    {
+      "name": "ijms-27-04437-v3.pdf",
+      "sha256": "d733f8270b1e8098aff372abad1b2afa505572e53139d70a4b4a472a5b013a46",
+      "doi": "10.3390/ijms27104437",
+      "citation_key": "Lin2026_TM4SF1_ADC_angiogenic_vessels"
+    }
+  ],
+  "unknowns": [
+    "Human stroke luminal brain TM4SF1 protein",
+    "intact engineered peptide abluminal BBB delivery",
+    "nonperturbing binding under physiological flow",
+    "protein/glycan membrane structure",
+    "peripheral organ protein exposure and dose"
+  ]
+}

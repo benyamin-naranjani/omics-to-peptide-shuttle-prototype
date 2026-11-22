@@ -1,0 +1,28 @@
+marker_group,gene
+Endothelial identity,Cldn5
+Endothelial identity,Pecam1
+Endothelial identity,Cdh5
+Endothelial identity,Kdr
+Endothelial identity,Flt1
+Endothelial identity,Tek
+BBB specialization,Slc2a1
+BBB specialization,Mfsd2a
+BBB specialization,Abcb1a
+BBB specialization,Abcg2
+BBB specialization,Tfrc
+BBB specialization,Slc7a5
+BBB specialization,Ocln
+Vascular heterogeneity,Vwf
+Vascular heterogeneity,Cav1
+Vascular heterogeneity,Plvap
+Immune cells,Ptprc
+Immune cells,Aif1
+Mural cells,Pdgfrb
+Mural cells,Rgs5
+Mural cells,Cspg4
+Mural cells,Acta2
+Astrocytes,Gfap
+Astrocytes,Aqp4
+Astrocytes,Aldh1l1
+Other neural cells,Mog
+Other neural cells,Rbfox3

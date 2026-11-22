@@ -1,0 +1,11 @@
+donor_id,sex,age_years,primary_adult_cohort
+TL1,Male,15,False
+TL2,Male,19,True
+TL3,Female,41,True
+TL4,Male,41,True
+TL5,Female,69,True
+TL6,Male,24,True
+TL9,Male,25,True
+TL10,Male,24,True
+TL7,Female,39,True
+TL8,Male,48,True

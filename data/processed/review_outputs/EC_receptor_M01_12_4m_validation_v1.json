@@ -1,0 +1,45 @@
+{
+  "cell": "12.4m",
+  "scope": "publication table generated from prior completed review; NO receptor re-ranking",
+  "input_sha256": {
+    "selection": "cc7668f7bdf9f0f91117bd93361a537e7df9020593cc01717c304bc1dba63e30",
+    "paper_ledger": "0b825a5322cb8045a038513a80c3b66f2c93ecabd94092e50cdbbd4f7584e5eb",
+    "gate_audit": "d197b38db69941170c1a1d86f4893c604c3a8562053b4bf5fe6a7597171ed3b3",
+    "master": "b15905ba0c237fccd83347ce31b901746ff94fc1b59f39b4e79ba11141030329"
+  },
+  "source_files": {
+    "selection": "data/processed/review_outputs/EC_receptor_M01_12_4l_six_receptor_selection_v1.csv",
+    "paper_ledger": "data/processed/review_outputs/EC_receptor_M01_12_4k_fulltext_paper_ledger_v6.csv",
+    "gate_audit": "data/processed/review_outputs/EC_receptor_M01_12_4l_125_gate_audit_v1.csv",
+    "master": "data/processed/review_outputs/EC_receptor_M01_expert_master_WITH_ENDPOINT_EVIDENCE_v2.csv"
+  },
+  "source_counts": {
+    "relationships": 125,
+    "distinct_mouse_genes": 114,
+    "D02_significantly_upregulated": 94,
+    "paper_fulltexts": 19,
+    "manuscript_rows": 6
+  },
+  "source_selection": "human-led manual post-hoc adjudication, with LLM-assisted evidence organization; see Cell 12.4l method and limitations",
+  "selection_status": {
+    "PROCR": "provisional_primary_1",
+    "TM4SF1": "provisional_primary_2",
+    "SELP": "conditional_reserve_1",
+    "ECSCR": "reserve_2",
+    "ACKR1": "direction_mismatch_reserve",
+    "LRP1": "benchmark_only"
+  },
+  "output_sha256": {
+    "publication_table": "58b9946e6d11d965f531f5a5126c7769bda8785d6bad0e9c64fe1bb11e9de1f7",
+    "reviewed_doi_map": "31106017e64639f2493d861b5b876f63809c3f17f0034f61a62347e14119ad2f",
+    "figure_pdf": "c70cf7f3c340c5a8a0932efeb08ccb6520a705df0493c141df7a0fcc0fba6b8d",
+    "figure_svg": "117ad61ffef717795c281de86fa56df8e97c62db5f79279cc628cd9c73cd6245"
+  },
+  "open_gates": [
+    "expert approval",
+    "native human ischemic BBB luminal target protein",
+    "membrane-context epitope qualification",
+    "intact engineered peptide-cargo luminal-to-abluminal recovery",
+    "functional and systemic safety"
+  ]
+}

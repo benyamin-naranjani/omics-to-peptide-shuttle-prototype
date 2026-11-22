@@ -1,0 +1,98 @@
+{
+  "module": "OmiPep M01",
+  "cell": "12.4k",
+  "receptor": "SELP",
+  "created": "2026-11-22",
+  "inputs": {
+    "papers": "EC_receptor_M01_12_4k_fulltext_paper_ledger_v3.csv",
+    "experiments": "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v2.csv",
+    "shortlist": "EC_receptor_M01_12_4k_shortlist_WORKING_v5.csv",
+    "comparison": "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v3.csv"
+  },
+  "input_sha256": {
+    "EC_receptor_M01_12_4k_fulltext_paper_ledger_v3.csv": "a8ef10455685b1bde71475cd5c6a2eef1769714ea236887d88734007ff954403",
+    "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v2.csv": "4db8c2ad0df1a3a8733c00f41ae54f212220a6625b6aee94b74b06ec83d1ba20",
+    "EC_receptor_M01_12_4k_shortlist_WORKING_v5.csv": "d01df49a75e85b6d31ca0bcf1ad82c4ba265bd0f01c72bbe2e2e957fafddd3e0",
+    "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v3.csv": "d4fbde428c8462872a288aac28392425ca121a9d182229b0af8a17f70184137f"
+  },
+  "output_files": [
+    {
+      "name": "EC_receptor_M01_12_4k_fulltext_paper_ledger_v4.csv",
+      "sha256": "0358b48d4b357f401041bef6b2b5e8db699c6ee8cba3a7cd06104937703b3151",
+      "rows": 13
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v3.csv",
+      "sha256": "514242d2ae33809d438149959fb0c6d28543f9a99c5252bbe2d32aca08f8f914",
+      "rows": 123
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_SELP_experiment_ledger_v1.csv",
+      "sha256": "64b47da3b729af5e7415aa9be9acaaa79116b8e3de9bb3573c992abba14206f2",
+      "rows": 43
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_shortlist_WORKING_v6.csv",
+      "sha256": "28489e8b65ea273f96276d4137a5192a4d5819a06a4f28776287f7261a2c5122",
+      "rows": 6
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v4.csv",
+      "sha256": "31dcd76311d0cd3baeb523de6ad0ae2c110526b85107f5614de406313cb4bae5",
+      "rows": 6
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_SELP_followup_TO_VERIFY_v1.csv",
+      "sha256": "2f6e2a8a7c3021e5b9055a65c4405937ebf0df7c29a2ae4700818c8c297ad904",
+      "rows": 10
+    },
+    {
+      "name": "OmiPep_M01_12_4k_SELP_README.txt",
+      "sha256": "bb8404fc7e1cd1ea2968a9778945fea27b099033fb098a766c1321c7ce6a41cb",
+      "rows": null
+    }
+  ],
+  "source_pdfs": [
+    {
+      "name": "s41563-023-01481-9.pdf",
+      "sha256": "7536f9b0370cbb51fe43ce571662a92572a8abc943a881fef486d5c61e35df0a",
+      "size_bytes": 4456346,
+      "doi": "10.1038/s41563-023-01481-9"
+    },
+    {
+      "name": "1471-2202-11-12.pdf",
+      "sha256": "66591bbe8de9f95fc0d8de08f936fa99c9abe9d30b872d94c46b28dce55d712f",
+      "size_bytes": 1800028,
+      "doi": "10.1186/1471-2202-11-12"
+    },
+    {
+      "name": "jcb.124.4.435.pdf",
+      "sha256": "223e84c487072c2900fea2a1e5025743e997fd27c3de8117d42504fefb6e5dfa",
+      "size_bytes": 3425055,
+      "doi": "10.1083/jcb.124.4.435"
+    }
+  ],
+  "assertions": {
+    "historical_10_papers_preserved": true,
+    "historical_80_experiments_preserved": true,
+    "other_five_shortlist_rows_unchanged": true,
+    "other_five_comparison_rows_unchanged": true,
+    "paper_count": 13,
+    "experiment_count": 123,
+    "selp_new_experiment_count": 43,
+    "receptor_approved": false,
+    "short_peptide_BBB_transcytosis_observed": false,
+    "SELP_KO_stroke_permeability_protective": true,
+    "sLeX_E_and_P_cross_reactivity": true,
+    "supplementary_figures_not_in_uploaded_pdf": true,
+    "source_pdfs_main_and_extended_figures_read": true
+  },
+  "reviewer_cautions": [
+    "strong tumour-model nanocarrier transcytosis does not equal stroke peptide transcytosis",
+    "SELP-specific vs E-selectin dual binding in Jin MRI",
+    "genetic knockout protective effects should not be interpreted as peptide-binder safety",
+    "Cav1 dependence does not establish exact molecular route of a short peptide",
+    "healthy human atlas ~0.3 CPM is not a human poststroke protein measure",
+    "a high degree of native adhesion and platelet expression may create sink/thrombosis liabilities"
+  ]
+}

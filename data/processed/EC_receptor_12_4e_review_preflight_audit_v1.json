@@ -1,0 +1,525 @@
+{
+  "module": "OmiPep v0.2 Module 01",
+  "cell": "12.4e",
+  "created_utc": "2026-11-21T10:34:31.170588+00:00",
+  "purpose": "read_only_preflight_and_derived_literature_microbatches",
+  "original_relationship_rows": 125,
+  "original_mouse_genes": 114,
+  "P_pending_relationships": 73,
+  "R_existing_annotation_rechecks": 52,
+  "original_review_batch_counts": {
+    "LIT-P01": 10,
+    "LIT-P02": 10,
+    "LIT-P03": 10,
+    "LIT-P04": 10,
+    "LIT-P05": 10,
+    "LIT-P06": 10,
+    "LIT-P07": 10,
+    "LIT-P08": 3,
+    "LIT-R01": 10,
+    "LIT-R02": 10,
+    "LIT-R03": 10,
+    "LIT-R04": 10,
+    "LIT-R05": 10,
+    "LIT-R06": 2
+  },
+  "microbatch_max_relationship_rows": 5,
+  "microbatch_count": 28,
+  "microbatch_sessions": [
+    {
+      "session_id": "LIT-P01-01",
+      "legacy_batch": "LIT-P01",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Nme1::ENSG00000239672",
+        "Abcb1a::ENSG00000085563",
+        "Vim::ENSG00000026025",
+        "Pdia6::ENSG00000143870",
+        "Igfbp7::ENSG00000163453"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P01-02",
+      "legacy_batch": "LIT-P01",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Slco1a4::ENSG00000084453",
+        "Flt1::ENSG00000102755",
+        "Eif4a1::ENSG00000161960",
+        "Gja4::ENSG00000187513",
+        "Ctsb::ENSG00000164733"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P02-01",
+      "legacy_batch": "LIT-P02",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Cd302::ENSG00000241399",
+        "Il2rg::ENSG00000147168",
+        "H13::ENSG00000101294",
+        "Cd14::ENSG00000170458",
+        "Aig1::ENSG00000146416"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P02-02",
+      "legacy_batch": "LIT-P02",
+      "relationship_rows": 5,
+      "mouse_genes": 4,
+      "relationship_ids": [
+        "B3gnt3::ENSG00000179913",
+        "Hspa5::ENSG00000044574",
+        "Sting1::ENSG00000184584",
+        "Rpsa::ENSG00000168028",
+        "Rpsa::ENSG00000288920"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P03-01",
+      "legacy_batch": "LIT-P03",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Ddost::ENSG00000244038",
+        "Atp5f1a::ENSG00000152234",
+        "P4hb::ENSG00000185624",
+        "Rack1::ENSG00000204628",
+        "Tmem256::ENSG00000205544"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P03-02",
+      "legacy_batch": "LIT-P03",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Atp8b1::ENSG00000081923",
+        "Vmp1::ENSG00000062716",
+        "Cib1::ENSG00000185043",
+        "Slc29a1::ENSG00000112759",
+        "Cd52::ENSG00000169442"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P04-01",
+      "legacy_batch": "LIT-P04",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Rab11a::ENSG00000103769",
+        "Sdcbp::ENSG00000137575",
+        "Calr::ENSG00000179218",
+        "Clic1::ENSG00000213719",
+        "Lrp8::ENSG00000157193"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P04-02",
+      "legacy_batch": "LIT-P04",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Smim7::ENSG00000214046",
+        "Ap2s1::ENSG00000042753",
+        "Tmem167::ENSG00000174695",
+        "Park7::ENSG00000116288",
+        "Phb1::ENSG00000167085"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P05-01",
+      "legacy_batch": "LIT-P05",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Mfng::ENSG00000100060",
+        "Glul::ENSG00000135821",
+        "Crlf2::ENSG00000205755",
+        "Tnfrsf12a::ENSG00000006327",
+        "C1qbp::ENSG00000108561"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P05-02",
+      "legacy_batch": "LIT-P05",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Itm2c::ENSG00000135916",
+        "Slc7a5::ENSG00000103257",
+        "Sec11c::ENSG00000166562",
+        "Tmem88::ENSG00000167874",
+        "Actn1::ENSG00000072110"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P06-01",
+      "legacy_batch": "LIT-P06",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Tmed2::ENSG00000086598",
+        "Itgb1bp1::ENSG00000119185",
+        "Sec11a::ENSG00000140612",
+        "Tmem147::ENSG00000105677",
+        "Ide::ENSG00000119912"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P06-02",
+      "legacy_batch": "LIT-P06",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Lamp2::ENSG00000005893",
+        "Cd81::ENSG00000110651",
+        "Cyba::ENSG00000051523",
+        "Lrp6::ENSG00000070018",
+        "Mfsd2a::ENSG00000168389"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P07-01",
+      "legacy_batch": "LIT-P07",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Tek::ENSG00000120156",
+        "Abcg2::ENSG00000118777",
+        "Eng::ENSG00000106991",
+        "Icam1::ENSG00000090339",
+        "Pecam1::ENSG00000261371"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P07-02",
+      "legacy_batch": "LIT-P07",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Kdr::ENSG00000128052",
+        "Slc2a1::ENSG00000117394",
+        "Cldn5::ENSG00000184113",
+        "Plvap::ENSG00000130300",
+        "Scarb1::ENSG00000073060"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-P08-01",
+      "legacy_batch": "LIT-P08",
+      "relationship_rows": 3,
+      "mouse_genes": 3,
+      "relationship_ids": [
+        "Vcam1::ENSG00000162692",
+        "Cd36::ENSG00000135218",
+        "Sele::ENSG00000007908"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R01-01",
+      "legacy_batch": "LIT-R01",
+      "relationship_rows": 2,
+      "mouse_genes": 2,
+      "relationship_ids": [
+        "Ecscr::ENSG00000249751",
+        "Igf1r::ENSG00000140443"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R01-02",
+      "legacy_batch": "LIT-R01",
+      "relationship_rows": 5,
+      "mouse_genes": 2,
+      "relationship_ids": [
+        "Ifitm3::ENSG00000142089",
+        "Ifitm3::ENSG00000185201",
+        "Ifitm3::ENSG00000185885",
+        "Ifitm3::ENSG00000300510",
+        "Ssr2::ENSG00000163479"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R01-03",
+      "legacy_batch": "LIT-R01",
+      "relationship_rows": 3,
+      "mouse_genes": 3,
+      "relationship_ids": [
+        "Ackr1::ENSG00000213088",
+        "Ace::ENSG00000159640",
+        "Tm4sf1::ENSG00000169908"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R02-01",
+      "legacy_batch": "LIT-R02",
+      "relationship_rows": 2,
+      "mouse_genes": 2,
+      "relationship_ids": [
+        "Bst2::ENSG00000130303",
+        "Ssr4::ENSG00000180879"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R02-02",
+      "legacy_batch": "LIT-R02",
+      "relationship_rows": 5,
+      "mouse_genes": 2,
+      "relationship_ids": [
+        "Ifitm1::ENSG00000142089",
+        "Ifitm1::ENSG00000185201",
+        "Ifitm1::ENSG00000185885",
+        "Ifitm1::ENSG00000300510",
+        "Tnfrsf1a::ENSG00000067182"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R02-03",
+      "legacy_batch": "LIT-R02",
+      "relationship_rows": 3,
+      "mouse_genes": 3,
+      "relationship_ids": [
+        "Tmed9::ENSG00000184840",
+        "Selp::ENSG00000174175",
+        "Tfrc::ENSG00000072274"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R03-01",
+      "legacy_batch": "LIT-R03",
+      "relationship_rows": 5,
+      "mouse_genes": 2,
+      "relationship_ids": [
+        "Ly6a::ENSG00000291309",
+        "Ifitm2::ENSG00000142089",
+        "Ifitm2::ENSG00000185201",
+        "Ifitm2::ENSG00000185885",
+        "Ifitm2::ENSG00000300510"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R03-02",
+      "legacy_batch": "LIT-R03",
+      "relationship_rows": 5,
+      "mouse_genes": 4,
+      "relationship_ids": [
+        "Orai1::ENSG00000276045",
+        "Orai1::ENSG00000293604",
+        "Tspan4::ENSG00000214063",
+        "Car4::ENSG00000167434",
+        "Ostc::ENSG00000198856"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R04-01",
+      "legacy_batch": "LIT-R04",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Mcam::ENSG00000076706",
+        "Cd200::ENSG00000091972",
+        "Rpn1::ENSG00000163902",
+        "Cd93::ENSG00000125810",
+        "Canx::ENSG00000127022"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R04-02",
+      "legacy_batch": "LIT-R04",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Ormdl2::ENSG00000123353",
+        "Entpd1::ENSG00000138185",
+        "Il4ra::ENSG00000077238",
+        "Slc39a1::ENSG00000143570",
+        "Cd74::ENSG00000019582"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R05-01",
+      "legacy_batch": "LIT-R05",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Procr::ENSG00000101000",
+        "Adam15::ENSG00000143537",
+        "Itgb1::ENSG00000150093",
+        "Praf2::ENSG00000243279",
+        "Bsg::ENSG00000172270"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R05-02",
+      "legacy_batch": "LIT-R05",
+      "relationship_rows": 5,
+      "mouse_genes": 5,
+      "relationship_ids": [
+        "Ly6e::ENSG00000160932",
+        "Insr::ENSG00000171105",
+        "Itm2a::ENSG00000078596",
+        "Slc3a2::ENSG00000168003",
+        "Ly6c1::ENSG00000291309"
+      ],
+      "review_status": "not_started"
+    },
+    {
+      "session_id": "LIT-R06-01",
+      "legacy_batch": "LIT-R06",
+      "relationship_rows": 2,
+      "mouse_genes": 2,
+      "relationship_ids": [
+        "Ldlr::ENSG00000130164",
+        "Lrp1::ENSG00000123384"
+      ],
+      "review_status": "not_started"
+    }
+  ],
+  "oversized_same_gene_blocks": [],
+  "expert_preview_feature_columns_by_category": {
+    "mouse_D02": [
+      "mouse_D02_logFC",
+      "mouse_D02_FDR",
+      "mouse_D02_LOSO_direction_stability_pct"
+    ],
+    "human_brain_EC": [
+      "human_gene",
+      "human_ensembl_ID",
+      "human_brain_EC_median_CPM_atlas",
+      "human_EC_nonEC_log2_ratio_atlas",
+      "mouse_human_extracellular_identity_pct",
+      "HPA_peripheral_EC_RNA_max_nTPM",
+      "HPA_peripheral_EC_peak_organ_cluster"
+    ],
+    "orthology_and_topology": [
+      "mouse_protein_topology_context"
+    ],
+    "HPA_peripheral_tissue": [
+      "HPA_peripheral_bulk_RNA_max_nTPM",
+      "HPA_peripheral_bulk_peak_tissue",
+      "HPA_peripheral_EC_RNA_max_nTPM",
+      "HPA_peripheral_EC_peak_organ_cluster",
+      "HPA_peripheral_IHC_max_level_context_only"
+    ],
+    "HPA_peripheral_EC": [
+      "HPA_peripheral_EC_RNA_max_nTPM",
+      "HPA_peripheral_EC_peak_organ_cluster"
+    ],
+    "HPA_immune": [
+      "HPA_immune_RNA_max_nTPM"
+    ],
+    "HPA_protein_IHC": [
+      "mouse_protein_topology_context",
+      "HPA_peripheral_IHC_max_level_context_only",
+      "verified_native_luminal_protein_access"
+    ],
+    "evidence_and_citations": [
+      "verified_intact_BBB_transcytosis_endpoint",
+      "supporting_citation_keys",
+      "contradictory_citation_keys"
+    ]
+  },
+  "source_file_digests": {
+    "source_docket": {
+      "path": "data/processed/EC_receptor_12_4_full_relationship_docket_v1.csv",
+      "sha256": "a4c65b9d5cd90785174ec03ccd94dcd6c0aab5b55c8e2b36ef8952ef486ef6f7",
+      "bytes": 1089763
+    },
+    "expert_master": {
+      "path": "data/processed/EC_receptor_12_4d_expert_review_master_PRELIMINARY_v2.csv",
+      "sha256": "8e0758afe01b3cffc6cf4890abcfd3c30a33c9f05cc9ba5c3d4ee067f3e33f2c",
+      "bytes": 34688
+    },
+    "literature_worklist": {
+      "path": "data/processed/EC_receptor_12_4d_literature_review_worklist_v2.csv",
+      "sha256": "9f97de2d77615e2a3267920c789e3ec9c65293d2eac9478a6ded5fa4ed701767",
+      "bytes": 40221
+    },
+    "provenance": {
+      "path": "data/processed/EC_receptor_12_4d_schema_and_provenance_v2.json",
+      "sha256": "380263487a41e8f9ce9a0879cd562d23b12aa0d2868a980dab6a44ed8859d079",
+      "bytes": 4937
+    },
+    "handoff": {
+      "path": "data/processed/EC_receptor_12_4_downstream_handoff_BLOCKED_v1.json",
+      "sha256": "abd6cf1209ee9dbc0ed46442596cf9f0c0f65a0aef0e9bd8dbb28c51ed0d3ccb",
+      "bytes": 483
+    }
+  },
+  "original_12_4d_manifest_top_level_keys": [
+    "HPA_note",
+    "batches",
+    "downstream_handoff",
+    "evidence_hierarchy",
+    "expert_columns",
+    "fragment_approval",
+    "mouse_genes_distinct",
+    "pending_primary_review_records",
+    "receptor_approval",
+    "reconcile_existing_annotation_records",
+    "reference_policy",
+    "relationship_rows",
+    "review_columns",
+    "review_order_method",
+    "same_gene_effect_not_independent_replication",
+    "source_columns_used",
+    "source_dataset_sha256",
+    "status",
+    "verified_primary_papers_in_this_cell",
+    "version",
+    "zero_means_unreviewed"
+  ],
+  "original_handoff": {
+    "version": "1.0",
+    "status": "blocked_pending_manual_target_and_fragment_approval",
+    "approved_receptors": [],
+    "approved_receptor_fragments": [],
+    "provisional_review_genes_not_approved": [
+      "Ecscr",
+      "Tm4sf1",
+      "Procr"
+    ],
+    "manual_approval_source": "EC_receptor_manual_adjudication_template_v1.csv",
+    "ready_for_colabfold": false,
+    "ready_for_peptide_generation_receptor_conditioning": false,
+    "generation_and_evaluation_metrics_must_remain_separate": true
+  },
+  "policy": {
+    "no_data_driven_exclusion": true,
+    "no_final_receptor_ranking": true,
+    "no_automated_literature_verification": true,
+    "no_docking_approval": true,
+    "unknown_is_not_negative": true,
+    "do_not_merge_microbatches_with_receptor_merit": true,
+    "references_sheet_not_modified": true
+  }
+}

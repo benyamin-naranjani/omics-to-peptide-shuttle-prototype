@@ -1,0 +1,49 @@
+Tissue,organ_key,anatomical_context
+Adipose tissue,connective & soft tissue,non_CNS_non_ocular
+Adrenal gland,endocrine tissues,non_CNS_non_ocular
+Appendix,bone marrow & lymphoid tissues,non_CNS_non_ocular
+Bone marrow,bone marrow & lymphoid tissues,non_CNS_non_ocular
+Breast,breast and female reproductive system,non_CNS_non_ocular
+Bronchus,respiratory system,non_CNS_non_ocular
+Caudate,brain,CNS
+Cerebellum,brain,CNS
+Cerebral cortex,brain,CNS
+Cervix,breast and female reproductive system,non_CNS_non_ocular
+Colon,gastrointestinal tract,non_CNS_non_ocular
+Duodenum,gastrointestinal tract,non_CNS_non_ocular
+Endometrium,breast and female reproductive system,non_CNS_non_ocular
+Epididymis,male reproductive system,non_CNS_non_ocular
+Esophagus,proximal digestive tract,non_CNS_non_ocular
+Fallopian tube,breast and female reproductive system,non_CNS_non_ocular
+Gallbladder,liver & gallbladder,non_CNS_non_ocular
+Heart muscle,muscle tissues,non_CNS_non_ocular
+Hippocampus,brain,CNS
+Kidney,kidney & urinary bladder,non_CNS_non_ocular
+Liver,liver & gallbladder,non_CNS_non_ocular
+Lung,respiratory system,non_CNS_non_ocular
+Lymph node,bone marrow & lymphoid tissues,non_CNS_non_ocular
+Nasopharynx,respiratory system,non_CNS_non_ocular
+Oral mucosa,proximal digestive tract,non_CNS_non_ocular
+Ovary,breast and female reproductive system,non_CNS_non_ocular
+Pancreas,pancreas,non_CNS_non_ocular
+Parathyroid gland,endocrine tissues,non_CNS_non_ocular
+Placenta,breast and female reproductive system,non_CNS_non_ocular
+Prostate,male reproductive system,non_CNS_non_ocular
+Rectum,gastrointestinal tract,non_CNS_non_ocular
+Salivary gland,proximal digestive tract,non_CNS_non_ocular
+Seminal vesicle,male reproductive system,non_CNS_non_ocular
+Skeletal muscle,muscle tissues,non_CNS_non_ocular
+Skin,skin,non_CNS_non_ocular
+Small intestine,gastrointestinal tract,non_CNS_non_ocular
+Smooth muscle,muscle tissues,non_CNS_non_ocular
+Soft tissue,connective & soft tissue,non_CNS_non_ocular
+Spleen,bone marrow & lymphoid tissues,non_CNS_non_ocular
+Stomach,gastrointestinal tract,non_CNS_non_ocular
+Testis,male reproductive system,non_CNS_non_ocular
+Thyroid gland,endocrine tissues,non_CNS_non_ocular
+Tonsil,bone marrow & lymphoid tissues,non_CNS_non_ocular
+Urinary bladder,kidney & urinary bladder,non_CNS_non_ocular
+Vagina,breast and female reproductive system,non_CNS_non_ocular
+N/A,,unclassified
+Lactating breast,,unclassified
+Retina,,unclassified

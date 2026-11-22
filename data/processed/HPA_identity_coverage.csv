@@ -1,0 +1,13 @@
+source,identity_status,n_target_genes
+cluster,ID_not_in_source,4
+cluster,exact_ID_symbol_agrees,551
+cluster,exact_ID_symbol_review_required,4
+ihc,ID_not_in_source,71
+ihc,exact_ID_symbol_agrees,485
+ihc,exact_ID_symbol_review_required,3
+immune,ID_not_in_source,2
+immune,exact_ID_symbol_agrees,552
+immune,exact_ID_symbol_review_required,5
+tissue,ID_not_in_source,2
+tissue,exact_ID_symbol_agrees,552
+tissue,exact_ID_symbol_review_required,5

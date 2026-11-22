@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "generated_utc": "2026-11-20T07:09:26.134049+00:00",
+  "upstream": "11.5b receptor_feasibility_evidence_v16; no input mutations",
+  "unit": "mouse_gene_and_specific_human_Ensembl_gene_relationship",
+  "stage": "manual_receptor_adjudication_preparation",
+  "scalar_receptor_score": false,
+  "auto_selection": false,
+  "approved_fragments": 0,
+  "no_human_orthologue_merging": true,
+  "manual_adjudication_file": "../data/processed/EC_receptor_manual_adjudication_template_v1.csv",
+  "manual_adjudication_overwrite_policy": "never overwrite an existing sheet",
+  "discovery_FDR_threshold": 0.05,
+  "n_pending_primary_review_genes": 72,
+  "known_major_uncertainties": [
+    "Pending targeted primary literature review is tracked per gene and relationship",
+    "Direct PubMed identifier lookup does not verify every endpoint claim",
+    "HPA v24.1 has no supported exact brain endothelial cluster for matching against peripheral EC clusters",
+    "Peripheral RNA expression is not a ligand-binding risk estimate",
+    "Human normal temporal-lobe tissue is not a human stroke transport model",
+    "Peptide uptake and intact abluminal cargo delivery have not been shown",
+    "Predicted model metadata and topology intervals are not approved docking fragments",
+    "Mouse-human orthology, especially LY6 family, can be one-to-many or uncertain"
+  ],
+  "separate_optimization_and_independent_evaluation": true,
+  "next_step": "12.2 prespecified comparison and manual candidate/reference adjudication"
+}

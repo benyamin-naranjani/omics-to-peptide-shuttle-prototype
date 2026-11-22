@@ -1,0 +1,18 @@
+{
+  "version": "1.5",
+  "generated_utc": "2026-11-19T14:02:40.363475+00:00",
+  "bibliographic_api": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+  "n_source_identifiers": 50,
+  "n_mouse_genes_in_scope": 114,
+  "n_relationships_in_scope": 125,
+  "n_pending_surface_candidate_genes": 47,
+  "review_lanes": "Navigation only; no exclusion, final ranking or numerical aggregation.",
+  "limitations": [
+    "Bibliographic identity matching is not claim-level verification or retraction clearance.",
+    "Primary literature profiles are targeted and incomplete; negative results and unresolved endpoints remain provisional.",
+    "Predicted structure matches and experimental mapping spans are not resolved coordinate coverage or approved fragments.",
+    "No cross-resource RNA ratios; HPA cluster maxima do not establish systemic targeting specificity.",
+    "Cell-type RNA context does not cover all circulating or soluble target pools.",
+    "No delivery validation for generated peptides."
+  ]
+}

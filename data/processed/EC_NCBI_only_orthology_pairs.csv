@@ -1,0 +1,7 @@
+gene,official_symbol,ncbi_gene_id,mouse_ensembl_gene_id,human_ensembl_gene_id,human_gene_symbol,human_ensembl_protein_id,orthology_type,orthology_confidence,human_protein_identity_pct,mouse_protein_identity_pct,ensembl_release,high_confidence,one_to_one,high_confidence_one_to_one,human_ncbi_gene_id,mgi_human_symbol,hgnc_id,source_overlap,ensembl_pair_reported,mgi_one_to_one_reported,orthology_evidence_source,ncbi_human_gene_id,ncbi_human_symbol,ncbi_swiss_prot_accessions,ncbi_source_overlap,ncbi_pair_reported,human_ncbi_id_conflict,supporting_sources
+Abcg2,Abcg2,26357,ENSMUSG00000029802,ENSG00000118777,ABCG2,,,,,,,,,,9429,,,,False,False,,9429,ABCG2,"[""Q9UNQ0""]",right_only,True,False,NCBI
+Pebp1,Pebp1,23980,ENSMUSG00000032959,ENSG00000089220,PEBP1,,,,,,,,,,5037,,,,False,False,,5037,PEBP1,"[""P30086""]",right_only,True,False,NCBI
+Rpl26,Rpl26,19941,ENSMUSG00000060938,ENSG00000161970,RPL26,,,,,,,,,,6154,,,,False,False,,6154,RPL26,"[""P61254""]",right_only,True,False,NCBI
+Rplp0,Rplp0,11837,ENSMUSG00000067274,ENSG00000089157,RPLP0,,,,,,,,,,6175,,,,False,False,,6175,RPLP0,"[""P05388""]",right_only,True,False,NCBI
+Rplp1,Rplp1,56040,ENSMUSG00000007892,ENSG00000137818,RPLP1,,,,,,,,,,6176,,,,False,False,,6176,RPLP1,"[""P05386""]",right_only,True,False,NCBI
+Rps26,Rps26,27370,ENSMUSG00000025362,ENSG00000197728,RPS26,,,,,,,,,,6231,,,,False,False,,6231,RPS26,"[""P62854""]",right_only,True,False,NCBI

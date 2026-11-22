@@ -1,0 +1,5 @@
+analysis_id,dataset_key,cohort,n_eligible_donors,n_population_available_donors,n_low_cell_support_donors,n_cells,minimum_cells_per_donor,median_cells_per_donor,maximum_cells_per_donor
+sorted_adult_all_EC,sorted_EC,primary_adults,8,8,0,56529,468,6788.0,18753
+sorted_adult_conventional_EC,sorted_EC,primary_adults,8,8,0,51452,458,5991.0,17515
+sorted_all_donors_all_EC,sorted_EC,all_deposited_control_donors,9,9,0,76125,468,7409.0,19596
+unsorted_adult_EC,unsorted_EC_PVC,primary_adults,6,6,0,6813,131,1010.0,2486

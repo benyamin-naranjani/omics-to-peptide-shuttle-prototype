@@ -1,0 +1,82 @@
+{
+  "module": "OmiPep M01",
+  "cell": "12.4k",
+  "receptor": "ECSCR",
+  "created": "2026-11-22",
+  "inputs": {
+    "previous_paper_ledger": "EC_receptor_M01_12_4k_fulltext_paper_ledger_v2.csv",
+    "previous_experiment_ledger": "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v1.csv",
+    "previous_shortlist": "EC_receptor_M01_12_4k_shortlist_WORKING_v4.csv",
+    "previous_comparison": "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v2.csv"
+  },
+  "input_sha256": {
+    "EC_receptor_M01_12_4k_fulltext_paper_ledger_v2.csv": "7e5f469ea1e67f34032871137b8376075fc26894b348ffa1ba1132bf7840bf6b",
+    "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v1.csv": "93dda230f9a94d7fe7fd5e52524542ab9827d843d0607ed03455438e93c079de",
+    "EC_receptor_M01_12_4k_shortlist_WORKING_v4.csv": "42d64b5ef0d59c719f91915af1395108c06fefe2ed285765c6333ac0aaf88bf0",
+    "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v2.csv": "6b1919f66d86a03da94cac581a06c082f24267b33487bab5ecf11b0f0b7a8e75"
+  },
+  "output_files": [
+    {
+      "name": "EC_receptor_M01_12_4k_fulltext_paper_ledger_v3.csv",
+      "sha256": "a8ef10455685b1bde71475cd5c6a2eef1769714ea236887d88734007ff954403",
+      "rows": 10
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_ECSCR_experiment_ledger_v1.csv",
+      "sha256": "504e2ae543a3a8596bbca15eba93c53a86458a910734e2aa5e0632658ab6523b",
+      "rows": 33
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v2.csv",
+      "sha256": "4db8c2ad0df1a3a8733c00f41ae54f212220a6625b6aee94b74b06ec83d1ba20",
+      "rows": 80
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_shortlist_WORKING_v5.csv",
+      "sha256": "d01df49a75e85b6d31ca0bcf1ad82c4ba265bd0f01c72bbe2e2e957fafddd3e0",
+      "rows": 6
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v3.csv",
+      "sha256": "d4fbde428c8462872a288aac28392425ca121a9d182229b0af8a17f70184137f",
+      "rows": 6
+    },
+    {
+      "name": "EC_receptor_M01_12_4k_ECSCR_followup_TO_VERIFY_v1.csv",
+      "sha256": "209b18d7905c94649fda5c029be131dd70b593a58d8165ae808497f438834ea4",
+      "rows": 7
+    },
+    {
+      "name": "OmiPep_M01_12_4k_ECSCR_README.txt",
+      "sha256": "36bbf148897ca23f666a878edf58a50ed6a2506d8d6e85fb357fbcd6198ce534",
+      "rows": null
+    }
+  ],
+  "sources": [
+    {
+      "name": "blood-2009-10-248856.pdf",
+      "sha256": "7435727d34e730e5812c6e6e4f8338c6cc6352c3a2e28f694ab2e5b093dafe5c",
+      "size_bytes": 1441587
+    },
+    {
+      "name": "jbc.m112.413542.pdf",
+      "sha256": "bf225c3795dd5be3281afa941fa3fa55a4c197ad11e3f7363845688820d064a3",
+      "size_bytes": 2855903
+    },
+    {
+      "name": "ncomms3389.pdf",
+      "sha256": "34a71c5d8f95d52e53a0011862dc65cc02feaf59385bf407c128dc1b696f2b10",
+      "size_bytes": 2082648
+    }
+  ],
+  "assertions": {
+    "previous_seven_paper_rows_preserved": true,
+    "previous_47_experiments_preserved": true,
+    "other_five_shortlist_rows_unchanged": true,
+    "other_five_comparison_rows_unchanged": true,
+    "three_papers_33_experiments_reviewed": true,
+    "reviewer_claims_not_approved": true,
+    "no_direct_ECSCR_BBB_transcytosis_reported": true,
+    "all_external_leads_not_fulltext_verified_here": true
+  }
+}

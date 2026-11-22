@@ -1,0 +1,5 @@
+comparison_type,direction_preserved_all_checks,direction_or_support_sensitive,baseline_direction_neutral,baseline_not_assessable
+EC_vs_pooled_non_EC,487,41,14,17
+EC_vs_cell_type,3409,280,101,1800
+vascular_zonation,1399,176,29,73
+angiogenic_capillary_state,425,102,4,28

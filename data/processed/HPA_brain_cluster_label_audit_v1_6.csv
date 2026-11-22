@@ -1,0 +1,46 @@
+tissue_key,cluster_key,cell_type_key,cluster_n_cells,cluster_annotation_reliability,cluster_in_aggregation,cell_type_group_key,exact_blood_EC_label,passes_existing_support_policy
+brain,c-0,excitatory neurons,4644,high,True,neuronal cells,False,True
+brain,c-1,excitatory neurons,4370,high,True,neuronal cells,False,True
+brain,c-2,excitatory neurons,3732,high,True,neuronal cells,False,True
+brain,c-3,excitatory neurons,3724,high,True,neuronal cells,False,True
+brain,c-4,excitatory neurons,3519,high,True,neuronal cells,False,True
+brain,c-5,inhibitory neurons,3513,high,True,neuronal cells,False,True
+brain,c-6,inhibitory neurons,3482,high,True,neuronal cells,False,True
+brain,c-7,excitatory neurons,3220,high,True,neuronal cells,False,True
+brain,c-8,inhibitory neurons,3114,high,True,neuronal cells,False,True
+brain,c-9,excitatory neurons,2451,high,True,neuronal cells,False,True
+brain,c-10,excitatory neurons,2401,high,True,neuronal cells,False,True
+brain,c-11,excitatory neurons,2360,high,True,neuronal cells,False,True
+brain,c-12,oligodendrocytes,2309,high,True,glial cells,False,True
+brain,c-13,excitatory neurons,2275,high,True,neuronal cells,False,True
+brain,c-14,inhibitory neurons,2250,high,True,neuronal cells,False,True
+brain,c-15,inhibitory neurons,1993,high,True,neuronal cells,False,True
+brain,c-16,excitatory neurons,1927,high,True,neuronal cells,False,True
+brain,c-17,inhibitory neurons,1775,high,True,neuronal cells,False,True
+brain,c-18,excitatory neurons,1697,high,True,neuronal cells,False,True
+brain,c-19,excitatory neurons,1630,high,True,neuronal cells,False,True
+brain,c-20,excitatory neurons,1507,high,True,neuronal cells,False,True
+brain,c-21,inhibitory neurons,1424,high,True,neuronal cells,False,True
+brain,c-22,excitatory neurons,1397,high,True,neuronal cells,False,True
+brain,c-23,inhibitory neurons,1351,high,True,neuronal cells,False,True
+brain,c-24,excitatory neurons,1293,high,True,neuronal cells,False,True
+brain,c-25,inhibitory neurons,1230,high,True,neuronal cells,False,True
+brain,c-26,inhibitory neurons,1218,high,True,neuronal cells,False,True
+brain,c-27,excitatory neurons,1146,high,True,neuronal cells,False,True
+brain,c-28,inhibitory neurons,963,high,True,neuronal cells,False,True
+brain,c-29,excitatory neurons,925,high,True,neuronal cells,False,True
+brain,c-30,inhibitory neurons,920,high,True,neuronal cells,False,True
+brain,c-31,excitatory neurons,858,high,True,neuronal cells,False,True
+brain,c-32,excitatory neurons,826,high,True,neuronal cells,False,True
+brain,c-33,excitatory neurons,730,high,True,neuronal cells,False,True
+brain,c-34,excitatory neurons,709,high,True,neuronal cells,False,True
+brain,c-35,astrocytes,567,high,True,glial cells,False,True
+brain,c-36,excitatory neurons,557,high,True,neuronal cells,False,True
+brain,c-37,oligodendrocytes,542,high,True,glial cells,False,True
+brain,c-38,inhibitory neurons,466,high,True,neuronal cells,False,True
+brain,c-39,excitatory neurons,324,high,True,neuronal cells,False,True
+brain,c-40,excitatory neurons,298,high,True,neuronal cells,False,True
+brain,c-41,inhibitory neurons,293,high,True,neuronal cells,False,True
+brain,c-42,oligodendrocyte precursor cells,286,medium,True,glial cells,False,True
+brain,c-43,microglial cells,206,medium,True,glial cells,False,True
+brain,c-44,excitatory neurons,111,medium,True,neuronal cells,False,True

@@ -1,0 +1,171 @@
+group_id,dataset_key,donor_id,sex,age_years,primary_adult_cohort,cell_class,n_cells
+H0001,sorted_EC,TL1,Male,15,False,Angiogenic capillary,2488
+H0002,sorted_EC,TL1,Male,15,False,Arteriole,2533
+H0003,sorted_EC,TL1,Male,15,False,Artery,666
+H0004,sorted_EC,TL1,Male,15,False,Capillary,10196
+H0005,sorted_EC,TL1,Male,15,False,EndoMT,236
+H0006,sorted_EC,TL1,Male,15,False,Large artery,186
+H0007,sorted_EC,TL1,Male,15,False,Large vein,629
+H0008,sorted_EC,TL1,Male,15,False,Mitochondrial,225
+H0009,sorted_EC,TL1,Male,15,False,Proliferating cell,88
+H0010,sorted_EC,TL1,Male,15,False,Stem-to-EC,7
+H0011,sorted_EC,TL1,Male,15,False,Vein,893
+H0012,sorted_EC,TL1,Male,15,False,Venule,1449
+H0013,sorted_EC,TL10,Male,24,True,Angiogenic capillary,438
+H0014,sorted_EC,TL10,Male,24,True,Arteriole,6714
+H0015,sorted_EC,TL10,Male,24,True,Artery,170
+H0016,sorted_EC,TL10,Male,24,True,Capillary,9441
+H0017,sorted_EC,TL10,Male,24,True,EndoMT,728
+H0018,sorted_EC,TL10,Male,24,True,Large artery,151
+H0019,sorted_EC,TL10,Male,24,True,Large vein,131
+H0020,sorted_EC,TL10,Male,24,True,Mitochondrial,62
+H0021,sorted_EC,TL10,Male,24,True,Proliferating cell,5
+H0022,sorted_EC,TL10,Male,24,True,Stem-to-EC,5
+H0023,sorted_EC,TL10,Male,24,True,Vein,97
+H0024,sorted_EC,TL10,Male,24,True,Venule,811
+H0025,sorted_EC,TL2,Male,19,True,Angiogenic capillary,347
+H0026,sorted_EC,TL2,Male,19,True,Arteriole,1131
+H0027,sorted_EC,TL2,Male,19,True,Artery,605
+H0028,sorted_EC,TL2,Male,19,True,Capillary,3020
+H0029,sorted_EC,TL2,Male,19,True,EndoMT,129
+H0030,sorted_EC,TL2,Male,19,True,Large artery,157
+H0031,sorted_EC,TL2,Male,19,True,Large vein,55
+H0032,sorted_EC,TL2,Male,19,True,Mitochondrial,96
+H0033,sorted_EC,TL2,Male,19,True,Proliferating cell,69
+H0034,sorted_EC,TL2,Male,19,True,Stem-to-EC,10
+H0035,sorted_EC,TL2,Male,19,True,Vein,125
+H0036,sorted_EC,TL2,Male,19,True,Venule,423
+H0037,sorted_EC,TL3,Female,41,True,Angiogenic capillary,266
+H0038,sorted_EC,TL3,Female,41,True,Arteriole,636
+H0039,sorted_EC,TL3,Female,41,True,Artery,257
+H0040,sorted_EC,TL3,Female,41,True,Capillary,1396
+H0041,sorted_EC,TL3,Female,41,True,EndoMT,87
+H0042,sorted_EC,TL3,Female,41,True,Large artery,289
+H0043,sorted_EC,TL3,Female,41,True,Large vein,54
+H0044,sorted_EC,TL3,Female,41,True,Mitochondrial,59
+H0045,sorted_EC,TL3,Female,41,True,Proliferating cell,20
+H0046,sorted_EC,TL3,Female,41,True,Stem-to-EC,2
+H0047,sorted_EC,TL3,Female,41,True,Vein,77
+H0048,sorted_EC,TL3,Female,41,True,Venule,276
+H0049,sorted_EC,TL4,Male,41,True,Angiogenic capillary,135
+H0050,sorted_EC,TL4,Male,41,True,Arteriole,397
+H0051,sorted_EC,TL4,Male,41,True,Artery,211
+H0052,sorted_EC,TL4,Male,41,True,Capillary,872
+H0053,sorted_EC,TL4,Male,41,True,EndoMT,23
+H0054,sorted_EC,TL4,Male,41,True,Large artery,59
+H0055,sorted_EC,TL4,Male,41,True,Large vein,13
+H0056,sorted_EC,TL4,Male,41,True,Mitochondrial,94
+H0057,sorted_EC,TL4,Male,41,True,Proliferating cell,27
+H0058,sorted_EC,TL4,Male,41,True,Stem-to-EC,4
+H0059,sorted_EC,TL4,Male,41,True,Vein,31
+H0060,sorted_EC,TL4,Male,41,True,Venule,136
+H0061,sorted_EC,TL5,Female,69,True,Angiogenic capillary,613
+H0062,sorted_EC,TL5,Female,69,True,Arteriole,1119
+H0063,sorted_EC,TL5,Female,69,True,Artery,333
+H0064,sorted_EC,TL5,Female,69,True,Capillary,3673
+H0065,sorted_EC,TL5,Female,69,True,EndoMT,141
+H0066,sorted_EC,TL5,Female,69,True,Large artery,233
+H0067,sorted_EC,TL5,Female,69,True,Large vein,218
+H0068,sorted_EC,TL5,Female,69,True,Mitochondrial,127
+H0069,sorted_EC,TL5,Female,69,True,Proliferating cell,55
+H0070,sorted_EC,TL5,Female,69,True,Stem-to-EC,7
+H0071,sorted_EC,TL5,Female,69,True,Vein,235
+H0072,sorted_EC,TL5,Female,69,True,Venule,655
+H0073,sorted_EC,TL6,Male,24,True,Angiogenic capillary,552
+H0074,sorted_EC,TL6,Male,24,True,Arteriole,1757
+H0075,sorted_EC,TL6,Male,24,True,Artery,313
+H0076,sorted_EC,TL6,Male,24,True,Capillary,4763
+H0077,sorted_EC,TL6,Male,24,True,EndoMT,291
+H0078,sorted_EC,TL6,Male,24,True,Large artery,118
+H0079,sorted_EC,TL6,Male,24,True,Large vein,124
+H0080,sorted_EC,TL6,Male,24,True,Mitochondrial,102
+H0081,sorted_EC,TL6,Male,24,True,Proliferating cell,40
+H0082,sorted_EC,TL6,Male,24,True,Stem-to-EC,7
+H0083,sorted_EC,TL6,Male,24,True,Vein,206
+H0084,sorted_EC,TL6,Male,24,True,Venule,786
+H0085,sorted_EC,TL7,Female,39,True,Angiogenic capillary,2
+H0086,sorted_EC,TL7,Female,39,True,Arteriole,203
+H0087,sorted_EC,TL7,Female,39,True,Artery,23
+H0088,sorted_EC,TL7,Female,39,True,Capillary,145
+H0089,sorted_EC,TL7,Female,39,True,EndoMT,5
+H0090,sorted_EC,TL7,Female,39,True,Large artery,68
+H0091,sorted_EC,TL7,Female,39,True,Mitochondrial,3
+H0092,sorted_EC,TL7,Female,39,True,Vein,11
+H0093,sorted_EC,TL7,Female,39,True,Venule,8
+H0094,sorted_EC,TL9,Male,25,True,Angiogenic capillary,22
+H0095,sorted_EC,TL9,Male,25,True,Arteriole,3997
+H0096,sorted_EC,TL9,Male,25,True,Artery,536
+H0097,sorted_EC,TL9,Male,25,True,Capillary,2762
+H0098,sorted_EC,TL9,Male,25,True,EndoMT,448
+H0099,sorted_EC,TL9,Male,25,True,Large artery,896
+H0100,sorted_EC,TL9,Male,25,True,Large vein,182
+H0101,sorted_EC,TL9,Male,25,True,Mitochondrial,52
+H0102,sorted_EC,TL9,Male,25,True,Proliferating cell,1
+H0103,sorted_EC,TL9,Male,25,True,Stem-to-EC,3
+H0104,sorted_EC,TL9,Male,25,True,Vein,117
+H0105,sorted_EC,TL9,Male,25,True,Venule,236
+H0106,unsorted_EC_PVC,TL10,Male,24,True,Astrocytes,159
+H0107,unsorted_EC_PVC,TL10,Male,24,True,Endothelial cells,2486
+H0108,unsorted_EC_PVC,TL10,Male,24,True,Fibroblasts,225
+H0109,unsorted_EC_PVC,TL10,Male,24,True,Microglia and Macrophages,6695
+H0110,unsorted_EC_PVC,TL10,Male,24,True,Neuron progenitor,2
+H0111,unsorted_EC_PVC,TL10,Male,24,True,Neurons,15
+H0112,unsorted_EC_PVC,TL10,Male,24,True,Oligodendrocytes,1466
+H0113,unsorted_EC_PVC,TL10,Male,24,True,Pericytes,959
+H0114,unsorted_EC_PVC,TL10,Male,24,True,Smooth muscle cells,1090
+H0115,unsorted_EC_PVC,TL10,Male,24,True,Stem cells,8
+H0116,unsorted_EC_PVC,TL10,Male,24,True,T cells,436
+H0117,unsorted_EC_PVC,TL5,Female,69,True,Astrocytes,195
+H0118,unsorted_EC_PVC,TL5,Female,69,True,Endothelial cells,1199
+H0119,unsorted_EC_PVC,TL5,Female,69,True,Fibroblasts,177
+H0120,unsorted_EC_PVC,TL5,Female,69,True,Microglia and Macrophages,3209
+H0121,unsorted_EC_PVC,TL5,Female,69,True,Neuron progenitor,4
+H0122,unsorted_EC_PVC,TL5,Female,69,True,Neurons,9
+H0123,unsorted_EC_PVC,TL5,Female,69,True,Oligodendrocytes,418
+H0124,unsorted_EC_PVC,TL5,Female,69,True,Pericytes,420
+H0125,unsorted_EC_PVC,TL5,Female,69,True,Smooth muscle cells,1200
+H0126,unsorted_EC_PVC,TL5,Female,69,True,Stem cells,25
+H0127,unsorted_EC_PVC,TL5,Female,69,True,T cells,191
+H0128,unsorted_EC_PVC,TL6,Male,24,True,Astrocytes,113
+H0129,unsorted_EC_PVC,TL6,Male,24,True,Endothelial cells,521
+H0130,unsorted_EC_PVC,TL6,Male,24,True,Fibroblasts,154
+H0131,unsorted_EC_PVC,TL6,Male,24,True,Microglia and Macrophages,3174
+H0132,unsorted_EC_PVC,TL6,Male,24,True,Neuron progenitor,2
+H0133,unsorted_EC_PVC,TL6,Male,24,True,Neurons,4
+H0134,unsorted_EC_PVC,TL6,Male,24,True,Oligodendrocytes,165
+H0135,unsorted_EC_PVC,TL6,Male,24,True,Pericytes,289
+H0136,unsorted_EC_PVC,TL6,Male,24,True,Smooth muscle cells,425
+H0137,unsorted_EC_PVC,TL6,Male,24,True,Stem cells,4
+H0138,unsorted_EC_PVC,TL6,Male,24,True,T cells,151
+H0139,unsorted_EC_PVC,TL7,Female,39,True,Astrocytes,202
+H0140,unsorted_EC_PVC,TL7,Female,39,True,Endothelial cells,131
+H0141,unsorted_EC_PVC,TL7,Female,39,True,Fibroblasts,10
+H0142,unsorted_EC_PVC,TL7,Female,39,True,Microglia and Macrophages,3676
+H0143,unsorted_EC_PVC,TL7,Female,39,True,Neuron progenitor,5
+H0144,unsorted_EC_PVC,TL7,Female,39,True,Neurons,4
+H0145,unsorted_EC_PVC,TL7,Female,39,True,Oligodendrocytes,45
+H0146,unsorted_EC_PVC,TL7,Female,39,True,Pericytes,46
+H0147,unsorted_EC_PVC,TL7,Female,39,True,Smooth muscle cells,53
+H0148,unsorted_EC_PVC,TL7,Female,39,True,T cells,128
+H0149,unsorted_EC_PVC,TL8,Male,48,True,Astrocytes,4468
+H0150,unsorted_EC_PVC,TL8,Male,48,True,Endothelial cells,821
+H0151,unsorted_EC_PVC,TL8,Male,48,True,Fibroblasts,317
+H0152,unsorted_EC_PVC,TL8,Male,48,True,Microglia and Macrophages,5495
+H0153,unsorted_EC_PVC,TL8,Male,48,True,Neuron progenitor,1157
+H0154,unsorted_EC_PVC,TL8,Male,48,True,Neurons,15903
+H0155,unsorted_EC_PVC,TL8,Male,48,True,Oligodendrocytes,9
+H0156,unsorted_EC_PVC,TL8,Male,48,True,Pericytes,143
+H0157,unsorted_EC_PVC,TL8,Male,48,True,Smooth muscle cells,199
+H0158,unsorted_EC_PVC,TL8,Male,48,True,Stem cells,2306
+H0159,unsorted_EC_PVC,TL8,Male,48,True,T cells,138
+H0160,unsorted_EC_PVC,TL9,Male,25,True,Astrocytes,351
+H0161,unsorted_EC_PVC,TL9,Male,25,True,Endothelial cells,1655
+H0162,unsorted_EC_PVC,TL9,Male,25,True,Fibroblasts,257
+H0163,unsorted_EC_PVC,TL9,Male,25,True,Microglia and Macrophages,11381
+H0164,unsorted_EC_PVC,TL9,Male,25,True,Neuron progenitor,12
+H0165,unsorted_EC_PVC,TL9,Male,25,True,Neurons,7
+H0166,unsorted_EC_PVC,TL9,Male,25,True,Oligodendrocytes,1675
+H0167,unsorted_EC_PVC,TL9,Male,25,True,Pericytes,968
+H0168,unsorted_EC_PVC,TL9,Male,25,True,Smooth muscle cells,2638
+H0169,unsorted_EC_PVC,TL9,Male,25,True,Stem cells,9
+H0170,unsorted_EC_PVC,TL9,Male,25,True,T cells,716

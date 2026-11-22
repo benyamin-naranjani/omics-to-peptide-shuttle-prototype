@@ -1,0 +1,16 @@
+dataset_key,donor_id,sex,age_years,primary_adult_cohort,n_cells
+sorted_EC,TL1,Male,15,False,19596
+sorted_EC,TL10,Male,24,True,18753
+sorted_EC,TL2,Male,19,True,6167
+sorted_EC,TL3,Female,41,True,3419
+sorted_EC,TL4,Male,41,True,2002
+sorted_EC,TL5,Female,69,True,7409
+sorted_EC,TL6,Male,24,True,9059
+sorted_EC,TL7,Female,39,True,468
+sorted_EC,TL9,Male,25,True,9252
+unsorted_EC_PVC,TL10,Male,24,True,13541
+unsorted_EC_PVC,TL5,Female,69,True,7047
+unsorted_EC_PVC,TL6,Male,24,True,5002
+unsorted_EC_PVC,TL7,Female,39,True,4300
+unsorted_EC_PVC,TL8,Male,48,True,30956
+unsorted_EC_PVC,TL9,Male,25,True,19669

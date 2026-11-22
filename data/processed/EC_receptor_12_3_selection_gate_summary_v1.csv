@@ -1,0 +1,12 @@
+metric,value
+structural_scope_mouse_genes,114
+structural_scope_relationships,125
+focal_review_relationships,22
+manual_rows_marked_completed_with_nonempty_fields_not_claim_verified,0
+manual_entries_needing_correction,0
+relationship_rows_pending_primary_literature,73
+human_EC_transcript_assessable,114
+mouse_human_topology_both_available,92
+experimental_control_plan_rows,11
+approved_docking_fragments,0
+scientifically_finalized_primary_receptors,0

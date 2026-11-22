@@ -1,0 +1,3 @@
+dataset_key,source_file,object_class,stored_seurat_version,default_assay,n_cells,n_metadata_columns,n_assays,object_size_GiB,reductions
+sorted_EC,/home/bnaranjani/projects/omipep-omics-human-v0.2/data/raw/GSE256493/expression/human_adult_control_sorted_EC.rds,Seurat,4.1.3,RNA,76125,5,2,7.65618880838156,pca;umap
+unsorted_EC_PVC,/home/bnaranjani/projects/omipep-omics-human-v0.2/data/raw/GSE256493/expression/human_adult_control_unsorted_EC_PVC.rds,Seurat,4.1.3,RNA,80515,4,2,7.08873075991869,pca;umap

@@ -1,0 +1,27 @@
+dataset_key,human_ensembl_gene_id,matching_previous_symbols_json,matching_alias_symbols_json,automatic_assignment
+sorted_EC,ENSG00000156411,"[""ATP5MPL"", ""C14orf2""]",[],False
+sorted_EC,ENSG00000164096,"[""C4orf3""]",[],False
+sorted_EC,ENSG00000166352,"[""C11orf74""]",[],False
+sorted_EC,ENSG00000166920,"[""C15orf48""]",[],False
+sorted_EC,ENSG00000167085,"[""PHB""]",[],False
+sorted_EC,ENSG00000184584,"[""TMEM173""]",[],False
+sorted_EC,ENSG00000189043,"[""NDUFA4""]",[],False
+sorted_EC,ENSG00000204394,"[""VARS"", ""VARS2""]",[],False
+sorted_EC,ENSG00000225528,[],[],False
+sorted_EC,ENSG00000246705,"[""H2AFJ""]",[],False
+sorted_EC,ENSG00000288920,[],[],False
+sorted_EC,ENSG00000291309,[],[],False
+unsorted_EC_PVC,ENSG00000156411,"[""ATP5MPL"", ""C14orf2""]",[],False
+unsorted_EC_PVC,ENSG00000164096,"[""C4orf3""]",[],False
+unsorted_EC_PVC,ENSG00000166352,"[""C11orf74""]",[],False
+unsorted_EC_PVC,ENSG00000166920,"[""C15orf48""]",[],False
+unsorted_EC_PVC,ENSG00000167085,"[""PHB""]",[],False
+unsorted_EC_PVC,ENSG00000179913,[],[],False
+unsorted_EC_PVC,ENSG00000184584,"[""TMEM173""]",[],False
+unsorted_EC_PVC,ENSG00000189043,"[""NDUFA4""]",[],False
+unsorted_EC_PVC,ENSG00000204394,"[""VARS"", ""VARS2""]",[],False
+unsorted_EC_PVC,ENSG00000205755,[],[],False
+unsorted_EC_PVC,ENSG00000225528,[],[],False
+unsorted_EC_PVC,ENSG00000246705,"[""H2AFJ""]",[],False
+unsorted_EC_PVC,ENSG00000288920,[],[],False
+unsorted_EC_PVC,ENSG00000291309,[],[],False

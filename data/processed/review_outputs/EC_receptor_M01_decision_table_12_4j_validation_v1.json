@@ -1,0 +1,87 @@
+{
+  "status": "Pass-1 decision-facing derivative complete; claim-ledger audit, expert adjudication and final prioritization remain open",
+  "source_file": "EC_receptor_M01_expert_master_WITH_ENDPOINT_EVIDENCE_v2.csv",
+  "source_sha256_before": "b15905ba0c237fccd83347ce31b901746ff94fc1b59f39b4e79ba11141030329",
+  "source_sha256_after": "b15905ba0c237fccd83347ce31b901746ff94fc1b59f39b4e79ba11141030329",
+  "decision_file": "EC_receptor_M01_decision_table_12_4j_v1.csv",
+  "decision_sha256": "74486ebcace4fe04069bcd857390e5cca4822f25ae350693b033d8471950419f",
+  "schema_mapping_file": "EC_receptor_M01_decision_table_12_4j_schema_mapping_v1.csv",
+  "schema_mapping_sha256": "6f665ee136e4a9b20e8ae7e434fea4c0af06645c2534eccb28d4c70dc1649fd4",
+  "source_shape": [
+    125,
+    47
+  ],
+  "output_shape": [
+    125,
+    15
+  ],
+  "distinct_mouse_genes": 114,
+  "relationship_membership": "PASS",
+  "duplicate_relationships": 0,
+  "quantitative_string_equality": "PASS",
+  "presentation_sort": "FDR<0.05 and logFC sign; group up/down/nonsignificant/missing; descending CPM, missing CPM last; original integer DE order then relationship ID",
+  "group_counts": {
+    "Significant up": 94,
+    "Significant down": 9,
+    "Nonsignificant": 18,
+    "D02 missing": 4
+  },
+  "missing_numeric_counts": {
+    "D02_logFC": 4,
+    "D02_FDR": 4,
+    "LOSO_direction_stability_pct": 4,
+    "human_brain_EC_median_CPM": 11,
+    "human_EC_nonEC_log2_ratio": 11,
+    "extracellular_sequence_identity_pct": 34
+  },
+  "exact_zero_values_preserved": {
+    "D02_logFC": 0,
+    "D02_FDR": 0,
+    "LOSO_direction_stability_pct": 0,
+    "human_brain_EC_median_CPM": 1,
+    "human_EC_nonEC_log2_ratio": 1,
+    "extracellular_sequence_identity_pct": 4
+  },
+  "source_microbatches": 28,
+  "distinct_screened_citation_keys": 622,
+  "reported_endpoint_records": 1385,
+  "citation_key_count_mismatches": [],
+  "relationships_without_screened_keys": [
+    "Rpsa::ENSG00000288920"
+  ],
+  "empty_legacy_fields": [
+    "verified_native_luminal_protein_access",
+    "verified_binding_or_internalization_endpoint",
+    "verified_intact_BBB_transcytosis_endpoint",
+    "verified_peptide_cargo_abluminal_delivery",
+    "supporting_citation_keys",
+    "contradictory_citation_keys",
+    "n_verified_supporting_papers",
+    "n_verified_contradictory_papers",
+    "expert_feedback_and_uncertainties"
+  ],
+  "duplicated_binding_trafficking_pairs": 90,
+  "duplicated_epitope_structure_pairs": 85,
+  "safety_screen_categories": {
+    "Potential functional liability": 96,
+    "Context-dependent liability / perturbation": 11,
+    "Documented perturbation in screened context": 10,
+    "Insufficient target-specific safety evidence": 8
+  },
+  "receptor_approvals": 0,
+  "final_selection": "NOT PERFORMED",
+  "docking_fragment_approval": "Not evaluated; not authorized",
+  "ledger_and_reference_index": "Not supplied; no claim-to-reference validation or DOI reconciliation possible",
+  "remote_branch_commit": "fc21310638ef192d27c70f90df4325016c075c0f",
+  "remote_notebook_blob": "0d59e95c7cb5d9e5bf0ef0e0504364361c365404",
+  "remote_notebook_content": "Connector returned empty/incomplete content; not independently inspected",
+  "limitations": [
+    "All qualitative annotations are Pass-1 summary-level interpretations, not independent experimental verification.",
+    "The master lacks claim-level citations and verified fields are empty. Citation key strings preserved exactly but supporting vs contradictory attribution cannot be audited.",
+    "No new exposure or safety metrics inferred from RNA, no cross-platform ratio.",
+    "Manual functional-safety notes are contextual concerns, not toxicity grades or peptide safety outcomes.",
+    "Full original conflict narratives, required next experiments and review state remain in master; do not discard the 47-column master.",
+    "Source checksum applies only to uploaded master, not local dossier or notebook.",
+    "No final receptor shortlist or fragment approval."
+  ]
+}

@@ -1,0 +1,7 @@
+sample_id,source_file,GEO_sample,treatment,age,age_group,sex,Replicate,n_ec_cells
+GSM7060827_Brain_aged_GR210708,GSM7060827_Brain_aged_GR210708_metadata.csv.gz,GSM7060827,Sham,M20,aged,male,1,585
+GSM7060828_Brain_aged_GR200728,GSM7060828_Brain_aged_GR200728_metadata.csv.gz,GSM7060828,Sham,M18,aged,female,1,238
+GSM7060829_Brain_aged_GR200723,GSM7060829_Brain_aged_GR200723_metadata.csv.gz,GSM7060829,D02,M17,aged,male,1,325
+GSM7060830_Brain_aged_GR200716,GSM7060830_Brain_aged_GR200716_metadata.csv.gz,GSM7060830,D02,M18,aged,female,1,219
+GSM7060831_Brain_aged_GR210225,GSM7060831_Brain_aged_GR210225_metadata.csv.gz,GSM7060831,D02,M18,aged,female,2,204
+GSM7060832_Brain_aged_GR200812,GSM7060832_Brain_aged_GR200812_metadata.csv.gz,GSM7060832,D14,M18,aged,female,1,176

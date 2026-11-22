@@ -1,0 +1,4 @@
+source,url,retrieval_status,retrieved_utc,payload_sha256,error
+cellxgene_collection,https://api.cellxgene.cziscience.com/curation/v1/collections/c95ca269-68a7-47c5-82db-da227f31b598,success,2026-11-19T08:15:21.451499+00:00,c6cd8f41ee0f20ab1396dd2cad197b7fa73ac33db548b254f8d7fa0a3c4ebf4b,
+zenodo_sorted_individual_entities,https://zenodo.org/api/records/10058183,success,2026-11-19T08:15:21.965651+00:00,dced95c43760919370a49ba3eef95022e149a5c91d86ddaf7ddd69db1f482210,
+zenodo_unsorted_individual_entities,https://zenodo.org/api/records/10058371,success,2026-11-19T08:15:22.482906+00:00,e88d59968fb10900fbcf696db93f000c80ab3e4684fa56b75c436ca20bc1e0cf,

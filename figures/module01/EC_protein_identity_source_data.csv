@@ -1,0 +1,5 @@
+uniprot_status,n_genes,percentage
+found,544,95.77464788732394
+ambiguous,10,1.7605633802816902
+identity_unresolved,2,0.352112676056338
+not_protein_coding,12,2.112676056338028

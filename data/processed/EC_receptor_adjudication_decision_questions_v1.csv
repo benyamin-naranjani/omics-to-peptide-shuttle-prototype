@@ -1,0 +1,9 @@
+question_id,axis,adjudication_question,required_evidence,present_status
+1,stroke_signal,Is D02/D14 differential expression robust at sample level and beyond a meaningful effect size?,"edgeR QL, LOSO, annotation sensitivity and glmTreat",required_for_stroke_discovery_claim
+2,human_translatability,"Is this specific human orthologue confidently mapped, EC-expressed and accessible?","orthology, human donor RNA and canonical protein topology",required_for_human_relevance_claim
+3,luminal_accessibility,Is the native adult brain EC epitope exposed on the blood-facing membrane?,polarized endothelial protein/antibody or accessibility assay,requires_new_evidence
+4,receptor_traffic,Does the selected ligand mediate productive internalization rather than degradation/recycling?,"matched ligand format, receptor dependence and trafficking",requires_target_specific_evidence
+5,brain_delivery,"Is intact peptide/cargo shown beyond brain vasculature, with preserved barrier integrity?",quantitative abluminal or capillary-depleted parenchymal transport,not_yet_established_for_generated_peptides
+6,peripheral_sink,"Could peripheral vessels, blood cells or soluble receptor bind the candidate?",HPA transcript context plus native protein and ligand binding,RNA_context_only
+7,model_selection,"Are receptor construct, membrane context, glycan/SS bridges and PDB/model quality suitable?",target-specific structural inspection and explicitly approved coordinates,fragments_not_approved
+8,controls,Which positive and negative ligand/cargo controls share the same transport assay and endpoint?,"defined ligand-format controls, intact-peptide detection and barrier readout",assay_controls_not_yet_finalized

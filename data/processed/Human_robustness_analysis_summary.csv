@@ -1,0 +1,10 @@
+metric,value
+Human target genes,559
+Gene-population comparisons,8385
+Sensitivity configurations per comparison,12
+Threshold sensitivity records,100620
+Leave-one-donor-out records,39865
+Direction preserved across all checks,5720
+Shared biological donors,5
+Common cross-protocol target genes,542
+Integrated orthology relationships,568

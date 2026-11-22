@@ -1,0 +1,14 @@
+surface_class,D02,D14,Reference
+annotation_unresolved,11,2,0
+intracellular_or_organelle,351,4,0
+membrane_external_topology,15,0,1
+membrane_unknown_location,14,0,1
+non_protein_coding_gene,12,0,0
+secreted_or_extracellular,12,3,1
+secreted_or_extracellular_mixed,12,3,0
+surface_accessible,27,2,30
+surface_cytoplasmic,9,0,0
+surface_isoform_dependent,2,0,1
+surface_mature_chain_supported,0,0,2
+surface_topology_unresolved,27,0,0
+unknown,40,0,0

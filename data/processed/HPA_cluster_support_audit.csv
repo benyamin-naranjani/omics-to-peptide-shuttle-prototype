@@ -1,0 +1,558 @@
+tissue_key,cluster_key,cell_type_key,cluster_supported,cluster_n_cells,cluster_annotation_reliability,metadata_match
+adipose tissue,c-0,fibroblasts,True,14945,medium,both
+adipose tissue,c-1,t-cells,True,10011,high,both
+adipose tissue,c-10,macrophages,True,2669,medium,both
+adipose tissue,c-11,t-cells,True,2144,high,both
+adipose tissue,c-12,adipocytes,True,1746,high,both
+adipose tissue,c-13,macrophages,True,1573,high,both
+adipose tissue,c-14,nk-cells,True,1302,high,both
+adipose tissue,c-15,smooth muscle cells,True,1197,high,both
+adipose tissue,c-16,t-cells,True,1157,high,both
+adipose tissue,c-17,monocytes,True,889,medium,both
+adipose tissue,c-18,b-cells,True,735,high,both
+adipose tissue,c-19,schwann cells,True,337,medium,both
+adipose tissue,c-2,t-cells,True,7279,high,both
+adipose tissue,c-20,dendritic cells,True,167,high,both
+adipose tissue,c-21,t-cells,True,152,medium,both
+adipose tissue,c-3,t-cells,True,7200,high,both
+adipose tissue,c-4,nk-cells,True,5823,high,both
+adipose tissue,c-5,fibroblasts,True,5512,high,both
+adipose tissue,c-6,fibroblasts,True,4986,high,both
+adipose tissue,c-7,t-cells,True,3989,high,both
+adipose tissue,c-8,fibroblasts,True,3382,high,both
+adipose tissue,c-9,macrophages,True,2888,high,both
+bone marrow,c-0,t-cells,True,967,high,both
+bone marrow,c-1,t-cells,True,641,high,both
+bone marrow,c-2,t-cells,True,556,high,both
+bone marrow,c-3,b-cells,True,491,high,both
+bone marrow,c-4,t-cells,True,296,high,both
+bone marrow,c-5,macrophages,True,184,high,both
+bone marrow,c-6,t-cells,True,142,high,both
+bone marrow,c-7,erythroid cells,True,118,medium,both
+bone marrow,c-8,plasma cells,True,45,high,both
+bone marrow,c-9,b-cells,True,44,medium,both
+brain,c-0,excitatory neurons,True,4644,high,both
+brain,c-1,excitatory neurons,True,4370,high,both
+brain,c-10,excitatory neurons,True,2401,high,both
+brain,c-11,excitatory neurons,True,2360,high,both
+brain,c-12,oligodendrocytes,True,2309,high,both
+brain,c-13,excitatory neurons,True,2275,high,both
+brain,c-14,inhibitory neurons,True,2250,high,both
+brain,c-15,inhibitory neurons,True,1993,high,both
+brain,c-16,excitatory neurons,True,1927,high,both
+brain,c-17,inhibitory neurons,True,1775,high,both
+brain,c-18,excitatory neurons,True,1697,high,both
+brain,c-19,excitatory neurons,True,1630,high,both
+brain,c-2,excitatory neurons,True,3732,high,both
+brain,c-20,excitatory neurons,True,1507,high,both
+brain,c-21,inhibitory neurons,True,1424,high,both
+brain,c-22,excitatory neurons,True,1397,high,both
+brain,c-23,inhibitory neurons,True,1351,high,both
+brain,c-24,excitatory neurons,True,1293,high,both
+brain,c-25,inhibitory neurons,True,1230,high,both
+brain,c-26,inhibitory neurons,True,1218,high,both
+brain,c-27,excitatory neurons,True,1146,high,both
+brain,c-28,inhibitory neurons,True,963,high,both
+brain,c-29,excitatory neurons,True,925,high,both
+brain,c-3,excitatory neurons,True,3724,high,both
+brain,c-30,inhibitory neurons,True,920,high,both
+brain,c-31,excitatory neurons,True,858,high,both
+brain,c-32,excitatory neurons,True,826,high,both
+brain,c-33,excitatory neurons,True,730,high,both
+brain,c-34,excitatory neurons,True,709,high,both
+brain,c-35,astrocytes,True,567,high,both
+brain,c-36,excitatory neurons,True,557,high,both
+brain,c-37,oligodendrocytes,True,542,high,both
+brain,c-38,inhibitory neurons,True,466,high,both
+brain,c-39,excitatory neurons,True,324,high,both
+brain,c-4,excitatory neurons,True,3519,high,both
+brain,c-40,excitatory neurons,True,298,high,both
+brain,c-41,inhibitory neurons,True,293,high,both
+brain,c-42,oligodendrocyte precursor cells,True,286,medium,both
+brain,c-43,microglial cells,True,206,medium,both
+brain,c-44,excitatory neurons,True,111,medium,both
+brain,c-5,inhibitory neurons,True,3513,high,both
+brain,c-6,inhibitory neurons,True,3482,high,both
+brain,c-7,excitatory neurons,True,3220,high,both
+brain,c-8,inhibitory neurons,True,3114,high,both
+brain,c-9,excitatory neurons,True,2451,high,both
+breast,c-0,t-cells,True,4621,high,both
+breast,c-1,breast glandular cells,True,3920,high,both
+breast,c-10,t-cells,True,2194,high,both
+breast,c-11,breast glandular cells,True,1905,medium,both
+breast,c-12,fibroblasts,True,1891,high,both
+breast,c-13,fibroblasts,True,1466,high,both
+breast,c-14,smooth muscle cells,True,1466,high,both
+breast,c-15,t-cells,True,1460,medium,both
+breast,c-16,breast glandular cells,True,1269,high,both
+breast,c-17,breast glandular cells,True,1139,high,both
+breast,c-18,macrophages,False,1012,low,both
+breast,c-19,macrophages,True,930,medium,both
+breast,c-2,t-cells,True,3428,high,both
+breast,c-20,breast myoepithelial cells,True,482,high,both
+breast,c-21,breast glandular cells,True,470,high,both
+breast,c-22,endothelial cells,True,221,medium,both
+breast,c-23,adipocytes,True,175,medium,both
+breast,c-24,t-cells,True,53,medium,both
+breast,c-3,macrophages,True,2849,medium,both
+breast,c-4,breast glandular cells,True,2778,high,both
+breast,c-5,fibroblasts,True,2707,high,both
+breast,c-6,adipocytes,True,2658,medium,both
+breast,c-7,adipocytes,True,2380,medium,both
+breast,c-8,adipocytes,True,2368,medium,both
+breast,c-9,breast glandular cells,True,2284,medium,both
+bronchus,c-0,basal respiratory cells,True,3223,medium,both
+bronchus,c-1,club cells,True,3163,medium,both
+bronchus,c-10,ciliated cells,True,1298,medium,both
+bronchus,c-11,club cells,True,1249,medium,both
+bronchus,c-12,ciliated cells,True,1192,medium,both
+bronchus,c-13,smooth muscle cells,False,664,low,both
+bronchus,c-14,basal respiratory cells,True,311,medium,both
+bronchus,c-2,ionocytes,True,2866,medium,both
+bronchus,c-3,basal respiratory cells,True,2400,medium,both
+bronchus,c-4,club cells,True,2068,medium,both
+bronchus,c-5,basal respiratory cells,True,1960,medium,both
+bronchus,c-6,club cells,True,1794,medium,both
+bronchus,c-7,ciliated cells,True,1595,medium,both
+bronchus,c-8,club cells,True,1519,medium,both
+bronchus,c-9,basal respiratory cells,True,1374,medium,both
+colon,c-0,distal enterocytes,True,967,high,both
+colon,c-1,undifferentiated cells,False,827,low,both
+colon,c-10,paneth cells,True,55,high,both
+colon,c-2,distal enterocytes,True,675,medium,both
+colon,c-3,distal enterocytes,False,660,low,both
+colon,c-4,intestinal goblet cells,True,609,high,both
+colon,c-5,enteroendocrine cells,True,516,high,both
+colon,c-6,t-cells,True,422,medium,both
+colon,c-7,undifferentiated cells,True,397,medium,both
+colon,c-8,undifferentiated cells,True,98,medium,both
+colon,c-9,distal enterocytes,True,76,medium,both
+endometrium,c-0,glandular and luminal cells,True,5085,high,both
+endometrium,c-1,endometrial stromal cells,True,4647,high,both
+endometrium,c-10,glandular and luminal cells,True,1994,high,both
+endometrium,c-11,glandular and luminal cells,True,1911,high,both
+endometrium,c-12,glandular and luminal cells,True,1805,high,both
+endometrium,c-13,endometrial stromal cells,True,1648,high,both
+endometrium,c-14,endometrial stromal cells,True,1401,high,both
+endometrium,c-15,endothelial cells,True,1348,high,both
+endometrium,c-16,glandular and luminal cells,True,1296,high,both
+endometrium,c-17,glandular and luminal cells,True,1190,high,both
+endometrium,c-18,smooth muscle cells,True,987,high,both
+endometrium,c-19,endometrial stromal cells,True,859,high,both
+endometrium,c-2,t-cells,True,4321,high,both
+endometrium,c-20,endometrial stromal cells,True,734,high,both
+endometrium,c-21,glandular and luminal cells,True,689,high,both
+endometrium,c-22,macrophages,True,402,high,both
+endometrium,c-23,endothelial cells,True,268,high,both
+endometrium,c-24,glandular and luminal cells,True,58,high,both
+endometrium,c-3,glandular and luminal cells,True,4284,high,both
+endometrium,c-4,endometrial stromal cells,True,4089,high,both
+endometrium,c-5,endometrial stromal cells,True,3378,high,both
+endometrium,c-6,glandular and luminal cells,True,3364,high,both
+endometrium,c-7,endometrial stromal cells,True,2355,high,both
+endometrium,c-8,ciliated cells,True,2304,high,both
+endometrium,c-9,glandular and luminal cells,True,2177,high,both
+esophagus,c-0,fibroblasts,True,1682,high,both
+esophagus,c-1,squamous epithelial cells,True,1427,medium,both
+esophagus,c-10,squamous epithelial cells,True,341,medium,both
+esophagus,c-11,b-cells,True,175,high,both
+esophagus,c-12,plasma cells,True,118,medium,both
+esophagus,c-13,endothelial cells,True,86,medium,both
+esophagus,c-14,schwann cells,True,48,high,both
+esophagus,c-2,basal squamous epithelial cells,True,1387,high,both
+esophagus,c-3,endothelial cells,True,1148,high,both
+esophagus,c-4,fibroblasts,True,912,high,both
+esophagus,c-5,squamous epithelial cells,True,851,high,both
+esophagus,c-6,fibroblasts,True,817,high,both
+esophagus,c-7,smooth muscle cells,True,547,high,both
+esophagus,c-8,t-cells,True,453,high,both
+esophagus,c-9,macrophages,True,449,high,both
+eye,c-0,rod photoreceptor cells,True,3275,high,both
+eye,c-1,bipolar cells,True,1379,high,both
+eye,c-10,cone photoreceptor cells,True,114,high,both
+eye,c-11,bipolar cells,True,78,high,both
+eye,c-2,muller glia cells,True,1357,high,both
+eye,c-3,bipolar cells,True,776,medium,both
+eye,c-4,rod photoreceptor cells,True,539,high,both
+eye,c-5,horizontal cells,True,487,medium,both
+eye,c-6,muller glia cells,True,437,high,both
+eye,c-7,muller glia cells,True,432,high,both
+eye,c-8,rod photoreceptor cells,True,347,high,both
+eye,c-9,muller glia cells,True,334,medium,both
+fallopian tube,c-0,secretory cells,True,5817,medium,both
+fallopian tube,c-1,smooth muscle cells,True,4390,high,both
+fallopian tube,c-10,smooth muscle cells,True,2341,high,both
+fallopian tube,c-11,secretory cells,True,2333,high,both
+fallopian tube,c-12,ciliated cells,True,2329,high,both
+fallopian tube,c-13,lymphatic endothelial cells,True,2268,high,both
+fallopian tube,c-14,macrophages,True,2024,high,both
+fallopian tube,c-15,secretory cells,True,2006,medium,both
+fallopian tube,c-16,macrophages,True,1905,medium,both
+fallopian tube,c-17,fibroblasts,True,1885,high,both
+fallopian tube,c-18,granulocytes,True,1848,high,both
+fallopian tube,c-19,ciliated cells,True,1768,high,both
+fallopian tube,c-2,secretory cells,True,4089,medium,both
+fallopian tube,c-20,t-cells,True,1731,high,both
+fallopian tube,c-21,neutrophils,False,902,high,both
+fallopian tube,c-22,t-cells,True,670,high,both
+fallopian tube,c-23,plasma cells,True,535,medium,both
+fallopian tube,c-24,ciliated cells,True,464,high,both
+fallopian tube,c-25,smooth muscle cells,True,382,medium,both
+fallopian tube,c-26,lymphatic endothelial cells,True,68,medium,both
+fallopian tube,c-27,fibroblasts,False,45,low,both
+fallopian tube,c-3,fibroblasts,True,3851,high,both
+fallopian tube,c-4,endothelial cells,True,3735,high,both
+fallopian tube,c-5,fibroblasts,True,3628,high,both
+fallopian tube,c-6,fibroblasts,True,3355,high,both
+fallopian tube,c-7,fibroblasts,True,2824,high,both
+fallopian tube,c-8,t-cells,True,2720,high,both
+fallopian tube,c-9,t-cells,True,2601,high,both
+heart muscle,c-0,cardiomyocytes,True,1148,high,both
+heart muscle,c-1,cardiomyocytes,True,1118,high,both
+heart muscle,c-2,cardiomyocytes,True,787,medium,both
+heart muscle,c-3,smooth muscle cells,False,781,low,both
+heart muscle,c-4,endothelial cells,True,602,medium,both
+heart muscle,c-5,cardiomyocytes,True,538,high,both
+heart muscle,c-6,endothelial cells,True,498,high,both
+heart muscle,c-7,fibroblasts,True,318,high,both
+heart muscle,c-8,cardiomyocytes,True,222,medium,both
+kidney,c-0,proximal tubular cells,True,3995,medium,both
+kidney,c-1,proximal tubular cells,True,2900,medium,both
+kidney,c-10,distal tubular cells,True,309,medium,both
+kidney,c-11,b-cells,True,127,high,both
+kidney,c-12,collecting duct cells,True,106,medium,both
+kidney,c-2,proximal tubular cells,True,2572,high,both
+kidney,c-3,proximal tubular cells,True,2368,high,both
+kidney,c-4,proximal tubular cells,True,2127,high,both
+kidney,c-5,proximal tubular cells,True,1410,high,both
+kidney,c-6,t-cells,True,734,medium,both
+kidney,c-7,macrophages,True,636,high,both
+kidney,c-8,proximal tubular cells,True,571,high,both
+kidney,c-9,proximal tubular cells,True,510,medium,both
+liver,c-0,hepatocytes,True,1363,high,both
+liver,c-1,t-cells,True,984,high,both
+liver,c-10,kupffer cells,True,564,high,both
+liver,c-11,fibroblasts,True,513,medium,both
+liver,c-12,hepatocytes,True,501,high,both
+liver,c-13,t-cells,True,474,medium,both
+liver,c-14,t-cells,True,413,medium,both
+liver,c-15,kupffer cells,True,373,high,both
+liver,c-16,b-cells,True,181,high,both
+liver,c-17,cholangiocytes,True,96,high,both
+liver,c-18,hepatocytes,True,64,high,both
+liver,c-19,erythroid cells,True,51,high,both
+liver,c-2,kupffer cells,True,856,high,both
+liver,c-3,plasma cells,True,777,high,both
+liver,c-4,hepatocytes,True,777,high,both
+liver,c-5,endothelial cells,True,697,medium,both
+liver,c-6,kupffer cells,True,675,medium,both
+liver,c-7,smooth muscle cells,True,625,medium,both
+liver,c-8,t-cells,True,596,high,both
+liver,c-9,hepatocytes,True,595,high,both
+lung,c-0,alveolar cells type 2,True,3281,high,both
+lung,c-1,macrophages,True,3078,high,both
+lung,c-10,t-cells,True,1132,medium,both
+lung,c-11,alveolar cells type 2,True,994,high,both
+lung,c-12,macrophages,True,869,high,both
+lung,c-13,macrophages,True,636,high,both
+lung,c-14,granulocytes,True,624,medium,both
+lung,c-15,macrophages,True,555,high,both
+lung,c-16,t-cells,True,546,medium,both
+lung,c-17,alveolar cells type 2,False,532,low,both
+lung,c-18,endothelial cells,True,481,high,both
+lung,c-19,club cells,True,432,high,both
+lung,c-2,macrophages,True,3001,high,both
+lung,c-20,b-cells,True,313,high,both
+lung,c-21,endothelial cells,True,300,high,both
+lung,c-22,macrophages,True,297,medium,both
+lung,c-23,ciliated cells,True,254,medium,both
+lung,c-24,smooth muscle cells,True,186,high,both
+lung,c-25,endothelial cells,True,140,high,both
+lung,c-26,ciliated cells,False,123,very low,both
+lung,c-3,alveolar cells type 1,True,2162,medium,both
+lung,c-4,macrophages,True,1505,high,both
+lung,c-5,endothelial cells,True,1452,high,both
+lung,c-6,alveolar cells type 1,True,1295,medium,both
+lung,c-7,endothelial cells,True,1227,high,both
+lung,c-8,alveolar cells type 2,True,1196,high,both
+lung,c-9,fibroblasts,True,1145,medium,both
+lymph node,c-0,b-cells,True,2283,high,both
+lymph node,c-1,b-cells,True,2025,high,both
+lymph node,c-2,t-cells,True,1926,high,both
+lymph node,c-3,t-cells,True,1520,high,both
+lymph node,c-4,b-cells,True,876,high,both
+lymph node,c-5,t-cells,True,316,high,both
+lymph node,c-6,mixed cell types,False,130,medium,both
+ovary,c-0,ovarian stromal cells,True,6312,high,both
+ovary,c-1,ovarian stromal cells,True,5365,high,both
+ovary,c-10,endothelial cells,True,1803,high,both
+ovary,c-11,smooth muscle cells,True,1792,medium,both
+ovary,c-12,ovarian stromal cells,False,641,low,both
+ovary,c-13,granulosa cells,True,471,high,both
+ovary,c-14,mixed immune cells,False,220,high,both
+ovary,c-15,oocytes,True,80,high,both
+ovary,c-16,lymphatic endothelial cells,True,73,high,both
+ovary,c-2,ovarian stromal cells,True,4080,high,both
+ovary,c-3,ovarian stromal cells,True,2560,medium,both
+ovary,c-4,ovarian stromal cells,True,2543,medium,both
+ovary,c-5,smooth muscle cells,True,2441,high,both
+ovary,c-6,ovarian stromal cells,True,2377,medium,both
+ovary,c-7,ovarian stromal cells,True,2307,high,both
+ovary,c-8,ovarian stromal cells,True,2122,high,both
+ovary,c-9,smooth muscle cells,True,1917,high,both
+pancreas,c-0,ductal cells,True,767,medium,both
+pancreas,c-1,exocrine glandular cells,False,744,low,both
+pancreas,c-10,exocrine glandular cells,True,180,medium,both
+pancreas,c-11,exocrine glandular cells,True,176,high,both
+pancreas,c-12,ductal cells,False,173,low,both
+pancreas,c-13,ductal cells,True,114,medium,both
+pancreas,c-14,mixed immune cells,False,105,low,both
+pancreas,c-15,mixed cell types,False,64,very low,both
+pancreas,c-16,macrophages,True,38,high,both
+pancreas,c-17,endothelial cells,False,21,high,both
+pancreas,c-2,ductal cells,True,742,high,both
+pancreas,c-3,mixed cell types,False,447,very low,both
+pancreas,c-4,mixed cell types,False,407,very low,both
+pancreas,c-5,exocrine glandular cells,True,334,high,both
+pancreas,c-6,ductal cells,True,316,medium,both
+pancreas,c-7,pancreatic endocrine cells,True,270,high,both
+pancreas,c-8,fibroblasts,True,226,medium,both
+pancreas,c-9,exocrine glandular cells,True,189,high,both
+pbmc,c-0,macrophages,False,1350,low,both
+pbmc,c-1,t-cells,True,1207,high,both
+pbmc,c-10,dendritic cells,True,38,high,both
+pbmc,c-2,t-cells,True,554,high,both
+pbmc,c-3,t-cells,True,466,high,both
+pbmc,c-4,nk-cells,True,404,high,both
+pbmc,c-5,t-cells,True,344,medium,both
+pbmc,c-6,monocytes,False,289,low,both
+pbmc,c-7,t-cells,True,271,high,both
+pbmc,c-8,b-cells,True,228,high,both
+pbmc,c-9,platelets,False,123,high,both
+placenta,c-0,cytotrophoblasts,True,4365,high,both
+placenta,c-1,smooth muscle cells,True,2371,medium,both
+placenta,c-10,cytotrophoblasts,True,816,medium,both
+placenta,c-11,cytotrophoblasts,True,792,medium,both
+placenta,c-12,cytotrophoblasts,True,731,high,both
+placenta,c-13,cytotrophoblasts,True,725,high,both
+placenta,c-14,hofbauer cells,True,632,medium,both
+placenta,c-15,fibroblasts,True,601,high,both
+placenta,c-16,smooth muscle cells,True,534,medium,both
+placenta,c-17,t-cells,False,483,low,both
+placenta,c-18,smooth muscle cells,True,275,high,both
+placenta,c-19,endothelial cells,True,245,medium,both
+placenta,c-2,extravillous trophoblasts,True,2171,high,both
+placenta,c-20,fibroblasts,False,244,low,both
+placenta,c-21,mixed immune cells,False,187,very low,both
+placenta,c-22,fibroblasts,True,180,high,both
+placenta,c-23,smooth muscle cells,True,173,medium,both
+placenta,c-24,smooth muscle cells,True,157,medium,both
+placenta,c-25,extravillous trophoblasts,True,139,high,both
+placenta,c-26,mixed immune cells,False,63,very low,both
+placenta,c-3,cytotrophoblasts,True,1701,high,both
+placenta,c-4,hofbauer cells,True,1698,high,both
+placenta,c-5,cytotrophoblasts,True,1519,high,both
+placenta,c-6,syncytiotrophoblasts,True,1396,medium,both
+placenta,c-7,hofbauer cells,True,1242,high,both
+placenta,c-8,extravillous trophoblasts,True,1138,high,both
+placenta,c-9,smooth muscle cells,True,1037,medium,both
+prostate,c-0,mixed cell types,False,3436,very low,both
+prostate,c-1,mixed cell types,False,2980,very low,both
+prostate,c-10,smooth muscle cells,True,402,high,both
+prostate,c-11,endothelial cells,False,351,low,both
+prostate,c-12,fibroblasts,True,275,high,both
+prostate,c-13,t-cells,True,271,medium,both
+prostate,c-14,prostatic glandular cells,True,109,high,both
+prostate,c-2,basal prostatic cells,True,2408,medium,both
+prostate,c-3,basal prostatic cells,True,2264,medium,both
+prostate,c-4,t-cells,True,1862,medium,both
+prostate,c-5,mixed cell types,False,1693,very low,both
+prostate,c-6,macrophages,True,992,high,both
+prostate,c-7,endothelial cells,True,982,medium,both
+prostate,c-8,prostatic glandular cells,True,552,high,both
+prostate,c-9,club cells,True,432,medium,both
+rectum,c-0,intestinal goblet cells,False,562,low,both
+rectum,c-1,intestinal goblet cells,True,402,high,both
+rectum,c-2,undifferentiated cells,True,331,high,both
+rectum,c-3,paneth cells,True,301,medium,both
+rectum,c-4,intestinal goblet cells,True,279,medium,both
+rectum,c-5,undifferentiated cells,True,267,medium,both
+rectum,c-6,intestinal goblet cells,True,179,medium,both
+rectum,c-7,distal enterocytes,True,138,high,both
+rectum,c-8,mixed immune cells,False,92,high,both
+rectum,c-9,enteroendocrine cells,True,87,high,both
+salivary gland,c-0,serous glandular cells,True,3573,high,both
+salivary gland,c-1,serous glandular cells,False,3236,low,both
+salivary gland,c-10,serous glandular cells,True,1025,high,both
+salivary gland,c-11,macrophages,True,894,high,both
+salivary gland,c-12,salivary duct cells,True,877,high,both
+salivary gland,c-13,fibroblasts,True,776,high,both
+salivary gland,c-14,serous glandular cells,True,737,high,both
+salivary gland,c-15,endothelial cells,True,694,high,both
+salivary gland,c-16,serous glandular cells,True,501,high,both
+salivary gland,c-17,fibroblasts,True,420,high,both
+salivary gland,c-18,plasma cells,True,316,medium,both
+salivary gland,c-19,fibroblasts,True,309,medium,both
+salivary gland,c-2,serous glandular cells,True,2962,high,both
+salivary gland,c-20,smooth muscle cells,True,173,medium,both
+salivary gland,c-21,mixed immune cells,False,165,medium,both
+salivary gland,c-22,smooth muscle cells,True,138,high,both
+salivary gland,c-23,t-cells,True,106,medium,both
+salivary gland,c-3,b-cells,True,2396,high,both
+salivary gland,c-4,mucus glandular cells,True,2206,high,both
+salivary gland,c-5,mucus glandular cells,True,1932,high,both
+salivary gland,c-6,b-cells,True,1512,high,both
+salivary gland,c-7,t-cells,True,1447,medium,both
+salivary gland,c-8,macrophages,True,1296,medium,both
+salivary gland,c-9,serous glandular cells,True,1118,medium,both
+skeletal muscle,c-0,endothelial cells,True,2606,medium,both
+skeletal muscle,c-1,fibroblasts,True,2287,medium,both
+skeletal muscle,c-10,endothelial cells,True,1160,medium,both
+skeletal muscle,c-11,fibroblasts,True,1077,high,both
+skeletal muscle,c-12,endothelial cells,True,916,high,both
+skeletal muscle,c-13,smooth muscle cells,True,907,medium,both
+skeletal muscle,c-14,macrophages,True,857,high,both
+skeletal muscle,c-15,macrophages,True,661,high,both
+skeletal muscle,c-16,skeletal myocytes,True,292,high,both
+skeletal muscle,c-17,fibroblasts,True,192,high,both
+skeletal muscle,c-18,fibroblasts,True,108,medium,both
+skeletal muscle,c-19,fibroblasts,True,34,high,both
+skeletal muscle,c-2,smooth muscle cells,True,2284,high,both
+skeletal muscle,c-3,fibroblasts,True,2186,medium,both
+skeletal muscle,c-4,mixed cell types,False,1784,very low,both
+skeletal muscle,c-5,t-cells,True,1674,medium,both
+skeletal muscle,c-6,fibroblasts,True,1563,medium,both
+skeletal muscle,c-7,fibroblasts,True,1414,high,both
+skeletal muscle,c-8,mixed cell types,False,1384,medium,both
+skeletal muscle,c-9,fibroblasts,True,1193,medium,both
+skin,c-0,fibroblasts,True,3083,medium,both
+skin,c-1,fibroblasts,True,2433,medium,both
+skin,c-10,fibroblasts,True,869,medium,both
+skin,c-11,smooth muscle cells,True,680,medium,both
+skin,c-12,endothelial cells,False,451,very low,both
+skin,c-13,langerhans cells,True,428,medium,both
+skin,c-14,melanocytes,True,330,high,both
+skin,c-15,b-cells,True,268,medium,both
+skin,c-16,granulocytes,False,205,low,both
+skin,c-17,endothelial cells,True,123,medium,both
+skin,c-18,smooth muscle cells,True,86,high,both
+skin,c-2,t-cells,True,2335,high,both
+skin,c-3,fibroblasts,True,2193,high,both
+skin,c-4,endothelial cells,True,1895,medium,both
+skin,c-5,langerhans cells,True,1776,medium,both
+skin,c-6,suprabasal keratinocytes,True,1734,high,both
+skin,c-7,basal keratinocytes,True,1313,high,both
+skin,c-8,smooth muscle cells,True,1172,medium,both
+skin,c-9,macrophages,True,961,high,both
+small intestine,c-0,proximal enterocytes,True,852,medium,both
+small intestine,c-1,proximal enterocytes,True,820,medium,both
+small intestine,c-10,paneth cells,True,75,high,both
+small intestine,c-11,enteroendocrine cells,True,66,high,both
+small intestine,c-12,mixed immune cells,False,26,medium,both
+small intestine,c-2,intestinal goblet cells,True,773,medium,both
+small intestine,c-3,undifferentiated cells,True,711,medium,both
+small intestine,c-4,proximal enterocytes,True,626,medium,both
+small intestine,c-5,proximal enterocytes,True,592,medium,both
+small intestine,c-6,undifferentiated cells,True,346,medium,both
+small intestine,c-7,proximal enterocytes,True,340,medium,both
+small intestine,c-8,intestinal goblet cells,True,147,medium,both
+small intestine,c-9,undifferentiated cells,True,86,medium,both
+spleen,c-0,b-cells,True,1126,high,both
+spleen,c-1,t-cells,True,848,high,both
+spleen,c-2,t-cells,True,775,high,both
+spleen,c-3,macrophages,True,396,medium,both
+spleen,c-4,plasma cells,True,369,high,both
+spleen,c-5,t-cells,True,364,medium,both
+spleen,c-6,t-cells,True,355,high,both
+spleen,c-7,t-cells,True,205,high,both
+spleen,c-8,b-cells,True,54,medium,both
+stomach,c-0,b-cells,True,1127,high,both
+stomach,c-1,t-cells,True,1071,medium,both
+stomach,c-2,t-cells,True,852,medium,both
+stomach,c-3,t-cells,True,747,high,both
+stomach,c-4,t-cells,True,624,high,both
+stomach,c-5,plasma cells,True,599,high,both
+stomach,c-6,gastric mucus-secreting cells,True,430,high,both
+stomach,c-7,fibroblasts,True,150,medium,both
+stomach,c-8,macrophages,True,101,high,both
+testis,c-0,leydig cells,True,609,medium,both
+testis,c-1,spermatocytes,True,547,high,both
+testis,c-10,macrophages,True,338,high,both
+testis,c-11,late spermatids,True,315,high,both
+testis,c-12,peritubular cells,True,309,high,both
+testis,c-13,late spermatids,True,270,medium,both
+testis,c-14,spermatogonia,True,266,high,both
+testis,c-15,late spermatids,True,201,medium,both
+testis,c-16,spermatocytes,True,171,high,both
+testis,c-17,spermatocytes,True,153,high,both
+testis,c-18,early spermatids,False,128,low,both
+testis,c-19,sertoli cells,True,43,medium,both
+testis,c-2,late spermatids,True,475,high,both
+testis,c-3,early spermatids,True,419,high,both
+testis,c-4,spermatogonia,True,412,high,both
+testis,c-5,late spermatids,True,393,medium,both
+testis,c-6,late spermatids,True,361,high,both
+testis,c-7,endothelial cells,True,355,high,both
+testis,c-8,early spermatids,True,353,high,both
+testis,c-9,late spermatids,True,341,medium,both
+thymus,c-0,t-cells,True,3806,high,both
+thymus,c-1,t-cells,True,3326,high,both
+thymus,c-10,smooth muscle cells,True,614,high,both
+thymus,c-11,smooth muscle cells,True,603,high,both
+thymus,c-12,smooth muscle cells,True,566,high,both
+thymus,c-13,macrophages,True,507,high,both
+thymus,c-14,fibroblasts,True,486,medium,both
+thymus,c-15,plasma cells,True,384,high,both
+thymus,c-16,endothelial cells,True,303,medium,both
+thymus,c-17,mesothelial cells,True,171,medium,both
+thymus,c-18,t-cells,True,144,high,both
+thymus,c-19,plasma cells,True,91,high,both
+thymus,c-2,b-cells,True,2439,high,both
+thymus,c-3,fibroblasts,True,2311,high,both
+thymus,c-4,t-cells,True,2297,high,both
+thymus,c-5,endothelial cells,True,1653,high,both
+thymus,c-6,b-cells,True,1082,high,both
+thymus,c-7,fibroblasts,True,988,high,both
+thymus,c-8,endothelial cells,True,967,high,both
+thymus,c-9,plasma cells,True,880,high,both
+tongue,c-0,basal keratinocytes,True,2855,high,both
+tongue,c-1,basal keratinocytes,True,2154,high,both
+tongue,c-10,basal keratinocytes,True,676,high,both
+tongue,c-11,basal keratinocytes,True,633,high,both
+tongue,c-12,macrophages,True,480,high,both
+tongue,c-13,endothelial cells,True,451,high,both
+tongue,c-14,t-cells,True,416,medium,both
+tongue,c-15,smooth muscle cells,True,359,high,both
+tongue,c-16,serous glandular cells,True,325,high,both
+tongue,c-17,suprabasal keratinocytes,True,311,high,both
+tongue,c-18,endothelial cells,True,273,medium,both
+tongue,c-19,basal keratinocytes,True,167,high,both
+tongue,c-2,basal keratinocytes,True,1894,high,both
+tongue,c-20,granulocytes,True,64,medium,both
+tongue,c-3,suprabasal keratinocytes,True,1535,high,both
+tongue,c-4,basal keratinocytes,True,1259,high,both
+tongue,c-5,suprabasal keratinocytes,True,1069,high,both
+tongue,c-6,t-cells,True,1052,medium,both
+tongue,c-7,basal keratinocytes,True,946,high,both
+tongue,c-8,basal keratinocytes,True,714,high,both
+tongue,c-9,basal keratinocytes,True,698,high,both
+vascular,c-0,fibroblasts,True,1225,high,both
+vascular,c-1,macrophages,True,913,high,both
+vascular,c-10,t-cells,True,330,medium,both
+vascular,c-11,fibroblasts,True,282,medium,both
+vascular,c-12,macrophages,True,281,high,both
+vascular,c-13,smooth muscle cells,True,261,high,both
+vascular,c-14,smooth muscle cells,True,243,medium,both
+vascular,c-15,endothelial cells,True,237,medium,both
+vascular,c-16,endothelial cells,True,204,high,both
+vascular,c-17,smooth muscle cells,True,192,high,both
+vascular,c-18,schwann cells,True,175,high,both
+vascular,c-19,endothelial cells,True,48,high,both
+vascular,c-2,endothelial cells,True,899,high,both
+vascular,c-3,fibroblasts,True,823,high,both
+vascular,c-4,smooth muscle cells,True,801,high,both
+vascular,c-5,fibroblasts,True,564,medium,both
+vascular,c-6,smooth muscle cells,True,556,high,both
+vascular,c-7,fibroblasts,True,427,high,both
+vascular,c-8,smooth muscle cells,True,356,high,both
+vascular,c-9,fibroblasts,True,355,high,both

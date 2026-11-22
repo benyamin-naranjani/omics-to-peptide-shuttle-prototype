@@ -1,0 +1,34 @@
+dataset_key,human_ensembl_gene_id,feature_id,feature_mapping_status,reference_symbols_json,candidate_features_json,ensembl_release,original_mapping_status,mapping_method,mapping_pipeline_version,matching_previous_symbols_json,matching_alias_symbols_json,automatic_assignment,requires_historical_identity_review
+sorted_EC,ENSG00000144063,,ambiguous_symbol,"[""MALL""]","[""MALL""]",116,ambiguous_symbol,unresolved,1.1,,,,False
+sorted_EC,ENSG00000156411,,no_exact_feature_match,"[""ATP5MJ""]",[],116,no_exact_feature_match,unresolved,1.1,"[""ATP5MPL"", ""C14orf2""]",[],False,True
+sorted_EC,ENSG00000164096,,no_exact_feature_match,"[""ARLN""]",[],116,no_exact_feature_match,unresolved,1.1,"[""C4orf3""]",[],False,True
+sorted_EC,ENSG00000166352,,no_exact_feature_match,"[""IFTAP""]",[],116,no_exact_feature_match,unresolved,1.1,"[""C11orf74""]",[],False,True
+sorted_EC,ENSG00000166920,,no_exact_feature_match,"[""COXFA4L3""]",[],116,no_exact_feature_match,unresolved,1.1,"[""C15orf48""]",[],False,True
+sorted_EC,ENSG00000167085,,no_exact_feature_match,"[""PHB1""]",[],116,no_exact_feature_match,unresolved,1.1,"[""PHB""]",[],False,True
+sorted_EC,ENSG00000184584,,no_exact_feature_match,"[""STING1""]",[],116,no_exact_feature_match,unresolved,1.1,"[""TMEM173""]",[],False,True
+sorted_EC,ENSG00000189043,,no_exact_feature_match,"[""COXFA4""]",[],116,no_exact_feature_match,unresolved,1.1,"[""NDUFA4""]",[],False,True
+sorted_EC,ENSG00000204394,,no_exact_feature_match,"[""VARS1""]",[],116,no_exact_feature_match,unresolved,1.1,"[""VARS"", ""VARS2""]",[],False,True
+sorted_EC,ENSG00000205755,,ambiguous_symbol,"[""CRLF2""]","[""CRLF2""]",116,ambiguous_symbol,unresolved,1.1,,,,False
+sorted_EC,ENSG00000225528,,no_exact_feature_match,"[""TMA7B""]",[],116,no_exact_feature_match,unresolved,1.1,[],[],False,False
+sorted_EC,ENSG00000246705,,no_exact_feature_match,"[""H2AJ""]",[],116,no_exact_feature_match,unresolved,1.1,"[""H2AFJ""]",[],False,True
+sorted_EC,ENSG00000288920,,no_exact_feature_match,"[""RPSA2""]",[],116,no_exact_feature_match,unresolved,1.1,[],[],False,False
+sorted_EC,ENSG00000291309,,no_exact_feature_match,"[""LY6S""]",[],116,no_exact_feature_match,unresolved,1.1,[],[],False,False
+sorted_EC,ENSG00000293604,,ambiguous_symbol,"[""ORAI1""]","[""ORAI1""]",116,ambiguous_symbol,unresolved,1.1,,,,False
+sorted_EC,ENSG00000300510,,reference_symbol_unresolved,[],[],116,reference_symbol_unresolved,unresolved,1.1,,,,False
+unsorted_EC_PVC,ENSG00000144063,,ambiguous_symbol,"[""MALL""]","[""MALL""]",116,ambiguous_symbol,unresolved,1.1,,,,False
+unsorted_EC_PVC,ENSG00000156411,,no_exact_feature_match,"[""ATP5MJ""]",[],116,no_exact_feature_match,unresolved,1.1,"[""ATP5MPL"", ""C14orf2""]",[],False,True
+unsorted_EC_PVC,ENSG00000164096,,no_exact_feature_match,"[""ARLN""]",[],116,no_exact_feature_match,unresolved,1.1,"[""C4orf3""]",[],False,True
+unsorted_EC_PVC,ENSG00000166352,,no_exact_feature_match,"[""IFTAP""]",[],116,no_exact_feature_match,unresolved,1.1,"[""C11orf74""]",[],False,True
+unsorted_EC_PVC,ENSG00000166920,,no_exact_feature_match,"[""COXFA4L3""]",[],116,no_exact_feature_match,unresolved,1.1,"[""C15orf48""]",[],False,True
+unsorted_EC_PVC,ENSG00000167085,,no_exact_feature_match,"[""PHB1""]",[],116,no_exact_feature_match,unresolved,1.1,"[""PHB""]",[],False,True
+unsorted_EC_PVC,ENSG00000179913,,no_exact_feature_match,"[""B3GNT3""]",[],116,no_exact_feature_match,unresolved,1.1,[],[],False,False
+unsorted_EC_PVC,ENSG00000184584,,no_exact_feature_match,"[""STING1""]",[],116,no_exact_feature_match,unresolved,1.1,"[""TMEM173""]",[],False,True
+unsorted_EC_PVC,ENSG00000189043,,no_exact_feature_match,"[""COXFA4""]",[],116,no_exact_feature_match,unresolved,1.1,"[""NDUFA4""]",[],False,True
+unsorted_EC_PVC,ENSG00000204394,,no_exact_feature_match,"[""VARS1""]",[],116,no_exact_feature_match,unresolved,1.1,"[""VARS"", ""VARS2""]",[],False,True
+unsorted_EC_PVC,ENSG00000205755,,no_exact_feature_match,"[""CRLF2""]",[],116,no_exact_feature_match,unresolved,1.1,[],[],False,False
+unsorted_EC_PVC,ENSG00000225528,,no_exact_feature_match,"[""TMA7B""]",[],116,no_exact_feature_match,unresolved,1.1,[],[],False,False
+unsorted_EC_PVC,ENSG00000246705,,no_exact_feature_match,"[""H2AJ""]",[],116,no_exact_feature_match,unresolved,1.1,"[""H2AFJ""]",[],False,True
+unsorted_EC_PVC,ENSG00000288920,,no_exact_feature_match,"[""RPSA2""]",[],116,no_exact_feature_match,unresolved,1.1,[],[],False,False
+unsorted_EC_PVC,ENSG00000291309,,no_exact_feature_match,"[""LY6S""]",[],116,no_exact_feature_match,unresolved,1.1,[],[],False,False
+unsorted_EC_PVC,ENSG00000293604,,ambiguous_symbol,"[""ORAI1""]","[""ORAI1""]",116,ambiguous_symbol,unresolved,1.1,,,,False
+unsorted_EC_PVC,ENSG00000300510,,reference_symbol_unresolved,[],[],116,reference_symbol_unresolved,unresolved,1.1,,,,False

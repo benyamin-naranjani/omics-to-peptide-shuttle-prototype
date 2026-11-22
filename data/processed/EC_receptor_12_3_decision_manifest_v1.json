@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "generated_utc": "2026-11-20T07:28:30.842992+00:00",
+  "comparison_input": "EC_receptor_comparative_adjudication_full_v1.csv",
+  "comparison_input_sha256": "b971eaf77c8d0d3a7e68ca97c6eadd239028d53a67d31f99cb433e38bdca58f7",
+  "manual_adjudication_input": "EC_receptor_manual_adjudication_template_v1.csv",
+  "manual_adjudication_sha256": "2b3daca2dd21e99d4ec530fa26f2f50f0c0d511f02d0212ee79110eb7516c081",
+  "manual_adjudication_modified": false,
+  "n_decision_questions": 10,
+  "n_relationships": 125,
+  "n_mouse_genes": 114,
+  "output_stage": "selection_criteria_and_review_register_not_scientific_selection",
+  "no_composite_scoring": true,
+  "no_automatic_approval_or_exclusion": true,
+  "no_unreviewed_literature_claim_promoted": true,
+  "manual_field_completeness_is_not_scientific_claim_verification": true,
+  "separate_optimization_from_independent_evaluation": true
+}

@@ -1,0 +1,289 @@
+{
+  "module": "OmiPep v0.2 M01",
+  "cell": "12.4i",
+  "scientific_status": "screened_not_final_expert_fulltext_adjudication",
+  "source_relationships": 125,
+  "source_genes": 114,
+  "relationship_rows_with_screened_claims": 125,
+  "source_columns_preserved": 29,
+  "master_columns": 47,
+  "n_publications": 622,
+  "n_endpoint_claim_rows": 1385,
+  "n_multi_claim_publications": 609,
+  "active_packets": [
+    {
+      "batch_id": "LIT-P01-01",
+      "selected_version": 3,
+      "filename": "LIT-P01-01_REVIEWED_v3.zip",
+      "sha256": "5082c55a488d1674bc6b8590b1a9963e7bd86d3ce2027284dedf8de8d67d1670",
+      "relationships": 5,
+      "claims": 59,
+      "publications_in_packet": 25
+    },
+    {
+      "batch_id": "LIT-P01-02",
+      "selected_version": 1,
+      "filename": "LIT-P01-02_REVIEWED_v1.zip",
+      "sha256": "066ec0a18a8c2f3ca31521154132189f22c432b36b53b770496f342180cee8b1",
+      "relationships": 5,
+      "claims": 66,
+      "publications_in_packet": 31
+    },
+    {
+      "batch_id": "LIT-P02-01",
+      "selected_version": 1,
+      "filename": "LIT-P02-01_REVIEWED_v1.zip",
+      "sha256": "6f17d0a373d29cdf1be41a9b7171b4ddb756ccdb65d131d891187a413cbe0b51",
+      "relationships": 5,
+      "claims": 49,
+      "publications_in_packet": 22
+    },
+    {
+      "batch_id": "LIT-P02-02",
+      "selected_version": 1,
+      "filename": "LIT-P02-02_REVIEWED_v1.zip",
+      "sha256": "12ad56041a8d092faf157af7166025b411115b2e7911a6a37d2687091da6b2ce",
+      "relationships": 5,
+      "claims": 46,
+      "publications_in_packet": 23
+    },
+    {
+      "batch_id": "LIT-P03-01",
+      "selected_version": 1,
+      "filename": "LIT-P03-01_REVIEWED_v1.zip",
+      "sha256": "5d9663b845dc78b0c73756de3592e0614587403ecf30bd5f340354017070979a",
+      "relationships": 5,
+      "claims": 46,
+      "publications_in_packet": 23
+    },
+    {
+      "batch_id": "LIT-P03-02",
+      "selected_version": 1,
+      "filename": "LIT-P03-02_REVIEWED_v1.zip",
+      "sha256": "c77b4f08c15837a2aec2192158d2b1d6d45e462af014afbd883f2592e0a20b13",
+      "relationships": 5,
+      "claims": 49,
+      "publications_in_packet": 30
+    },
+    {
+      "batch_id": "LIT-P04-01",
+      "selected_version": 1,
+      "filename": "LIT-P04-01_REVIEWED_v1.zip",
+      "sha256": "aba08736f4ccfcfa02079d2104feef42c958c8867757ebe7ce0ca1625dc434bc",
+      "relationships": 5,
+      "claims": 52,
+      "publications_in_packet": 26
+    },
+    {
+      "batch_id": "LIT-P04-02",
+      "selected_version": 1,
+      "filename": "LIT-P04-02_REVIEWED_v1.zip",
+      "sha256": "a12f533c798d3aba0932aadafa41cd51961f68e22ad06662f0e6f66d12390e6b",
+      "relationships": 5,
+      "claims": 48,
+      "publications_in_packet": 24
+    },
+    {
+      "batch_id": "LIT-P05-01",
+      "selected_version": 1,
+      "filename": "LIT-P05-01_REVIEWED_v1.zip",
+      "sha256": "bf133789a6878b3a01bd03c791f2e4771f9840163816b49075af19272dbeff9d",
+      "relationships": 5,
+      "claims": 62,
+      "publications_in_packet": 31
+    },
+    {
+      "batch_id": "LIT-P05-02",
+      "selected_version": 1,
+      "filename": "LIT-P05-02_REVIEWED_v1.zip",
+      "sha256": "7001ee22c0b14ac4c470bed6ef7013164d252507f7f17fe922f41d1f298c2c9f",
+      "relationships": 5,
+      "claims": 70,
+      "publications_in_packet": 35
+    },
+    {
+      "batch_id": "LIT-P06-01",
+      "selected_version": 1,
+      "filename": "LIT-P06-01_REVIEWED_v1.zip",
+      "sha256": "a63e38035578704f647deeb96f5ab72618cd2c6c3fa978eba80f09ad0757ba8e",
+      "relationships": 5,
+      "claims": 58,
+      "publications_in_packet": 29
+    },
+    {
+      "batch_id": "LIT-P06-02",
+      "selected_version": 1,
+      "filename": "LIT-P06-02_REVIEWED_v1.zip",
+      "sha256": "3e34aca0262999c45980628d3113f8e9630362db700c11db0f4a70fabe73ba61",
+      "relationships": 5,
+      "claims": 78,
+      "publications_in_packet": 39
+    },
+    {
+      "batch_id": "LIT-P07-01",
+      "selected_version": 1,
+      "filename": "LIT-P07-01_REVIEWED_v1.zip",
+      "sha256": "e8a074c99ef7c65e58a87dee17236bf5b1970e5d53f4e592d518234d885ee490",
+      "relationships": 5,
+      "claims": 86,
+      "publications_in_packet": 43
+    },
+    {
+      "batch_id": "LIT-P07-02",
+      "selected_version": 1,
+      "filename": "LIT-P07-02_REVIEWED_v1.zip",
+      "sha256": "12ec8e212c8df7da01bf127b76b8fc948480bc7c8dc383477445e7a233ca06dc",
+      "relationships": 5,
+      "claims": 78,
+      "publications_in_packet": 39
+    },
+    {
+      "batch_id": "LIT-P08-01",
+      "selected_version": 1,
+      "filename": "LIT-P08-01_REVIEWED_v1.zip",
+      "sha256": "941953679bcaec48aad9d75a4050fca950af221f64650c127de367b7729219a5",
+      "relationships": 3,
+      "claims": 60,
+      "publications_in_packet": 29
+    },
+    {
+      "batch_id": "LIT-R01-01",
+      "selected_version": 1,
+      "filename": "LIT-R01-01_REVIEWED_v1.zip",
+      "sha256": "0595f856ddf6041c68ba00df54bed3e6adfc3cf1cf3ad99f8f6069697bd97343",
+      "relationships": 2,
+      "claims": 26,
+      "publications_in_packet": 13
+    },
+    {
+      "batch_id": "LIT-R01-02",
+      "selected_version": 1,
+      "filename": "LIT-R01-02_REVIEWED_v1.zip",
+      "sha256": "74c2c143af1a7a0fb2854dacfcc8e5a91660f75e1268a602f8769f60250b5502",
+      "relationships": 5,
+      "claims": 58,
+      "publications_in_packet": 15
+    },
+    {
+      "batch_id": "LIT-R01-03",
+      "selected_version": 1,
+      "filename": "LIT-R01-03_REVIEWED_v1.zip",
+      "sha256": "bdbbd5c8e26b54e9420b05245c30c053a7db2614574bef8a6a958118003bd8dc",
+      "relationships": 3,
+      "claims": 38,
+      "publications_in_packet": 19
+    },
+    {
+      "batch_id": "LIT-R02-01",
+      "selected_version": 1,
+      "filename": "LIT-R02-01_REVIEWED_v1.zip",
+      "sha256": "61fc2c98fe15997cf7d226de848616837c3f9e3a1b7b978c32b5d2f901bc335f",
+      "relationships": 2,
+      "claims": 28,
+      "publications_in_packet": 14
+    },
+    {
+      "batch_id": "LIT-R02-02",
+      "selected_version": 1,
+      "filename": "LIT-R02-02_REVIEWED_v1.zip",
+      "sha256": "c86e37086c1150c9f2a0a0d3823b8e0f3e171c1972d5f243701b7a008d3e459b",
+      "relationships": 5,
+      "claims": 44,
+      "publications_in_packet": 14
+    },
+    {
+      "batch_id": "LIT-R02-03",
+      "selected_version": 1,
+      "filename": "LIT-R02-03_REVIEWED_v1.zip",
+      "sha256": "850f46b126e8e94e71c967c542d4f271ca4fe1cd9a6ee8be3d68b9184685c006",
+      "relationships": 3,
+      "claims": 30,
+      "publications_in_packet": 15
+    },
+    {
+      "batch_id": "LIT-R03-01",
+      "selected_version": 1,
+      "filename": "LIT-R03-01_REVIEWED_v1.zip",
+      "sha256": "946670eee419fe4131507db931aff8e9e01b3a8056e60f9733742fb972c52611",
+      "relationships": 5,
+      "claims": 38,
+      "publications_in_packet": 11
+    },
+    {
+      "batch_id": "LIT-R03-02",
+      "selected_version": 1,
+      "filename": "LIT-R03-02_REVIEWED_v1.zip",
+      "sha256": "9b4e147b7fe8661898ad12c61ca1e9eceeda7b1a1c6df2cf73108ff1d42ad475",
+      "relationships": 5,
+      "claims": 42,
+      "publications_in_packet": 17
+    },
+    {
+      "batch_id": "LIT-R04-01",
+      "selected_version": 1,
+      "filename": "LIT-R04-01_REVIEWED_v1.zip",
+      "sha256": "cdbc25b6b4af1afa3735b5f6e6144af226e6e987c9106fbb157204015de2648b",
+      "relationships": 5,
+      "claims": 42,
+      "publications_in_packet": 20
+    },
+    {
+      "batch_id": "LIT-R04-02",
+      "selected_version": 1,
+      "filename": "LIT-R04-02_REVIEWED_v1.zip",
+      "sha256": "7c0f61520c9226a69da3bc01687c6b820c9666608d0b2254c9df18da06f699e8",
+      "relationships": 5,
+      "claims": 34,
+      "publications_in_packet": 17
+    },
+    {
+      "batch_id": "LIT-R05-01",
+      "selected_version": 1,
+      "filename": "LIT-R05-01_REVIEWED_v1.zip",
+      "sha256": "125b99e8f464fec04a708de94e8fb60531cf458852b189bf40cd03505ad7fea0",
+      "relationships": 5,
+      "claims": 36,
+      "publications_in_packet": 17
+    },
+    {
+      "batch_id": "LIT-R05-02",
+      "selected_version": 1,
+      "filename": "LIT-R05-02_REVIEWED_v1.zip",
+      "sha256": "8aaf24f5ba640a8e7325fd79fbbc8a9982ef99e80d39080ff6ca8aafdfc90a5b",
+      "relationships": 5,
+      "claims": 34,
+      "publications_in_packet": 17
+    },
+    {
+      "batch_id": "LIT-R06-01",
+      "selected_version": 1,
+      "filename": "LIT-R06-01_REVIEWED_v1.zip",
+      "sha256": "16aa487404fab8dc44bec57346637787c93b4ba3a97bf92703bc6209f044dbf6",
+      "relationships": 2,
+      "claims": 28,
+      "publications_in_packet": 13
+    }
+  ],
+  "archived_packets_ignored": [
+    "LIT-P01-01_REVIEWED_v1.zip",
+    "LIT-P01-01_REVIEWED_v2.zip"
+  ],
+  "original_source_hashes_sha256": {
+    "EC_receptor_12_4_full_relationship_docket_v1.csv": "a4c65b9d5cd90785174ec03ccd94dcd6c0aab5b55c8e2b36ef8952ef486ef6f7",
+    "EC_receptor_12_4d_expert_review_master_PRELIMINARY_v2.csv": "8e0758afe01b3cffc6cf4890abcfd3c30a33c9f05cc9ba5c3d4ee067f3e33f2c"
+  },
+  "output_sha256": {
+    "EC_receptor_M01_reference_index_v2.csv": "98ce1f5c7485a686ff1d18b32f6eec646a694c2c3cc9ed4963edbf7c0bae4a9e",
+    "EC_receptor_M01_endpoint_claim_ledger_v2.csv": "5db0ab98139e1df318076669dd95c57ee0a95b63aa2b5ed5a4d44bcafe1bf567",
+    "EC_receptor_M01_relationship_evidence_summaries_v2.csv": "ba465a6692f4533cc18e21a47b6632bc59ae751a399a6af9520656f90a079637",
+    "EC_receptor_M01_expert_master_WITH_ENDPOINT_EVIDENCE_v2.csv": "b15905ba0c237fccd83347ce31b901746ff94fc1b59f39b4e79ba11141030329"
+  },
+  "policies": [
+    "no receptor selection",
+    "not tested is not negative",
+    "no derived scientific verified_* values",
+    "the reviewed ZIP with highest revision per batch is active",
+    "no original source or prior v1 outputs changed",
+    "Google Sheet not edited by importer"
+  ]
+}

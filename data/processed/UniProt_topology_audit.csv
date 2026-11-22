@@ -1,0 +1,1664 @@
+gene,accession,feature_type,description,start,end,start_modifier,end_modifier,sequence_scope,evidence_json
+Abcb1a,P21447,Chain,ATP-dependent translocase ABCB1,1.0,1276.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Cytoplasmic,1.0,43.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,44.0,66.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Extracellular,67.0,112.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,113.0,133.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Cytoplasmic,134.0,182.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,183.0,204.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Extracellular,205.0,211.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,212.0,232.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Cytoplasmic,233.0,290.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,291.0,312.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Extracellular,313.0,326.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,327.0,348.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Cytoplasmic,349.0,707.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,708.0,728.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Extracellular,729.0,752.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,753.0,773.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Cytoplasmic,774.0,828.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,829.0,849.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Extracellular,850.0,850.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,851.0,870.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Cytoplasmic,871.0,930.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,931.0,953.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Extracellular,954.0,969.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcb1a,P21447,Transmembrane,Helical,970.0,991.0,EXACT,EXACT,,[]
+Abcb1a,P21447,Topological domain,Cytoplasmic,992.0,1276.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Abcg2,Q7TMS5,Chain,Broad substrate specificity ATP-binding cassette transporter ABCG2,1.0,657.0,EXACT,EXACT,,[]
+Abcg2,Q7TMS5,Topological domain,Cytoplasmic,1.0,393.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Transmembrane,Helical,394.0,414.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Topological domain,Extracellular,415.0,428.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Transmembrane,Helical,429.0,449.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Topological domain,Cytoplasmic,450.0,477.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Transmembrane,Helical,478.0,498.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Topological domain,Extracellular,499.0,506.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Transmembrane,Helical,507.0,527.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Topological domain,Cytoplasmic,528.0,535.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Transmembrane,Helical,536.0,556.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Topological domain,Extracellular,557.0,632.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Transmembrane,Helical,633.0,653.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Abcg2,Q7TMS5,Topological domain,Cytoplasmic,654.0,657.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Bsg,P18572,Signal,,1.0,21.0,EXACT,EXACT,,[]
+Bsg,P18572,Chain,Basigin,22.0,389.0,EXACT,EXACT,,[]
+Bsg,P18572,Topological domain,Extracellular,22.0,325.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P26453""}]"
+Bsg,P18572,Transmembrane,Helical,326.0,349.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Bsg,P18572,Topological domain,Cytoplasmic,350.0,389.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P26453""}]"
+Cd200,O54901,Signal,,1.0,30.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd200,O54901,Chain,OX-2 membrane glycoprotein,31.0,278.0,EXACT,EXACT,,[]
+Cd200,O54901,Topological domain,Extracellular,31.0,232.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd200,O54901,Transmembrane,Helical,233.0,259.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd200,O54901,Topological domain,Cytoplasmic,260.0,278.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd36,Q08857,Chain,Platelet glycoprotein 4,1.0,472.0,EXACT,EXACT,,[]
+Cd36,Q08857,Topological domain,Cytoplasmic,1.0,7.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd36,Q08857,Transmembrane,Helical,8.0,29.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd36,Q08857,Topological domain,Extracellular,30.0,439.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd36,Q08857,Transmembrane,Helical,440.0,461.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd36,Q08857,Topological domain,Cytoplasmic,462.0,472.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd36,Q08857,Lipidation,S-palmitoyl cysteine,3.0,3.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Cd36,Q08857,Lipidation,S-palmitoyl cysteine,7.0,7.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Cd36,Q08857,Lipidation,S-palmitoyl cysteine,464.0,464.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Cd36,Q08857,Lipidation,S-palmitoyl cysteine,466.0,466.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Cldn5,O54942,Chain,Claudin-5,1.0,218.0,EXACT,EXACT,,[]
+Cldn5,O54942,Topological domain,Cytoplasmic,1.0,7.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cldn5,O54942,Transmembrane,Helical,8.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cldn5,O54942,Topological domain,Extracellular,29.0,81.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cldn5,O54942,Transmembrane,Helical,82.0,102.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cldn5,O54942,Topological domain,Cytoplasmic,103.0,123.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cldn5,O54942,Transmembrane,Helical,124.0,144.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cldn5,O54942,Topological domain,Extracellular,145.0,160.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cldn5,O54942,Transmembrane,Helical,161.0,181.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cldn5,O54942,Topological domain,Cytoplasmic,182.0,218.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ecscr,Q3TZW0,Signal,,1.0,18.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ecscr,Q3TZW0,Chain,Endothelial cell-specific chemotaxis regulator,19.0,214.0,EXACT,EXACT,,[]
+Ecscr,Q3TZW0,Topological domain,Extracellular,19.0,130.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ecscr,Q3TZW0,Transmembrane,Helical,131.0,151.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ecscr,Q3TZW0,Topological domain,Cytoplasmic,152.0,214.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Eng,Q63961,Signal,,1.0,26.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Eng,Q63961,Chain,Endoglin,27.0,653.0,EXACT,EXACT,,[]
+Eng,Q63961,Topological domain,Extracellular,27.0,581.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Eng,Q63961,Transmembrane,Helical,582.0,606.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Eng,Q63961,Topological domain,Cytoplasmic,607.0,653.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Flt1,P35969,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Flt1,P35969,Chain,Vascular endothelial growth factor receptor 1,23.0,1333.0,EXACT,EXACT,,[]
+Flt1,P35969,Topological domain,Extracellular,23.0,759.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Flt1,P35969,Transmembrane,Helical,760.0,781.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Flt1,P35969,Topological domain,Cytoplasmic,782.0,1333.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Icam1,P13597,Signal,,1.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Icam1,P13597,Chain,Intercellular adhesion molecule 1,28.0,537.0,EXACT,EXACT,,[]
+Icam1,P13597,Topological domain,Extracellular,28.0,485.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Icam1,P13597,Transmembrane,Helical,486.0,509.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Icam1,P13597,Topological domain,Cytoplasmic,510.0,537.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Igf1r,Q60751,Signal,,1.0,30.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Igf1r,Q60751,Chain,Insulin-like growth factor 1 receptor alpha chain,31.0,737.0,EXACT,EXACT,,[]
+Igf1r,Q60751,Chain,Insulin-like growth factor 1 receptor beta chain,742.0,1373.0,EXACT,EXACT,,[]
+Igf1r,Q60751,Topological domain,Extracellular,742.0,936.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Igf1r,Q60751,Transmembrane,Helical,937.0,960.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Igf1r,Q60751,Topological domain,Cytoplasmic,961.0,1373.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Igfbp7,Q61581,Signal,,1.0,25.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Igfbp7,Q61581,Chain,Insulin-like growth factor-binding protein 7,26.0,281.0,EXACT,EXACT,,[]
+Insr,P15208,Signal,,1.0,27.0,EXACT,EXACT,,[]
+Insr,P15208,Chain,Insulin receptor subunit alpha,28.0,748.0,EXACT,EXACT,,[]
+Insr,P15208,Chain,Insulin receptor subunit beta,753.0,1372.0,EXACT,EXACT,,[]
+Insr,P15208,Topological domain,Extracellular,28.0,748.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Insr,P15208,Topological domain,Extracellular,753.0,946.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Insr,P15208,Transmembrane,Helical,947.0,967.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Insr,P15208,Topological domain,Cytoplasmic,968.0,1372.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Itm2a,Q61500,Chain,Integral membrane protein 2A,1.0,263.0,EXACT,EXACT,,[]
+Itm2a,Q61500,Transmembrane,Helical; Signal-anchor for type II membrane protein,54.0,74.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Kdr,P35918,Signal,,1.0,19.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Kdr,P35918,Chain,Vascular endothelial growth factor receptor 2,20.0,1345.0,EXACT,EXACT,,[]
+Kdr,P35918,Topological domain,Extracellular,20.0,762.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Kdr,P35918,Transmembrane,Helical,763.0,783.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Kdr,P35918,Topological domain,Cytoplasmic,784.0,1345.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ldlr,P35951,Signal,,1.0,21.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P01131""}]"
+Ldlr,P35951,Chain,Low-density lipoprotein receptor,22.0,862.0,EXACT,EXACT,,[]
+Ldlr,P35951,Topological domain,Extracellular,22.0,790.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P01131""}]"
+Ldlr,P35951,Transmembrane,Helical,791.0,812.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ldlr,P35951,Topological domain,Cytoplasmic,813.0,862.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""11247302""}]"
+Lrp1,Q91ZX7,Signal,,1.0,19.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp1,Q91ZX7,Chain,Prolow-density lipoprotein receptor-related protein 1,20.0,4545.0,EXACT,EXACT,,[]
+Lrp1,Q91ZX7,Chain,Low-density lipoprotein receptor-related protein 1 515 kDa subunit,20.0,3944.0,EXACT,UNSURE,,[]
+Lrp1,Q91ZX7,Chain,Low-density lipoprotein receptor-related protein 1 85 kDa subunit,3945.0,4545.0,UNSURE,EXACT,,[]
+Lrp1,Q91ZX7,Chain,Low-density lipoprotein receptor-related protein 1 intracellular domain,4442.0,4545.0,UNSURE,EXACT,,[]
+Lrp1,Q91ZX7,Topological domain,Extracellular,20.0,4424.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp1,Q91ZX7,Transmembrane,Helical,4425.0,4445.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp1,Q91ZX7,Topological domain,Cytoplasmic,4446.0,4545.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp6,O88572,Signal,,1.0,19.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp6,O88572,Chain,Low-density lipoprotein receptor-related protein 6,20.0,1613.0,EXACT,EXACT,,[]
+Lrp6,O88572,Topological domain,Extracellular,20.0,1370.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp6,O88572,Transmembrane,Helical,1371.0,1393.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp6,O88572,Topological domain,Cytoplasmic,1394.0,1613.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp6,O88572,Lipidation,S-palmitoyl cysteine,1394.0,1394.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Lrp6,O88572,Lipidation,S-palmitoyl cysteine,1399.0,1399.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Lrp8,Q924X6,Signal,,1.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp8,Q924X6,Chain,Low-density lipoprotein receptor-related protein 8,29.0,996.0,EXACT,EXACT,,[]
+Lrp8,Q924X6,Topological domain,Extracellular,29.0,858.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp8,Q924X6,Transmembrane,Helical,859.0,881.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lrp8,Q924X6,Topological domain,Cytoplasmic,882.0,996.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ly6a,P05533,Signal,,1.0,26.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""3033645""}]"
+Ly6a,P05533,Chain,Lymphocyte antigen 6A-2/6E-1,27.0,112.0,EXACT,EXACT,,[]
+Ly6a,P05533,Propeptide,Removed in mature form,113.0,134.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ly6a,P05533,Lipidation,GPI-anchor amidated glycine,112.0,112.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ly6c1,P0CW02,Signal,,1.0,26.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ly6c1,P0CW02,Chain,Lymphocyte antigen 6C1,27.0,109.0,EXACT,EXACT,,[]
+Ly6c1,P0CW02,Propeptide,Removed in mature form,110.0,131.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ly6c1,P0CW02,Lipidation,GPI-anchor amidated glycine,109.0,109.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ly6e,Q64253,Signal,,1.0,26.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ly6e,Q64253,Chain,Lymphocyte antigen 6E,27.0,108.0,EXACT,EXACT,,[]
+Ly6e,Q64253,Propeptide,Removed in mature form,109.0,136.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Ly6e,Q64253,Lipidation,GPI-anchor amidated alanine,108.0,108.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mfsd2a,Q9DA75,Chain,Sodium-dependent lysophosphatidylcholine symporter 1,1.0,534.0,EXACT,EXACT,,[]
+Mfsd2a,Q9DA75,Topological domain,Cytoplasmic,1.0,39.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,40.0,69.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Extracellular,70.0,80.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,81.0,101.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Cytoplasmic,102.0,113.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,114.0,133.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Extracellular,134.0,148.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,149.0,173.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Cytoplasmic,174.0,180.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,181.0,212.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Extracellular,213.0,232.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,233.0,266.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Cytoplasmic,267.0,297.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,298.0,324.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Extracellular,325.0,335.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,336.0,354.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Cytoplasmic,355.0,358.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,359.0,380.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Extracellular,381.0,383.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,384.0,420.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Cytoplasmic,421.0,430.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,431.0,457.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Extracellular,458.0,469.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Transmembrane,Helical,470.0,493.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Mfsd2a,Q9DA75,Topological domain,Cytoplasmic,494.0,534.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34349262""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7N98""}]"
+Pecam1,Q08481,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""1415479""}]"
+Pecam1,Q08481,Chain,Platelet endothelial cell adhesion molecule,18.0,727.0,EXACT,EXACT,,[]
+Pecam1,Q08481,Topological domain,Extracellular,18.0,590.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Pecam1,Q08481,Transmembrane,Helical,591.0,609.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Pecam1,Q08481,Topological domain,Cytoplasmic,610.0,727.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Pecam1,Q08481,Lipidation,S-palmitoyl cysteine,611.0,611.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Plvap,Q91VC4,Chain,Plasmalemma vesicle-associated protein,1.0,438.0,EXACT,EXACT,,[]
+Plvap,Q91VC4,Topological domain,Cytoplasmic,1.0,26.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Plvap,Q91VC4,Transmembrane,Helical; Signal-anchor for type II membrane protein,27.0,47.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Plvap,Q91VC4,Topological domain,Extracellular,48.0,438.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Scarb1,Q61009,Chain,Scavenger receptor class B member 1,1.0,509.0,EXACT,EXACT,,[]
+Scarb1,Q61009,Topological domain,Cytoplasmic,1.0,11.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Scarb1,Q61009,Transmembrane,Helical,12.0,32.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Scarb1,Q61009,Topological domain,Extracellular,33.0,440.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Scarb1,Q61009,Transmembrane,Helical,441.0,461.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Scarb1,Q61009,Topological domain,Cytoplasmic,462.0,509.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Scarb1,Q61009,Lipidation,S-palmitoyl cysteine,462.0,462.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""9614139""}]"
+Sele,Q00690,Signal,,1.0,21.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Sele,Q00690,Chain,E-selectin,22.0,612.0,EXACT,EXACT,,[]
+Sele,Q00690,Topological domain,Extracellular,22.0,557.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Sele,Q00690,Transmembrane,Helical,558.0,579.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Sele,Q00690,Topological domain,Cytoplasmic,580.0,612.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc2a1,P17809,Chain,"Solute carrier family 2, facilitated glucose transporter member 1",1.0,492.0,EXACT,EXACT,,[]
+Slc2a1,P17809,Topological domain,Cytoplasmic,1.0,11.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=1,12.0,33.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Extracellular,34.0,66.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=2,67.0,87.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Cytoplasmic,88.0,90.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=3,91.0,112.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Extracellular,113.0,120.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=4,121.0,144.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Cytoplasmic,145.0,155.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=5,156.0,176.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Extracellular,177.0,185.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=6,186.0,206.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Cytoplasmic,207.0,271.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=7,272.0,293.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Extracellular,294.0,306.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=8,307.0,328.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Cytoplasmic,329.0,334.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=9,335.0,355.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Extracellular,356.0,365.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=10,366.0,388.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Cytoplasmic,389.0,401.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=11,402.0,422.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Extracellular,423.0,429.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Transmembrane,Helical; Name=12,430.0,450.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc2a1,P17809,Topological domain,Cytoplasmic,451.0,492.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P11166""}]"
+Slc3a2,P10852,Chain,Amino acid transporter heavy chain SLC3A2,1.0,526.0,EXACT,EXACT,,[]
+Slc3a2,P10852,Topological domain,Cytoplasmic,1.0,75.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P08195""}]"
+Slc3a2,P10852,Transmembrane,Helical; Signal-anchor for type II membrane protein,76.0,99.0,EXACT,EXACT,,[]
+Slc3a2,P10852,Topological domain,Extracellular,100.0,526.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P08195""}]"
+Slc7a5,Q9Z127,Chain,Large neutral amino acids transporter small subunit 1,1.0,512.0,EXACT,EXACT,,[]
+Slc7a5,Q9Z127,Topological domain,Cytoplasmic,1.0,50.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,51.0,71.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Extracellular,72.0,84.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,85.0,105.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Cytoplasmic,106.0,127.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,128.0,148.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Extracellular,149.0,170.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,171.0,191.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Cytoplasmic,192.0,193.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,194.0,215.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Extracellular,216.0,247.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,248.0,268.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Cytoplasmic,269.0,281.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,282.0,302.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Extracellular,303.0,329.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,330.0,350.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Cytoplasmic,351.0,374.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,375.0,395.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Extracellular,396.0,400.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,401.0,421.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Cytoplasmic,422.0,435.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,436.0,456.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Extracellular,457.0,462.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc7a5,Q9Z127,Transmembrane,Helical,463.0,483.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01650""}]"
+Slc7a5,Q9Z127,Topological domain,Cytoplasmic,484.0,512.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slco1a4,Q9EP96,Chain,Solute carrier organic anion transporter family member 1A4,1.0,670.0,EXACT,EXACT,,[]
+Slco1a4,Q9EP96,Topological domain,Cytoplasmic,1.0,20.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=1,21.0,40.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Extracellular,41.0,59.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=2,60.0,80.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Cytoplasmic,81.0,86.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=3,87.0,111.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Extracellular,112.0,155.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=4,156.0,184.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Cytoplasmic,185.0,203.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=5,204.0,224.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Extracellular,225.0,242.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=6,243.0,267.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Cytoplasmic,268.0,311.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=7,312.0,333.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Extracellular,334.0,353.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=8,354.0,377.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Cytoplasmic,378.0,381.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=9,382.0,405.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Extracellular,406.0,513.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=10,514.0,536.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Cytoplasmic,537.0,545.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=11,546.0,571.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Extracellular,572.0,605.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Transmembrane,Helical; Name=12,606.0,623.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slco1a4,Q9EP96,Topological domain,Cytoplasmic,624.0,670.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tek,Q02858,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Tek,Q02858,Chain,Angiopoietin-1 receptor,23.0,1122.0,EXACT,EXACT,,[]
+Tek,Q02858,Topological domain,Extracellular,23.0,746.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tek,Q02858,Transmembrane,Helical,747.0,767.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tek,Q02858,Topological domain,Cytoplasmic,768.0,1122.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tfrc,Q62351,Chain,Transferrin receptor protein 1,1.0,763.0,EXACT,EXACT,,[]
+Tfrc,Q62351,Topological domain,Cytoplasmic,1.0,67.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tfrc,Q62351,Transmembrane,Helical; Signal-anchor for type II membrane protein,68.0,88.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tfrc,Q62351,Topological domain,Extracellular,89.0,763.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tfrc,Q62351,Lipidation,S-palmitoyl cysteine,67.0,67.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Tm4sf1,Q64302,Chain,Transmembrane 4 L6 family member 1,1.0,202.0,EXACT,EXACT,,[]
+Tm4sf1,Q64302,Topological domain,Cytoplasmic,1.0,9.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""7510285""}]"
+Tm4sf1,Q64302,Transmembrane,Helical,10.0,30.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Tm4sf1,Q64302,Topological domain,Extracellular,31.0,49.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""7510285""}]"
+Tm4sf1,Q64302,Transmembrane,Helical,50.0,70.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Tm4sf1,Q64302,Topological domain,Cytoplasmic,71.0,93.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""7510285""}]"
+Tm4sf1,Q64302,Transmembrane,Helical,94.0,114.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Tm4sf1,Q64302,Topological domain,Extracellular,115.0,161.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""7510285""}]"
+Tm4sf1,Q64302,Transmembrane,Helical,162.0,182.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Tm4sf1,Q64302,Topological domain,Cytoplasmic,183.0,202.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""7510285""}]"
+Vcam1,P29533,Signal,,1.0,24.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Vcam1,P29533,Chain,Vascular cell adhesion protein 1,25.0,739.0,EXACT,EXACT,,[]
+Vcam1,P29533,Chain,Soluble Vascular Cell Adhesion Molecule-1,25.0,,EXACT,UNKNOWN,,[]
+Vcam1,P29533,Topological domain,Extracellular,25.0,698.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vcam1,P29533,Transmembrane,Helical,699.0,720.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vcam1,P29533,Topological domain,Cytoplasmic,721.0,739.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vcam1,P29533,Lipidation,GPI-anchor amidated asparagine,319.0,319.0,EXACT,EXACT,P29533-2,"[{""evidenceCode"": ""ECO:0000303"", ""source"": ""PubMed"", ""id"": ""7687058""}]"
+Abi3,Q8BYZ1,Chain,ABI gene family member 3,1.0,367.0,EXACT,EXACT,,[]
+Ace,P09470,Signal,,1.0,34.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""2835538""}]"
+Ace,P09470,Chain,Angiotensin-converting enzyme,35.0,1312.0,EXACT,EXACT,,[]
+Ace,P09470,Chain,"Angiotensin-converting enzyme, soluble form",35.0,1237.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P12821""}]"
+Ace,P09470,Topological domain,Extracellular,35.0,1264.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ace,P09470,Transmembrane,Helical,1265.0,1281.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ace,P09470,Topological domain,Cytoplasmic,1282.0,1312.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Chain,Atypical chemokine receptor 1,1.0,334.0,EXACT,EXACT,,[]
+Ackr1,Q9QUI6,Topological domain,Extracellular,1.0,61.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Transmembrane,Helical; Name=1,62.0,82.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Topological domain,Cytoplasmic,83.0,93.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Transmembrane,Helical; Name=2,94.0,114.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Topological domain,Extracellular,115.0,127.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Transmembrane,Helical; Name=3,128.0,151.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Topological domain,Cytoplasmic,152.0,164.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Transmembrane,Helical; Name=4,165.0,185.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Topological domain,Extracellular,186.0,205.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Transmembrane,Helical; Name=5,206.0,226.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Topological domain,Cytoplasmic,227.0,242.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Transmembrane,Helical; Name=6,243.0,263.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Topological domain,Extracellular,264.0,285.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Transmembrane,Helical; Name=7,286.0,306.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ackr1,Q9QUI6,Topological domain,Cytoplasmic,307.0,334.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Actb,P60710,Chain,"Actin, cytoplasmic 1",1.0,375.0,EXACT,EXACT,,[]
+Actb,P60710,Chain,"Actin, cytoplasmic 1, N-terminally processed",2.0,375.0,EXACT,EXACT,,[]
+Actn1,Q7TPR4,Chain,Alpha-actinin-1,1.0,892.0,EXACT,EXACT,,[]
+Actr3,Q99JY9,Chain,Actin-related protein 3,2.0,418.0,EXACT,EXACT,,[]
+Adam15,O88839,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Adam15,O88839,Propeptide,,18.0,207.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Adam15,O88839,Chain,Disintegrin and metalloproteinase domain-containing protein 15,208.0,864.0,EXACT,EXACT,,[]
+Adam15,O88839,Topological domain,Extracellular,208.0,696.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Adam15,O88839,Transmembrane,Helical,697.0,717.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Adam15,O88839,Topological domain,Cytoplasmic,718.0,864.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Adamts9,E9PUN6,Signal,,1.0,18.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Adamts9,E9PUN6,Propeptide,,19.0,287.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9P2N4""}]"
+Adamts9,E9PUN6,Chain,A disintegrin and metalloproteinase with thrombospondin motifs 9,288.0,1931.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Aig1,Q9D8B1,Chain,Androgen-induced gene 1 protein,1.0,238.0,EXACT,EXACT,,[]
+Aig1,Q9D8B1,Topological domain,Cytoplasmic,1.0,12.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9NVV5""}]"
+Aig1,Q9D8B1,Transmembrane,Helical,13.0,30.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Aig1,Q9D8B1,Topological domain,Extracellular,31.0,44.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9NVV5""}]"
+Aig1,Q9D8B1,Transmembrane,Helical,45.0,67.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Aig1,Q9D8B1,Topological domain,Cytoplasmic,68.0,87.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9NVV5""}]"
+Aig1,Q9D8B1,Transmembrane,Helical,88.0,110.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Aig1,Q9D8B1,Topological domain,Extracellular,111.0,124.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9NVV5""}]"
+Aig1,Q9D8B1,Transmembrane,Helical,125.0,144.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Aig1,Q9D8B1,Topological domain,Cytoplasmic,145.0,156.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9NVV5""}]"
+Aig1,Q9D8B1,Transmembrane,Helical,157.0,179.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Aig1,Q9D8B1,Topological domain,Extracellular,180.0,193.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9NVV5""}]"
+Aig1,Q9D8B1,Transmembrane,Helical,194.0,216.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Aig1,Q9D8B1,Topological domain,Cytoplasmic,217.0,238.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9NVV5""}]"
+Anxa2,P07356,Chain,Annexin A2,2.0,339.0,EXACT,EXACT,,[]
+Ap1s1,P61967,Chain,AP-1 complex subunit sigma-1A,1.0,158.0,EXACT,EXACT,,[]
+Ap2s1,P62743,Chain,AP-2 complex subunit sigma,1.0,142.0,EXACT,EXACT,,[]
+Apoe,P08226,Signal,,1.0,18.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Apoe,P08226,Chain,Apolipoprotein E,19.0,311.0,EXACT,EXACT,,[]
+Aprt,P08030,Chain,Adenine phosphoribosyltransferase,2.0,180.0,EXACT,EXACT,,[]
+Arf2,Q8BSL7,Chain,ADP-ribosylation factor 2,2.0,181.0,EXACT,EXACT,,[]
+Arf2,Q8BSL7,Lipidation,N-myristoyl glycine,2.0,2.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Arf4,P61750,Chain,ADP-ribosylation factor 4,2.0,180.0,EXACT,EXACT,,[]
+Arf4,P61750,Lipidation,N-myristoyl glycine,2.0,2.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P18085""}]"
+Arhgap20,Q6IFT4,Chain,Rho GTPase-activating protein 20,1.0,1182.0,EXACT,EXACT,,[]
+Arhgdib,Q61599,Chain,Rho GDP-dissociation inhibitor 2,2.0,200.0,EXACT,EXACT,,[]
+Arl6,O88848,Chain,ADP-ribosylation factor-like protein 6,2.0,186.0,EXACT,EXACT,,[]
+Arl6,O88848,Lipidation,N-myristoyl glycine,2.0,2.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Arl6ip4,Q9JM93,Chain,ADP-ribosylation factor-like protein 6-interacting protein 4,1.0,229.0,EXACT,EXACT,,[]
+Arpc1b,Q9WV32,Chain,Actin-related protein 2/3 complex subunit 1B,1.0,372.0,EXACT,EXACT,,[]
+Atp5f1a,Q03265,Chain,"ATP synthase F(1) complex subunit alpha, mitochondrial",44.0,553.0,EXACT,EXACT,,[]
+Atp5f1b,P56480,Chain,"ATP synthase F(1) complex catalytic subunit beta, mitochondrial",47.0,529.0,EXACT,EXACT,,[]
+Atp5f1d,Q9D3D9,Chain,"ATP synthase F(1) complex subunit delta, mitochondrial",23.0,168.0,EXACT,EXACT,,[]
+Atp5f1e,P56382,Chain,"ATP synthase F(1) complex subunit epsilon, mitochondrial",1.0,52.0,EXACT,EXACT,,[]
+Atp5mc1,Q9CR84,Chain,"ATP synthase F(0) complex subunit C1, mitochondrial",62.0,136.0,EXACT,EXACT,,[]
+Atp5mc1,Q9CR84,Transmembrane,Helical,77.0,97.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp5mc1,Q9CR84,Transmembrane,Helical,112.0,132.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp5mf,P56135,Chain,"ATP synthase F(0) complex subunit f, mitochondrial",2.0,88.0,EXACT,EXACT,,[]
+Atp5mf,P56135,Transmembrane,Helical,62.0,79.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P56134""}]"
+Atp5mj,P56379,Chain,"ATP synthase F(0) complex subunit j, mitochondrial",1.0,58.0,EXACT,EXACT,,[]
+Atp5mj,P56379,Transmembrane,Helical,22.0,39.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P56378""}]"
+Atp5pd,Q9DCX2,Chain,"ATP synthase peripheral stalk subunit d, mitochondrial",2.0,161.0,EXACT,EXACT,,[]
+Atp8b1,Q148W0,Chain,Phospholipid-transporting ATPase IC,1.0,1251.0,EXACT,EXACT,,[]
+Atp8b1,Q148W0,Topological domain,Cytoplasmic,1.0,121.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,122.0,142.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Exoplasmic loop,143.0,144.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,145.0,165.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Cytoplasmic,166.0,339.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,340.0,360.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Exoplasmic loop,361.0,385.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,386.0,406.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Cytoplasmic,407.0,952.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,953.0,973.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Exoplasmic loop,974.0,982.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,983.0,1003.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Cytoplasmic,1004.0,1032.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,1033.0,1053.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Exoplasmic loop,1054.0,1071.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,1072.0,1092.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Cytoplasmic,1093.0,1094.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,1095.0,1115.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Exoplasmic loop,1116.0,1142.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Transmembrane,Helical,1143.0,1163.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Atp8b1,Q148W0,Topological domain,Cytoplasmic,1164.0,1251.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+B2m,P01887,Signal,,1.0,20.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""59595""}, {""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""6165997""}]"
+B2m,P01887,Chain,Beta-2-microglobulin,21.0,119.0,EXACT,EXACT,,[]
+B3gnt3,Q5JCS9,Chain,"N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 3",1.0,372.0,EXACT,EXACT,,[]
+B3gnt3,Q5JCS9,Topological domain,Cytoplasmic,1.0,10.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+B3gnt3,Q5JCS9,Transmembrane,Helical; Signal-anchor for type II membrane protein,11.0,31.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+B3gnt3,Q5JCS9,Topological domain,Lumenal,32.0,372.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Babam1,Q3UI43,Chain,BRISC and BRCA1-A complex member 1,1.0,333.0,EXACT,EXACT,,[]
+Banf1,O54962,Chain,Barrier-to-autointegration factor,1.0,89.0,EXACT,EXACT,,[]
+Banf1,O54962,Chain,"Barrier-to-autointegration factor, N-terminally processed",2.0,89.0,EXACT,EXACT,,[]
+Bax,Q07813,Chain,Apoptosis regulator BAX,1.0,192.0,EXACT,EXACT,,[]
+Bax,Q07813,Transmembrane,Helical,172.0,192.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Baz1a,O88379,Chain,Bromodomain adjacent to zinc finger domain protein 1A,1.0,1555.0,EXACT,EXACT,,[]
+Bckdk,O55028,Chain,Branched-chain alpha-ketoacid dehydrogenase kinase,31.0,412.0,EXACT,EXACT,,[]
+Bola2,Q8BGS2,Chain,BolA-like protein 2,1.0,86.0,EXACT,EXACT,,[]
+Bola3,Q8CEI1,Chain,BolA-like protein 3,1.0,110.0,EXACT,EXACT,,[]
+Bst2,Q8R2Q8,Chain,Bone marrow stromal antigen 2,1.0,152.0,EXACT,EXACT,,[]
+Bst2,Q8R2Q8,Propeptide,Removed in mature form,153.0,172.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Bst2,Q8R2Q8,Topological domain,Cytoplasmic,1.0,30.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Bst2,Q8R2Q8,Transmembrane,Helical; Signal-anchor for type II membrane protein,31.0,51.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Bst2,Q8R2Q8,Topological domain,Extracellular,52.0,152.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Bst2,Q8R2Q8,Lipidation,GPI-anchor amidated serine,152.0,152.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Btf3,Q64152,Chain,Transcription factor BTF3,1.0,204.0,EXACT,EXACT,,[]
+C1d,O35473,Chain,Nuclear nucleic acid-binding protein C1D,1.0,141.0,EXACT,EXACT,,[]
+C1qbp,O35658,Chain,"Complement component 1 Q subcomponent-binding protein, mitochondrial",71.0,278.0,EXACT,EXACT,,[]
+Calm3,P0DP28,Chain,Calmodulin-3,2.0,149.0,EXACT,EXACT,,[]
+Calr,P14211,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""2583110""}, {""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""7523108""}]"
+Calr,P14211,Chain,Calreticulin,18.0,416.0,EXACT,EXACT,,[]
+Canx,P35564,Signal,,1.0,20.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Canx,P35564,Chain,Calnexin,21.0,591.0,EXACT,EXACT,,[]
+Canx,P35564,Topological domain,Lumenal,21.0,482.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Canx,P35564,Transmembrane,Helical,483.0,503.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Canx,P35564,Topological domain,Cytoplasmic,504.0,591.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Canx,P35564,Lipidation,S-palmitoyl cysteine,503.0,503.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Canx,P35564,Lipidation,S-palmitoyl cysteine,504.0,504.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Capzb,P47757,Chain,F-actin-capping protein subunit beta,2.0,277.0,EXACT,EXACT,,[]
+Carhsp1,Q9CR86,Chain,Calcium-regulated heat stable protein 1,2.0,148.0,EXACT,EXACT,,[]
+Cavin3,Q91VJ2,Chain,Caveolae-associated protein 3,1.0,260.0,EXACT,EXACT,,[]
+Ccnd1,P25322,Chain,G1/S-specific cyclin-D1,1.0,295.0,EXACT,EXACT,,[]
+Cct2,P80314,Chain,T-complex protein 1 subunit beta,2.0,535.0,EXACT,EXACT,,[]
+Cct3,P80318,Chain,T-complex protein 1 subunit gamma,1.0,545.0,EXACT,EXACT,,[]
+Cct4,P80315,Chain,T-complex protein 1 subunit delta,1.0,539.0,EXACT,EXACT,,[]
+Cct5,P80316,Chain,T-complex protein 1 subunit epsilon,2.0,541.0,EXACT,EXACT,,[]
+Cct6a,P80317,Chain,T-complex protein 1 subunit zeta,2.0,531.0,EXACT,EXACT,,[]
+Cct8,P42932,Chain,T-complex protein 1 subunit theta,2.0,548.0,EXACT,EXACT,,[]
+Cd14,P10810,Signal,,1.0,15.0,EXACT,EXACT,,[]
+Cd14,P10810,Chain,Monocyte differentiation antigen CD14,16.0,336.0,EXACT,EXACT,,[]
+Cd14,P10810,Propeptide,Removed in mature form,337.0,366.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd14,P10810,Lipidation,GPI-anchor amidated asparagine,336.0,336.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd302,Q9DCG2,Signal,,1.0,20.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd302,Q9DCG2,Chain,CD302 antigen,21.0,228.0,EXACT,EXACT,,[]
+Cd302,Q9DCG2,Topological domain,Extracellular,21.0,165.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd302,Q9DCG2,Transmembrane,Helical,166.0,186.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd302,Q9DCG2,Topological domain,Cytoplasmic,187.0,228.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd52,Q64389,Signal,,1.0,23.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd52,Q64389,Peptide,CAMPATH-1 antigen,24.0,47.0,EXACT,EXACT,,[]
+Cd52,Q64389,Propeptide,Removed in mature form,48.0,74.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd52,Q64389,Lipidation,GPI-anchor amidated serine,47.0,47.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd74,P04441,Chain,H-2 class II histocompatibility antigen gamma chain,1.0,279.0,EXACT,EXACT,,[]
+Cd74,P04441,Peptide,Class-II-associated invariant chain peptide,80.0,103.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P04233""}]"
+Cd74,P04441,Topological domain,Cytoplasmic,1.0,29.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd74,P04441,Transmembrane,Helical; Signal-anchor for type II membrane protein,30.0,55.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd74,P04441,Topological domain,Extracellular,56.0,279.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd81,P35762,Chain,CD81 antigen,1.0,236.0,EXACT,EXACT,,[]
+Cd81,P35762,Topological domain,Cytoplasmic,1.0,12.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Cd81,P35762,Transmembrane,Helical,13.0,33.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P60033""}]"
+Cd81,P35762,Topological domain,Extracellular,34.0,63.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Cd81,P35762,Transmembrane,Helical,64.0,84.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P60033""}]"
+Cd81,P35762,Topological domain,Cytoplasmic,85.0,89.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Cd81,P35762,Transmembrane,Helical,90.0,112.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P60033""}]"
+Cd81,P35762,Topological domain,Extracellular,113.0,201.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Cd81,P35762,Transmembrane,Helical,202.0,224.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P60033""}]"
+Cd81,P35762,Topological domain,Cytoplasmic,225.0,236.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Cd93,O89103,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd93,O89103,Chain,Complement component C1q receptor,23.0,644.0,EXACT,EXACT,,[]
+Cd93,O89103,Topological domain,Extracellular,23.0,572.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd93,O89103,Transmembrane,Helical,573.0,593.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cd93,O89103,Topological domain,Cytoplasmic,594.0,644.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cdc42ep4,Q9JM96,Chain,Cdc42 effector protein 4,1.0,349.0,EXACT,EXACT,,[]
+Cetn3,O35648,Chain,Centrin-3,1.0,167.0,EXACT,EXACT,,[]
+Ch25h,Q9Z0F5,Chain,Cholesterol 25-hydroxylase,1.0,298.0,EXACT,EXACT,,[]
+Ch25h,Q9Z0F5,Transmembrane,Helical,38.0,58.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ch25h,Q9Z0F5,Transmembrane,Helical,88.0,108.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ch25h,Q9Z0F5,Transmembrane,Helical,124.0,144.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Chchd1,Q9CQA6,Chain,Small ribosomal subunit protein mS37,1.0,118.0,EXACT,EXACT,,[]
+Chchd3,Q9CRB9,Chain,MICOS complex subunit Mic19,2.0,227.0,EXACT,EXACT,,[]
+Chchd3,Q9CRB9,Lipidation,N-myristoyl glycine,2.0,2.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""21081504""}]"
+Cib1,Q9Z0F4,Chain,Calcium and integrin-binding protein 1,2.0,191.0,EXACT,EXACT,,[]
+Cib1,Q9Z0F4,Lipidation,N-myristoyl glycine,2.0,2.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Cisd1,Q91WS0,Chain,CDGSH iron-sulfur domain-containing protein 1,1.0,108.0,EXACT,EXACT,,[]
+Cisd1,Q91WS0,Transmembrane,Helical; Signal-anchor for type III membrane protein,14.0,31.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cisd1,Q91WS0,Topological domain,Cytoplasmic,32.0,108.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Clic1,Q9Z1Q5,Chain,Chloride intracellular channel protein 1,2.0,241.0,EXACT,EXACT,,[]
+Clic1,Q9Z1Q5,Transmembrane,Helical; Note=After insertion into the membrane,26.0,46.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Col4a1,P02463,Signal,,1.0,27.0,EXACT,EXACT,,[]
+Col4a1,P02463,Propeptide,N-terminal propeptide (7S domain),28.0,172.0,EXACT,EXACT,,[]
+Col4a1,P02463,Chain,Collagen alpha-1(IV) chain,173.0,1669.0,EXACT,EXACT,,[]
+Col4a1,P02463,Chain,Arresten,1445.0,1669.0,EXACT,EXACT,,[]
+Col4a2,P08122,Signal,,1.0,25.0,EXACT,EXACT,,[]
+Col4a2,P08122,Propeptide,N-terminal propeptide (7S domain),26.0,183.0,EXACT,EXACT,,[]
+Col4a2,P08122,Chain,Collagen alpha-2(IV) chain,184.0,1707.0,EXACT,EXACT,,[]
+Col4a2,P08122,Chain,Canstatin,1481.0,1707.0,EXACT,EXACT,,[]
+Colgalt1,Q8K297,Signal,,1.0,31.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Colgalt1,Q8K297,Chain,Procollagen galactosyltransferase 1,32.0,617.0,EXACT,EXACT,,[]
+Cope,O89079,Chain,Coatomer subunit epsilon,1.0,308.0,EXACT,EXACT,,[]
+Cops7a,Q9CZ04,Chain,COP9 signalosome complex subunit 7a,2.0,275.0,EXACT,EXACT,,[]
+Cox5a,P12787,Chain,"Cytochrome c oxidase subunit 5A, mitochondrial",38.0,146.0,EXACT,EXACT,,[]
+Cox5b,P19536,Chain,"Cytochrome c oxidase subunit 5B, mitochondrial",31.0,128.0,EXACT,EXACT,,[]
+Cox6a1,P43024,Chain,"Cytochrome c oxidase subunit 6A1, mitochondrial",27.0,111.0,EXACT,EXACT,,[]
+Cox6a1,P43024,Topological domain,Mitochondrial matrix,27.0,36.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P07471""}]"
+Cox6a1,P43024,Transmembrane,Helical,37.0,61.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P07471""}]"
+Cox6a1,P43024,Topological domain,Mitochondrial intermembrane,62.0,111.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P07471""}]"
+Cox6b1,P56391,Chain,Cytochrome c oxidase subunit 6B1,2.0,86.0,EXACT,EXACT,,[]
+Cox6c,Q9CPQ1,Chain,Cytochrome c oxidase subunit 6C,1.0,76.0,EXACT,EXACT,,[]
+Cox6c,Q9CPQ1,Topological domain,Mitochondrial matrix,4.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Cox6c,Q9CPQ1,Transmembrane,Helical,23.0,44.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Cox6c,Q9CPQ1,Topological domain,Mitochondrial intermembrane,45.0,76.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Cox7a2,P48771,Chain,"Cytochrome c oxidase subunit 7A2, mitochondrial",24.0,83.0,EXACT,EXACT,,[]
+Cox7a2,P48771,Topological domain,Mitochondrial matrix,24.0,48.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P14406""}]"
+Cox7a2,P48771,Transmembrane,Helical,49.0,77.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P07470""}]"
+Cox7a2,P48771,Topological domain,Mitochondrial intermembrane,78.0,83.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P14406""}]"
+Cox7b,P56393,Chain,"Cytochrome c oxidase subunit 7B, mitochondrial",25.0,80.0,EXACT,EXACT,,[]
+Cox7b,P56393,Topological domain,Mitochondrial matrix,25.0,39.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Cox7b,P56393,Transmembrane,Helical,40.0,60.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Cox7b,P56393,Topological domain,Mitochondrial intermembrane,61.0,80.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Cox8a,Q64445,Chain,"Cytochrome c oxidase subunit 8A, mitochondrial",26.0,69.0,EXACT,EXACT,,[]
+Cox8a,Q64445,Topological domain,Mitochondrial matrix,26.0,36.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P10176""}]"
+Cox8a,Q64445,Transmembrane,Helical,37.0,60.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P10175""}]"
+Cox8a,Q64445,Topological domain,Mitochondrial intermembrane,61.0,69.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P10176""}]"
+Cpe,Q00493,Signal,,1.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Cpe,Q00493,Propeptide,Activation peptide,28.0,42.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Cpe,Q00493,Chain,Carboxypeptidase E,43.0,476.0,EXACT,EXACT,,[]
+Creld2,Q9CYA0,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Creld2,Q9CYA0,Chain,Protein disulfide isomerase Creld2,23.0,350.0,EXACT,EXACT,,[]
+Crlf2,Q8CII9,Signal,,1.0,19.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Crlf2,Q8CII9,Chain,Cytokine receptor-like factor 2,20.0,359.0,EXACT,EXACT,,[]
+Crlf2,Q8CII9,Topological domain,Extracellular,20.0,232.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Crlf2,Q8CII9,Transmembrane,Helical,233.0,253.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Crlf2,Q8CII9,Topological domain,Cytoplasmic,254.0,359.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cs,Q9CZU6,Chain,"Citrate synthase, mitochondrial",28.0,464.0,EXACT,EXACT,,[]
+Cstb,Q62426,Chain,Cystatin-B,1.0,98.0,EXACT,EXACT,,[]
+Ctla2a,P12399,Signal,,1.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ctla2a,P12399,Chain,Protein CTLA-2-alpha,28.0,137.0,EXACT,EXACT,,[]
+Ctps1,P70698,Chain,CTP synthase 1,1.0,591.0,EXACT,EXACT,,[]
+Ctsb,P10605,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ctsb,P10605,Propeptide,Activation peptide,18.0,79.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P07858""}]"
+Ctsb,P10605,Chain,Cathepsin B,80.0,333.0,EXACT,EXACT,,[]
+Ctsb,P10605,Chain,Cathepsin B light chain,80.0,126.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P07858""}]"
+Ctsb,P10605,Chain,Cathepsin B heavy chain,129.0,333.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P07858""}]"
+Ctsb,P10605,Propeptide,,334.0,339.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P07858""}]"
+Ctsz,Q9WUU7,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ctsz,Q9WUU7,Propeptide,Activation peptide,23.0,63.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ctsz,Q9WUU7,Chain,Cathepsin Z,64.0,306.0,EXACT,EXACT,,[]
+Cxcl2,P10889,Signal,,1.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""2643119""}]"
+Cxcl2,P10889,Chain,C-X-C motif chemokine 2,28.0,100.0,EXACT,EXACT,,[]
+Cyb561,Q60720,Chain,Transmembrane ascorbate-dependent reductase CYB561,1.0,250.0,EXACT,EXACT,,[]
+Cyb561,Q60720,Topological domain,Cytoplasmic,1.0,15.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q53TN4""}]"
+Cyb561,Q60720,Transmembrane,Helical,16.0,36.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cyb561,Q60720,Topological domain,Vesicular,37.0,50.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q53TN4""}]"
+Cyb561,Q60720,Transmembrane,Helical,51.0,71.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cyb561,Q60720,Topological domain,Cytoplasmic,72.0,83.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q53TN4""}]"
+Cyb561,Q60720,Transmembrane,Helical,84.0,104.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cyb561,Q60720,Topological domain,Vesicular,105.0,123.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q53TN4""}]"
+Cyb561,Q60720,Transmembrane,Helical,124.0,144.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cyb561,Q60720,Topological domain,Cytoplasmic,145.0,157.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q53TN4""}]"
+Cyb561,Q60720,Transmembrane,Helical,158.0,178.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cyb561,Q60720,Topological domain,Vesicular,179.0,197.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q53TN4""}]"
+Cyb561,Q60720,Transmembrane,Helical,198.0,218.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cyb561,Q60720,Topological domain,Cytoplasmic,219.0,250.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q53TN4""}]"
+Cyb5a,P56395,Chain,Cytochrome b5,2.0,134.0,EXACT,EXACT,,[]
+Cyb5a,P56395,Transmembrane,Helical,109.0,131.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Cyba,Q61462,Chain,Cytochrome b-245 light chain,2.0,192.0,EXACT,EXACT,,[]
+Cyba,Q61462,Topological domain,Cytoplasmic,2.0,7.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Transmembrane,Helical,8.0,30.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Topological domain,Extracellular,31.0,35.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Transmembrane,Helical,36.0,53.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Topological domain,Cytoplasmic,54.0,69.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Intramembrane,,70.0,80.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Topological domain,Cytoplasmic,81.0,86.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Transmembrane,Helical,87.0,104.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Topological domain,Extracellular,105.0,105.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Transmembrane,Helical,106.0,126.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Cyba,Q61462,Topological domain,Cytoplasmic,127.0,192.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13498""}]"
+Dad1,P61804,Chain,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1,2.0,113.0,EXACT,EXACT,,[]
+Dad1,P61804,Topological domain,Cytoplasmic,2.0,30.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Dad1,P61804,Transmembrane,Helical,31.0,51.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Dad1,P61804,Topological domain,Lumenal,52.0,52.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Dad1,P61804,Transmembrane,Helical,53.0,73.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Dad1,P61804,Topological domain,Cytoplasmic,74.0,92.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Dad1,P61804,Transmembrane,Helical,93.0,113.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Dbi,P31786,Chain,Acyl-CoA-binding protein,2.0,87.0,EXACT,EXACT,,[]
+Dctpp1,Q9QY93,Chain,dCTP pyrophosphatase 1,2.0,170.0,EXACT,EXACT,,[]
+Ddost,O54734,Signal,,1.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Ddost,O54734,Chain,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit,29.0,441.0,EXACT,EXACT,,[]
+Ddost,O54734,Topological domain,Lumenal,29.0,412.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ddost,O54734,Transmembrane,Helical,413.0,432.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ddost,O54734,Topological domain,Cytoplasmic,433.0,441.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ddx39a,Q8VDW0,Chain,ATP-dependent RNA helicase DDX39A,2.0,427.0,EXACT,EXACT,,[]
+Derl2,Q8BNI4,Chain,Derlin-2,1.0,239.0,EXACT,EXACT,,[]
+Derl2,Q8BNI4,Topological domain,Cytoplasmic,1.0,57.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Derl2,Q8BNI4,Transmembrane,Helical; Name=1,58.0,78.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Derl2,Q8BNI4,Topological domain,Lumenal,79.0,96.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Derl2,Q8BNI4,Transmembrane,Helical; Name=2,97.0,117.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Derl2,Q8BNI4,Topological domain,Cytoplasmic,118.0,150.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Derl2,Q8BNI4,Transmembrane,Helical; Name=3,151.0,171.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Derl2,Q8BNI4,Topological domain,Lumenal,172.0,172.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Derl2,Q8BNI4,Transmembrane,Helical; Name=4,173.0,193.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Derl2,Q8BNI4,Topological domain,Cytoplasmic,194.0,239.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Dlst,Q9D2G2,Chain,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial",69.0,454.0,EXACT,EXACT,,[]
+Dnajb11,Q99KV1,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Dnajb11,Q99KV1,Chain,DnaJ homolog subfamily B member 11,23.0,358.0,EXACT,EXACT,,[]
+Dohh,Q99LN9,Chain,Deoxyhypusine hydroxylase,1.0,302.0,EXACT,EXACT,,[]
+Dtymk,P97930,Chain,Thymidylate kinase,2.0,212.0,EXACT,EXACT,,[]
+Dusp23,Q6NT99,Chain,Dual specificity protein phosphatase 23,1.0,150.0,EXACT,EXACT,,[]
+Ebp,P70245,Chain,"3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",2.0,230.0,EXACT,EXACT,,[]
+Ebp,P70245,Transmembrane,Helical,29.0,49.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ebp,P70245,Transmembrane,Helical,66.0,86.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ebp,P70245,Transmembrane,Helical,121.0,141.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ebp,P70245,Transmembrane,Helical,185.0,205.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ecm1,Q61508,Signal,,1.0,19.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""7608209""}]"
+Ecm1,Q61508,Chain,Extracellular matrix protein 1,20.0,559.0,EXACT,EXACT,,[]
+Edf1,Q9JMG1,Chain,Endothelial differentiation-related factor 1,2.0,148.0,EXACT,EXACT,,[]
+Edn1,P22387,Signal,,1.0,25.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Edn1,P22387,Propeptide,,26.0,50.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P22388""}]"
+Edn1,P22387,Peptide,Big endothelin-1,53.0,91.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P22388""}]"
+Edn1,P22387,Peptide,Endothelin-1,53.0,73.0,EXACT,EXACT,,[]
+Edn1,P22387,Propeptide,,74.0,202.0,EXACT,EXACT,,[]
+Eef1akmt1,Q9CY45,Chain,EEF1A lysine methyltransferase 1,2.0,214.0,EXACT,EXACT,,[]
+Eef1d,P57776,Chain,Elongation factor 1-delta,2.0,281.0,EXACT,EXACT,,[]
+Eef1g,Q9D8N0,Chain,Elongation factor 1-gamma,2.0,437.0,EXACT,EXACT,,[]
+Eef2,P58252,Chain,Elongation factor 2,2.0,858.0,EXACT,EXACT,,[]
+Ehd1,Q9WVK4,Chain,EH domain-containing protein 1,1.0,534.0,EXACT,EXACT,,[]
+Ehd4,Q9EQP2,Chain,EH domain-containing protein 4,1.0,541.0,EXACT,EXACT,,[]
+Eif1a,Q60872,Chain,Eukaryotic translation initiation factor 1A,1.0,144.0,EXACT,EXACT,,[]
+Eif2s1,Q6ZWX6,Chain,Eukaryotic translation initiation factor 2 subunit 1,1.0,315.0,EXACT,EXACT,,[]
+Eif3e,P60229,Chain,Eukaryotic translation initiation factor 3 subunit E,2.0,445.0,EXACT,EXACT,,[]
+Eif3h,Q91WK2,Chain,Eukaryotic translation initiation factor 3 subunit H,1.0,352.0,EXACT,EXACT,,[]
+Eif3i,Q9QZD9,Chain,Eukaryotic translation initiation factor 3 subunit I,1.0,325.0,EXACT,EXACT,,[]
+Eif3k,Q9DBZ5,Chain,Eukaryotic translation initiation factor 3 subunit K,2.0,218.0,EXACT,EXACT,,[]
+Eif3m,Q99JX4,Chain,Eukaryotic translation initiation factor 3 subunit M,2.0,374.0,EXACT,EXACT,,[]
+Eif4a1,P60843,Chain,Eukaryotic initiation factor 4A-I,2.0,406.0,EXACT,EXACT,,[]
+Eif4ebp1,Q60876,Chain,Eukaryotic translation initiation factor 4E-binding protein 1,2.0,117.0,EXACT,EXACT,,[]
+Eif5a,P63242,Chain,Eukaryotic translation initiation factor 5A-1,2.0,154.0,EXACT,EXACT,,[]
+Elob,P62869,Chain,Elongin-B,1.0,118.0,EXACT,EXACT,,[]
+Eloc,P83940,Chain,Elongin-C,1.0,112.0,EXACT,EXACT,,[]
+Elovl1,Q9JLJ5,Chain,Very long chain fatty acid elongase 1,1.0,279.0,EXACT,EXACT,,[]
+Elovl1,Q9JLJ5,Transmembrane,Helical,23.0,43.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""HAMAP-Rule"", ""id"": ""MF_03201""}]"
+Elovl1,Q9JLJ5,Transmembrane,Helical,61.0,81.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""HAMAP-Rule"", ""id"": ""MF_03201""}]"
+Elovl1,Q9JLJ5,Transmembrane,Helical,110.0,130.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""HAMAP-Rule"", ""id"": ""MF_03201""}]"
+Elovl1,Q9JLJ5,Transmembrane,Helical,137.0,154.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""HAMAP-Rule"", ""id"": ""MF_03201""}]"
+Elovl1,Q9JLJ5,Transmembrane,Helical,176.0,196.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""HAMAP-Rule"", ""id"": ""MF_03201""}]"
+Elovl1,Q9JLJ5,Transmembrane,Helical,203.0,223.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""HAMAP-Rule"", ""id"": ""MF_03201""}]"
+Elovl1,Q9JLJ5,Transmembrane,Helical,231.0,251.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""HAMAP-Rule"", ""id"": ""MF_03201""}]"
+Emg1,O35130,Chain,Ribosomal RNA small subunit methyltransferase NEP1,1.0,244.0,EXACT,EXACT,,[]
+Emp1,P47801,Chain,Epithelial membrane protein 1,1.0,160.0,EXACT,EXACT,,[]
+Emp1,P47801,Transmembrane,Helical,1.0,21.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Emp1,P47801,Transmembrane,Helical,67.0,87.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Emp1,P47801,Transmembrane,Helical,95.0,115.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Emp1,P47801,Transmembrane,Helical,137.0,157.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Emp3,O35912,Chain,Epithelial membrane protein 3,1.0,163.0,EXACT,EXACT,,[]
+Emp3,O35912,Transmembrane,Helical,4.0,24.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Emp3,O35912,Transmembrane,Helical,66.0,86.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Emp3,O35912,Transmembrane,Helical,100.0,120.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Emp3,O35912,Transmembrane,Helical,139.0,159.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Entpd1,P55772,Chain,Ectonucleoside triphosphate diphosphohydrolase 1,1.0,510.0,EXACT,EXACT,,[]
+Entpd1,P55772,Topological domain,Cytoplasmic,1.0,16.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Entpd1,P55772,Transmembrane,Helical,17.0,37.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Entpd1,P55772,Topological domain,Extracellular,38.0,478.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Entpd1,P55772,Transmembrane,Helical,479.0,499.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Entpd1,P55772,Topological domain,Cytoplasmic,500.0,510.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Eny2,Q9JIX0,Chain,Transcription and mRNA export factor ENY2,1.0,101.0,EXACT,EXACT,,[]
+Erh,P84089,Chain,Enhancer of rudimentary homolog,2.0,104.0,EXACT,EXACT,,[]
+Esd,Q9R0P3,Chain,S-formylglutathione hydrolase,2.0,282.0,EXACT,EXACT,,[]
+Exosc8,Q9D753,Chain,Exosome complex component RRP43,2.0,276.0,EXACT,EXACT,,[]
+Fam43a,Q8BUP8,Chain,Protein FAM43A,1.0,424.0,EXACT,EXACT,,[]
+Fbl,P35550,Chain,rRNA 2'-O-methyltransferase fibrillarin,1.0,327.0,EXACT,EXACT,,[]
+Fkbp1a,P26883,Chain,Peptidyl-prolyl cis-trans isomerase FKBP1A,1.0,108.0,EXACT,EXACT,,[]
+Fkbp2,P45878,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Fkbp2,P45878,Chain,Peptidyl-prolyl cis-trans isomerase FKBP2,23.0,140.0,EXACT,EXACT,,[]
+Fmc1,Q9CR13,Chain,Protein FMC1 homolog,1.0,113.0,EXACT,EXACT,,[]
+Fth1,P09528,Chain,Ferritin heavy chain,1.0,182.0,EXACT,EXACT,,[]
+Fth1,P09528,Chain,"Ferritin heavy chain, N-terminally processed",2.0,182.0,EXACT,EXACT,,[]
+Ftl1,P29391,Chain,Ferritin light chain 1,1.0,183.0,EXACT,EXACT,,[]
+Fuca2,Q99KR8,Signal,,1.0,25.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Fuca2,Q99KR8,Chain,Plasma alpha-L-fucosidase,26.0,461.0,EXACT,EXACT,,[]
+Fundc2,Q9D6K8,Chain,FUN14 domain-containing protein 2,1.0,151.0,EXACT,EXACT,,[]
+Fundc2,Q9D6K8,Topological domain,Cytoplasmic,1.0,42.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9BWH2""}]"
+Fundc2,Q9D6K8,Transmembrane,Helical,43.0,63.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Fundc2,Q9D6K8,Topological domain,Mitochondrial intermembrane,64.0,69.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9BWH2""}]"
+Fundc2,Q9D6K8,Transmembrane,Helical,70.0,90.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Fundc2,Q9D6K8,Topological domain,Cytoplasmic,91.0,126.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9BWH2""}]"
+Fundc2,Q9D6K8,Transmembrane,Helical,127.0,147.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Fundc2,Q9D6K8,Topological domain,Mitochondrial intermembrane,148.0,151.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9BWH2""}]"
+Galk1,Q9R0N0,Chain,Galactokinase,1.0,392.0,EXACT,EXACT,,[]
+Gbp3,Q61107,Chain,Guanylate-binding protein 3,1.0,620.0,EXACT,EXACT,,[]
+Gclm,O09172,Chain,Glutamate--cysteine ligase regulatory subunit,1.0,274.0,EXACT,EXACT,,[]
+Gcsh,Q91WK5,Chain,"Glycine cleavage system H protein, mitochondrial",46.0,170.0,EXACT,EXACT,,[]
+Gemin7,Q9CWY4,Chain,Gem-associated protein 7,1.0,129.0,EXACT,EXACT,,[]
+Gipc1,Q9Z0G0,Chain,PDZ domain-containing protein GIPC1,1.0,333.0,EXACT,EXACT,,[]
+Gja4,P28235,Chain,Gap junction alpha-4 protein,1.0,333.0,EXACT,EXACT,,[]
+Gja4,P28235,Topological domain,Cytoplasmic,1.0,20.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Gja4,P28235,Transmembrane,Helical,21.0,40.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Gja4,P28235,Topological domain,Extracellular,41.0,76.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Gja4,P28235,Transmembrane,Helical,77.0,99.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Gja4,P28235,Topological domain,Cytoplasmic,100.0,148.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Gja4,P28235,Transmembrane,Helical,149.0,171.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Gja4,P28235,Topological domain,Extracellular,172.0,208.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Gja4,P28235,Transmembrane,Helical,209.0,231.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Gja4,P28235,Topological domain,Cytoplasmic,232.0,333.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Glod4,Q9CPV4,Chain,Glyoxalase domain-containing protein 4,1.0,298.0,EXACT,EXACT,,[]
+Glul,P15105,Chain,Glutamine synthetase,2.0,373.0,EXACT,EXACT,,[]
+Gngt2,Q61017,Chain,Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-T2,1.0,66.0,EXACT,EXACT,,[]
+Gngt2,Q61017,Propeptide,Removed in mature form,67.0,69.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Gngt2,Q61017,Lipidation,S-farnesyl cysteine,66.0,66.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Gnl3,Q8CI11,Chain,Guanine nucleotide-binding protein-like 3,1.0,538.0,EXACT,EXACT,,[]
+Gpatch4,Q3TFK5,Chain,G patch domain-containing protein 4,1.0,415.0,EXACT,EXACT,,[]
+Gpx1,P11352,Chain,Glutathione peroxidase 1,1.0,201.0,EXACT,EXACT,,[]
+Grn,P28798,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""8496151""}]"
+Grn,P28798,Chain,Paragranulin,18.0,589.0,EXACT,EXACT,,[]
+Grn,P28798,Peptide,Paragranulin,18.0,47.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P28799""}]"
+Grn,P28798,Peptide,Granulin-1,58.0,113.0,UNSURE,UNSURE,,[]
+Grn,P28798,Peptide,Granulin-2,122.0,178.0,UNSURE,UNSURE,,[]
+Grn,P28798,Peptide,Granulin-3,205.0,260.0,EXACT,EXACT,,[]
+Grn,P28798,Peptide,Granulin-4,280.0,334.0,EXACT,EXACT,,[]
+Grn,P28798,Peptide,Granulin-5,362.0,414.0,EXACT,UNSURE,,[]
+Grn,P28798,Peptide,Granulin-6,440.0,493.0,EXACT,UNSURE,,[]
+Grn,P28798,Peptide,Granulin-7,517.0,568.0,UNSURE,UNSURE,,[]
+Grpel1,Q99LP6,Chain,"GrpE protein homolog 1, mitochondrial",28.0,217.0,EXACT,EXACT,,[]
+Guk1,Q64520,Chain,Guanylate kinase,1.0,198.0,EXACT,EXACT,,[]
+H2aj,Q8R1M2,Chain,Histone H2A.J,2.0,129.0,EXACT,EXACT,,[]
+Hint1,P70349,Chain,Adenosine 5'-monophosphoramidase HINT1,2.0,126.0,EXACT,EXACT,,[]
+Hmgn1,P18608,Chain,Non-histone chromosomal protein HMG-14,2.0,96.0,EXACT,EXACT,,[]
+Hmgn2,P09602,Chain,Non-histone chromosomal protein HMG-17,2.0,90.0,EXACT,EXACT,,[]
+Hmox2,O70252,Chain,Heme oxygenase 2,2.0,315.0,EXACT,EXACT,,[]
+Hmox2,O70252,Chain,Heme oxygenase 2 soluble form,2.0,294.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P30519""}]"
+Hmox2,O70252,Topological domain,Cytoplasmic,2.0,294.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P09601""}]"
+Hmox2,O70252,Transmembrane,Helical; Anchor for type IV membrane protein,295.0,315.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Hsd17b10,O08756,Chain,3-hydroxyacyl-CoA dehydrogenase type-2,2.0,261.0,EXACT,EXACT,,[]
+Hsd17b12,O70503,Chain,Very-long-chain 3-oxoacyl-CoA reductase,1.0,312.0,EXACT,EXACT,,[]
+Hsd17b12,O70503,Transmembrane,Helical,4.0,24.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Hsd17b12,O70503,Transmembrane,Helical,182.0,202.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Hsd17b12,O70503,Transmembrane,Helical,269.0,285.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Hspa5,P20029,Signal,,1.0,19.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""2559088""}, {""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""7523108""}]"
+Hspa5,P20029,Chain,Endoplasmic reticulum chaperone BiP,20.0,655.0,EXACT,EXACT,,[]
+Hspe1,Q64433,Chain,"10 kDa heat shock protein, mitochondrial",2.0,102.0,EXACT,EXACT,,[]
+Ide,Q9JHR7,Chain,Insulin-degrading enzyme,1.0,1019.0,EXACT,EXACT,,[]
+Idh3a,Q9D6R2,Chain,"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",28.0,366.0,EXACT,EXACT,,[]
+Ifi27l2a,Q8R412,Signal,,1.0,24.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifi27l2a,Q8R412,Chain,Interferon alpha-inducible protein 27-like protein 2A,25.0,90.0,EXACT,EXACT,,[]
+Ifi27l2a,Q8R412,Transmembrane,Helical,28.0,48.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifi27l2a,Q8R412,Transmembrane,Helical,67.0,89.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifi44,Q8BV66,Chain,Interferon-induced protein 44,1.0,422.0,EXACT,EXACT,,[]
+Ifitm1,Q9D103,Chain,Interferon-induced transmembrane protein 1,1.0,106.0,EXACT,EXACT,,[]
+Ifitm1,Q9D103,Topological domain,Cytoplasmic,1.0,35.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm1,Q9D103,Intramembrane,Helical,36.0,56.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13164""}]"
+Ifitm1,Q9D103,Topological domain,Cytoplasmic,57.0,84.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm1,Q9D103,Transmembrane,Helical,85.0,105.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm1,Q9D103,Topological domain,Extracellular,106.0,106.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm1,Q9D103,Lipidation,S-palmitoyl cysteine,49.0,49.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13164""}]"
+Ifitm1,Q9D103,Lipidation,S-palmitoyl cysteine,50.0,50.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13164""}]"
+Ifitm1,Q9D103,Lipidation,S-palmitoyl cysteine,83.0,83.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13164""}]"
+Ifitm2,Q99J93,Chain,Interferon-induced transmembrane protein 2,1.0,144.0,EXACT,EXACT,,[]
+Ifitm2,Q99J93,Topological domain,Cytoplasmic,1.0,56.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm2,Q99J93,Intramembrane,Helical,57.0,77.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13164""}]"
+Ifitm2,Q99J93,Topological domain,Cytoplasmic,78.0,110.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm2,Q99J93,Transmembrane,Helical,111.0,131.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm2,Q99J93,Topological domain,Extracellular,132.0,144.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm2,Q99J93,Lipidation,S-palmitoyl cysteine,70.0,70.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01629""}]"
+Ifitm2,Q99J93,Lipidation,S-palmitoyl cysteine,71.0,71.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01629""}]"
+Ifitm2,Q99J93,Lipidation,S-palmitoyl cysteine,104.0,104.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01629""}]"
+Ifitm3,Q9CQW9,Chain,Interferon-induced transmembrane protein 3,1.0,137.0,EXACT,EXACT,,[]
+Ifitm3,Q9CQW9,Topological domain,Cytoplasmic,1.0,57.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm3,Q9CQW9,Intramembrane,Helical,58.0,78.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm3,Q9CQW9,Topological domain,Cytoplasmic,79.0,109.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm3,Q9CQW9,Transmembrane,Helical,110.0,130.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm3,Q9CQW9,Topological domain,Extracellular,131.0,137.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ifitm3,Q9CQW9,Lipidation,S-palmitoyl cysteine,71.0,71.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01628""}]"
+Ifitm3,Q9CQW9,Lipidation,S-palmitoyl cysteine,72.0,72.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01628""}]"
+Ifitm3,Q9CQW9,Lipidation,S-palmitoyl cysteine,105.0,105.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q01628""}]"
+Iftap,Q9CQI4,Chain,Intraflagellar transport-associated protein,1.0,244.0,EXACT,EXACT,,[]
+Igfbp4,P47879,Signal,,1.0,21.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Igfbp4,P47879,Chain,Insulin-like growth factor-binding protein 4,22.0,254.0,EXACT,EXACT,,[]
+Il1b,P10749,Propeptide,,1.0,117.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""2967326""}]"
+Il1b,P10749,Chain,Interleukin-1 beta,118.0,269.0,EXACT,EXACT,,[]
+Il2rg,P34902,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Il2rg,P34902,Chain,Cytokine receptor common subunit gamma,23.0,369.0,EXACT,EXACT,,[]
+Il2rg,P34902,Topological domain,Extracellular,23.0,263.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Il2rg,P34902,Transmembrane,Helical,264.0,284.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Il2rg,P34902,Topological domain,Cytoplasmic,285.0,369.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Irf7,P70434,Chain,Interferon regulatory factor 7,1.0,457.0,EXACT,EXACT,,[]
+Isg15,Q64339,Chain,Ubiquitin-like protein ISG15,1.0,155.0,EXACT,EXACT,,[]
+Isg15,Q64339,Propeptide,Removed in mature form,156.0,161.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Isg20,Q9JL16,Chain,Interferon-stimulated gene 20 kDa protein,1.0,300.0,EXACT,EXACT,,[]
+Itgb1,P09055,Signal,,1.0,20.0,EXACT,EXACT,,[]
+Itgb1,P09055,Chain,Integrin beta-1,21.0,798.0,EXACT,EXACT,,[]
+Itgb1,P09055,Topological domain,Extracellular,21.0,728.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Itgb1,P09055,Transmembrane,Helical,729.0,751.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Itgb1,P09055,Topological domain,Cytoplasmic,752.0,798.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Itgb1bp1,O35671,Chain,Integrin beta-1-binding protein 1,1.0,200.0,EXACT,EXACT,,[]
+Itm2c,Q91VK4,Chain,Integral membrane protein 2C,1.0,269.0,EXACT,EXACT,,[]
+Itm2c,Q91VK4,Peptide,CT-BRI3,244.0,269.0,EXACT,EXACT,,[]
+Itm2c,Q91VK4,Transmembrane,Helical; Signal-anchor for type II membrane protein,57.0,77.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Itpa,Q9D892,Chain,Inosine triphosphate pyrophosphatase,2.0,198.0,EXACT,EXACT,,[]
+Jagn1,Q5XKN4,Chain,Protein jagunal homolog 1,1.0,183.0,EXACT,EXACT,,[]
+Jagn1,Q5XKN4,Topological domain,Cytoplasmic,1.0,39.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jagn1,Q5XKN4,Transmembrane,Helical,40.0,60.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jagn1,Q5XKN4,Topological domain,Lumenal,61.0,71.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jagn1,Q5XKN4,Transmembrane,Helical,72.0,92.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jagn1,Q5XKN4,Topological domain,Cytoplasmic,93.0,96.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jagn1,Q5XKN4,Transmembrane,Helical,97.0,117.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jagn1,Q5XKN4,Topological domain,Lumenal,118.0,137.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jagn1,Q5XKN4,Transmembrane,Helical,138.0,158.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jagn1,Q5XKN4,Topological domain,Cytoplasmic,159.0,183.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Jpt1,P97825,Chain,Jupiter microtubule associated homolog 1,1.0,154.0,EXACT,EXACT,,[]
+Jpt1,P97825,Chain,"Jupiter microtubule associated homolog 1, N-terminally processed",2.0,154.0,EXACT,EXACT,,[]
+Kdelr2,Q9CQM2,Chain,ER lumen protein-retaining receptor 2,1.0,212.0,EXACT,EXACT,,[]
+Kdelr2,Q9CQM2,Topological domain,Lumenal,1.0,4.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Kdelr2,Q9CQM2,Transmembrane,Helical,5.0,24.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q5ZKX9""}]"
+Kdelr2,Q9CQM2,Topological domain,Cytoplasmic,25.0,32.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Kdelr2,Q9CQM2,Transmembrane,Helical,33.0,52.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q5ZKX9""}]"
+Kdelr2,Q9CQM2,Topological domain,Lumenal,53.0,58.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Kdelr2,Q9CQM2,Transmembrane,Helical,59.0,79.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q5ZKX9""}]"
+Kdelr2,Q9CQM2,Topological domain,Cytoplasmic,80.0,92.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Kdelr2,Q9CQM2,Transmembrane,Helical,93.0,110.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q5ZKX9""}]"
+Kdelr2,Q9CQM2,Topological domain,Lumenal,111.0,116.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Kdelr2,Q9CQM2,Transmembrane,Helical,117.0,135.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q5ZKX9""}]"
+Kdelr2,Q9CQM2,Topological domain,Cytoplasmic,136.0,149.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Kdelr2,Q9CQM2,Transmembrane,Helical,150.0,168.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q5ZKX9""}]"
+Kdelr2,Q9CQM2,Topological domain,Lumenal,169.0,178.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Kdelr2,Q9CQM2,Transmembrane,Helical,179.0,199.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q5ZKX9""}]"
+Kdelr2,Q9CQM2,Topological domain,Cytoplasmic,200.0,212.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Krtcap2,Q5RL79,Chain,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit KCP2,1.0,136.0,EXACT,EXACT,,[]
+Krtcap2,Q5RL79,Topological domain,Lumenal,1.0,5.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Krtcap2,Q5RL79,Transmembrane,Helical,6.0,23.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Krtcap2,Q5RL79,Topological domain,Cytoplasmic,24.0,34.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Krtcap2,Q5RL79,Transmembrane,Helical,35.0,55.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Krtcap2,Q5RL79,Topological domain,Lumenal,56.0,75.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Krtcap2,Q5RL79,Transmembrane,Helical,76.0,108.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Krtcap2,Q5RL79,Topological domain,Cytoplasmic,109.0,136.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lamp2,P17047,Signal,,1.0,25.0,EXACT,EXACT,,[]
+Lamp2,P17047,Chain,Lysosome-associated membrane glycoprotein 2,26.0,415.0,EXACT,EXACT,,[]
+Lamp2,P17047,Topological domain,Lumenal,26.0,379.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Lamp2,P17047,Transmembrane,Helical,380.0,404.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""PROSITE-ProRule"", ""id"": ""PRU00740""}]"
+Lamp2,P17047,Topological domain,Cytoplasmic,405.0,415.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255"", ""source"": ""PROSITE-ProRule"", ""id"": ""PRU00740""}]"
+Lamtor4,Q8CF66,Chain,Ragulator complex protein LAMTOR4,1.0,99.0,EXACT,EXACT,,[]
+Lamtor4,Q8CF66,Chain,"Ragulator complex protein LAMTOR4, N-terminally processed",2.0,99.0,EXACT,EXACT,,[]
+Ldha,P06151,Chain,L-lactate dehydrogenase A chain,2.0,332.0,EXACT,EXACT,,[]
+Lgals1,P16045,Chain,Galectin-1,2.0,135.0,EXACT,EXACT,,[]
+Lgals3,P16110,Chain,Galectin-3,2.0,264.0,EXACT,EXACT,,[]
+Litaf,Q9JLJ0,Chain,Lipopolysaccharide-induced tumor necrosis factor-alpha factor homolog,1.0,161.0,EXACT,EXACT,,[]
+Lmna,P48678,Chain,Prelamin-A/C,1.0,662.0,EXACT,EXACT,,[]
+Lmna,P48678,Chain,Lamin-A/C,1.0,647.0,EXACT,EXACT,,[]
+Lmna,P48678,Propeptide,Removed in Lamin-A/C form,648.0,662.0,EXACT,EXACT,,[]
+Lmna,P48678,Propeptide,Removed in Prelamin-A/C form and in Lamin-A/C form,663.0,665.0,EXACT,EXACT,,[]
+Lmna,P48678,Lipidation,S-farnesyl cysteine,662.0,662.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02545""}]"
+Lsm4,Q9QXA5,Chain,U6 snRNA-associated Sm-like protein LSm4,1.0,137.0,EXACT,EXACT,,[]
+Lsm6,P62313,Chain,U6 snRNA-associated Sm-like protein LSm6,1.0,80.0,EXACT,EXACT,,[]
+Lxn,P70202,Chain,Latexin,1.0,222.0,EXACT,EXACT,,[]
+Lyz2,P08905,Signal,,1.0,18.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""Reference"", ""id"": ""Ref.4""}]"
+Lyz2,P08905,Chain,Lysozyme C-2,19.0,148.0,EXACT,EXACT,,[]
+Mad2l2,Q9D752,Chain,Mitotic spindle assembly checkpoint protein MAD2B,1.0,211.0,EXACT,EXACT,,[]
+Magoh,P61327,Chain,Protein mago nashi homolog,1.0,146.0,EXACT,EXACT,,[]
+Mall,Q91X49,Chain,MAL-like protein,1.0,154.0,EXACT,EXACT,,[]
+Mall,Q91X49,Transmembrane,Helical,24.0,44.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mall,Q91X49,Transmembrane,Helical,61.0,81.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mall,Q91X49,Transmembrane,Helical,99.0,119.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mall,Q91X49,Transmembrane,Helical,131.0,151.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Manf,Q9CXI5,Signal,,1.0,21.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Manf,Q9CXI5,Chain,Mesencephalic astrocyte-derived neurotrophic factor,22.0,179.0,EXACT,EXACT,,[]
+Map1b,P14873,Chain,Microtubule-associated protein 1B,2.0,2464.0,EXACT,EXACT,,[]
+Map1b,P14873,Chain,MAP1B heavy chain,2.0,2202.0,EXACT,EXACT,,[]
+Map1b,P14873,Chain,MAP1 light chain LC1,2203.0,2464.0,EXACT,EXACT,,[]
+Mcam,Q8R2Y2,Signal,,1.0,23.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Mcam,Q8R2Y2,Chain,Cell surface glycoprotein MUC18,24.0,648.0,EXACT,EXACT,,[]
+Mcam,Q8R2Y2,Topological domain,Extracellular,24.0,563.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mcam,Q8R2Y2,Transmembrane,Helical,564.0,584.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mcam,Q8R2Y2,Topological domain,Cytoplasmic,585.0,648.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mcfd2,Q8K5B2,Signal,,1.0,26.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mcfd2,Q8K5B2,Chain,Multiple coagulation factor deficiency protein 2 homolog,27.0,145.0,EXACT,EXACT,,[]
+Mdh1,P14152,Chain,"Malate dehydrogenase, cytoplasmic",2.0,334.0,EXACT,EXACT,,[]
+Mfng,O09008,Chain,"Beta-1,3-N-acetylglucosaminyltransferase manic fringe",1.0,321.0,EXACT,EXACT,,[]
+Mfng,O09008,Topological domain,Cytoplasmic,1.0,7.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mfng,O09008,Transmembrane,Helical; Signal-anchor for type II membrane protein,8.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mfng,O09008,Topological domain,Lumenal,28.0,321.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Micos10,Q7TNS2,Chain,MICOS complex subunit Mic10,2.0,76.0,EXACT,EXACT,,[]
+Micos10,Q7TNS2,Transmembrane,Helical,17.0,36.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Micos10,Q7TNS2,Topological domain,Mitochondrial intermembrane,37.0,76.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mif,P34884,Chain,Macrophage migration inhibitory factor,2.0,115.0,EXACT,EXACT,,[]
+Morf4l2,Q9R0Q4,Chain,Mortality factor 4-like protein 2,1.0,288.0,EXACT,EXACT,,[]
+Mrpl1,Q99N96,Chain,Large ribosomal subunit protein uL1m,51.0,336.0,EXACT,EXACT,,[]
+Mrpl11,Q9CQF0,Chain,Large ribosomal subunit protein uL11m,,192.0,UNKNOWN,EXACT,,[]
+Mrpl12,Q9DB15,Chain,"Large ribosomal subunit protein bL12m, long mature form",39.0,201.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P52815""}]"
+Mrpl12,Q9DB15,Chain,"Large ribosomal subunit protein bL12m, short mature form",46.0,201.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P52815""}]"
+Mrpl17,Q9D8P4,Chain,Large ribosomal subunit protein bL17m,9.0,176.0,EXACT,EXACT,,[]
+Mrpl20,Q9CQL4,Chain,Large ribosomal subunit protein bL20m,10.0,149.0,EXACT,EXACT,,[]
+Mrpl21,Q9D1N9,Chain,Large ribosomal subunit protein bL21m,44.0,209.0,EXACT,EXACT,,[]
+Mrpl33,Q9CQP0,Chain,Large ribosomal subunit protein bL33m,9.0,65.0,EXACT,EXACT,,[]
+Mrpl34,Q99N91,Chain,Large ribosomal subunit protein bL34m,47.0,92.0,EXACT,EXACT,,[]
+Mrpl42,Q9CPV3,Chain,Large ribosomal subunit protein mL42,32.0,142.0,EXACT,EXACT,,[]
+Mrpl45,Q9D0Q7,Chain,Large ribosomal subunit protein mL45,,306.0,UNKNOWN,EXACT,,[]
+Mrpl49,Q9CQ40,Chain,Large ribosomal subunit protein mL49,1.0,166.0,EXACT,EXACT,,[]
+Mrpl50,Q8VDT9,Chain,Large ribosomal subunit protein mL50,1.0,159.0,EXACT,EXACT,,[]
+Mrpl52,Q9D0Y8,Chain,Large ribosomal subunit protein mL52,23.0,121.0,EXACT,EXACT,,[]
+Mrpl54,Q9CPW3,Chain,Large ribosomal subunit protein mL54,15.0,135.0,EXACT,EXACT,,[]
+Mrpl58,Q8R035,Chain,Large ribosomal subunit protein mL62,30.0,206.0,EXACT,EXACT,,[]
+Mrps14,Q9CR88,Chain,Small ribosomal subunit protein uS14m,1.0,128.0,EXACT,EXACT,,[]
+Mrps15,Q9DC71,Chain,Small ribosomal subunit protein uS15m,58.0,258.0,EXACT,EXACT,,[]
+Mrps16,Q9CPX7,Chain,Small ribosomal subunit protein bS16m,35.0,135.0,EXACT,EXACT,,[]
+Mrps18a,Q99N85,Chain,Large ribosomal subunit protein mL66,35.0,196.0,EXACT,EXACT,,[]
+Mrps28,Q9CY16,Chain,Small ribosomal subunit protein bS1m,71.0,186.0,EXACT,EXACT,,[]
+Mrps34,Q9JIK9,Chain,Small ribosomal subunit protein mS34,1.0,218.0,EXACT,EXACT,,[]
+Mrto4,Q9D0I8,Chain,mRNA turnover protein 4 homolog,1.0,239.0,EXACT,EXACT,,[]
+Msn,P26041,Chain,Moesin,1.0,577.0,EXACT,EXACT,,[]
+Mtch2,Q791V5,Chain,Mitochondrial carrier homolog 2,2.0,303.0,EXACT,EXACT,,[]
+Mtch2,Q791V5,Topological domain,Mitochondrial intermembrane,2.0,15.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Mtch2,Q791V5,Transmembrane,Helical; Name=1,16.0,36.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mtch2,Q791V5,Topological domain,Cytoplasmic,37.0,77.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Mtch2,Q791V5,Transmembrane,Helical; Name=2,78.0,92.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mtch2,Q791V5,Topological domain,Mitochondrial intermembrane,93.0,135.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Mtch2,Q791V5,Transmembrane,Helical; Name=3,136.0,156.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mtch2,Q791V5,Topological domain,Cytoplasmic,157.0,180.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Mtch2,Q791V5,Transmembrane,Helical; Name=4,181.0,199.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mtch2,Q791V5,Topological domain,Mitochondrial intermembrane,200.0,231.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Mtch2,Q791V5,Transmembrane,Helical; Name=5,232.0,252.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mtch2,Q791V5,Topological domain,Cytoplasmic,253.0,280.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Mtch2,Q791V5,Transmembrane,Helical; Name=6,281.0,303.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mtln,Q8BT35,Chain,Mitoregulin,2.0,56.0,EXACT,EXACT,,[]
+Mtln,Q8BT35,Topological domain,Mitochondrial matrix,2.0,9.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""29949756""}]"
+Mtln,Q8BT35,Transmembrane,Helical,10.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Mtln,Q8BT35,Topological domain,Mitochondrial intermembrane,28.0,56.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""29949756""}]"
+Mydgf,Q9CPT4,Signal,,1.0,24.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q969H8""}]"
+Mydgf,Q9CPT4,Chain,Myeloid-derived growth factor,25.0,166.0,EXACT,EXACT,,[]
+Naa10,Q9QY36,Chain,N-alpha-acetyltransferase 10,1.0,235.0,EXACT,EXACT,,[]
+Ndufa11,Q9D8B4,Chain,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11,1.0,141.0,EXACT,EXACT,,[]
+Ndufa11,Q9D8B4,Transmembrane,Helical,21.0,43.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ndufa11,Q9D8B4,Transmembrane,Helical,58.0,80.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ndufa12,Q7TMF3,Chain,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12,1.0,145.0,EXACT,EXACT,,[]
+Ndufa8,Q9DCJ5,Chain,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8,2.0,172.0,EXACT,EXACT,,[]
+Ndufab1,Q9CR21,Chain,"Acyl carrier protein, mitochondrial",69.0,156.0,EXACT,EXACT,,[]
+Ndufb2,Q9CPU2,Chain,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial",34.0,105.0,EXACT,EXACT,,[]
+Ndufb3,Q9CQZ6,Chain,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3,2.0,104.0,EXACT,EXACT,,[]
+Ndufb3,Q9CQZ6,Transmembrane,Helical,72.0,90.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ndufb5,Q9CQH3,Chain,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial",47.0,189.0,EXACT,EXACT,,[]
+Ndufb5,Q9CQH3,Transmembrane,Helical,73.0,93.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ndufb6,Q3UIU2,Chain,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6,2.0,128.0,EXACT,EXACT,,[]
+Ndufb6,Q3UIU2,Transmembrane,Helical,64.0,86.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ndufb7,Q9CR61,Chain,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7,2.0,137.0,EXACT,EXACT,,[]
+Ndufb7,Q9CR61,Lipidation,N-myristoyl glycine,2.0,2.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Ndufb8,Q9D6J5,Chain,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial",29.0,186.0,EXACT,EXACT,,[]
+Ndufb8,Q9D6J5,Transmembrane,Helical,133.0,153.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ndufc1,Q9CQY9,Chain,"NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial",28.0,76.0,EXACT,EXACT,,[]
+Ndufc1,Q9CQY9,Transmembrane,Helical,40.0,59.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ndufs2,Q91WD5,Chain,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",34.0,463.0,EXACT,EXACT,,[]
+Ndufs8,Q8K3J1,Chain,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial",35.0,212.0,EXACT,EXACT,,[]
+Ndufv2,Q9D6J6,Chain,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial",32.0,248.0,EXACT,EXACT,,[]
+Nek6,Q9ES70,Chain,Serine/threonine-protein kinase Nek6,1.0,313.0,EXACT,EXACT,,[]
+Nhp2,Q9CRB2,Chain,H/ACA ribonucleoprotein complex subunit 2,1.0,153.0,EXACT,EXACT,,[]
+Nid1,P10493,Signal,,1.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""3264556""}]"
+Nid1,P10493,Chain,Nidogen-1,29.0,1245.0,EXACT,EXACT,,[]
+Nip7,Q9CXK8,Chain,60S ribosome subunit biogenesis protein NIP7 homolog,1.0,180.0,EXACT,EXACT,,[]
+Nme1,P15532,Chain,Nucleoside diphosphate kinase A,2.0,152.0,EXACT,EXACT,,[]
+Nop10,Q9CQS2,Chain,H/ACA ribonucleoprotein complex subunit 3,1.0,64.0,EXACT,EXACT,,[]
+Nop16,Q9CPT5,Chain,Nucleolar protein 16,1.0,178.0,EXACT,EXACT,,[]
+Nop58,Q6DFW4,Chain,Nucleolar protein 58,1.0,536.0,EXACT,EXACT,,[]
+Npdc1,Q64322,Signal,,1.0,34.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Npdc1,Q64322,Chain,Neural proliferation differentiation and control protein 1,35.0,332.0,EXACT,EXACT,,[]
+Npdc1,Q64322,Transmembrane,Helical,191.0,211.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Npm1,Q61937,Chain,Nucleophosmin,1.0,292.0,EXACT,EXACT,,[]
+Nr2f2,P43135,Chain,COUP transcription factor 2,1.0,414.0,EXACT,EXACT,,[]
+Nsmce1,Q9D720,Chain,Non-structural maintenance of chromosomes element 1 homolog,1.0,266.0,EXACT,EXACT,,[]
+Oaz1,P54369,Chain,Ornithine decarboxylase antizyme 1,1.0,227.0,EXACT,EXACT,,[]
+Orai1,Q8BWG9,Chain,Calcium release-activated calcium channel protein 1,1.0,304.0,EXACT,EXACT,,[]
+Orai1,Q8BWG9,Topological domain,Cytoplasmic,1.0,89.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Orai1,Q8BWG9,Transmembrane,Helical,90.0,107.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Orai1,Q8BWG9,Topological domain,Extracellular,108.0,121.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Orai1,Q8BWG9,Transmembrane,Helical,122.0,142.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Orai1,Q8BWG9,Topological domain,Cytoplasmic,143.0,175.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Orai1,Q8BWG9,Transmembrane,Helical,176.0,196.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Orai1,Q8BWG9,Topological domain,Extracellular,197.0,237.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Orai1,Q8BWG9,Transmembrane,Helical,238.0,258.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Orai1,Q8BWG9,Topological domain,Cytoplasmic,259.0,304.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Ormdl2,Q9CQZ0,Chain,ORM1-like protein 2,1.0,153.0,EXACT,EXACT,,[]
+Ormdl2,Q9CQZ0,Topological domain,Cytoplasmic,1.0,21.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ormdl2,Q9CQZ0,Transmembrane,Helical,22.0,42.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ormdl2,Q9CQZ0,Transmembrane,Helical,43.0,63.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ormdl2,Q9CQZ0,Topological domain,Cytoplasmic,64.0,105.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ormdl2,Q9CQZ0,Transmembrane,Helical,106.0,126.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ormdl2,Q9CQZ0,Topological domain,Extracellular,127.0,153.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ost4,Q99LX8,Chain,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 4,1.0,37.0,EXACT,EXACT,,[]
+Ost4,Q99LX8,Topological domain,Lumenal,1.0,4.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ost4,Q99LX8,Transmembrane,Helical,5.0,25.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ost4,Q99LX8,Topological domain,Cytoplasmic,26.0,37.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ostc,Q78XF5,Chain,Oligosaccharyltransferase complex subunit OSTC,1.0,149.0,EXACT,EXACT,,[]
+Ostc,Q78XF5,Topological domain,Cytoplasmic,1.0,32.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ostc,Q78XF5,Transmembrane,Helical,33.0,53.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ostc,Q78XF5,Topological domain,Extracellular,54.0,83.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ostc,Q78XF5,Transmembrane,Helical,84.0,104.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ostc,Q78XF5,Topological domain,Cytoplasmic,105.0,117.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ostc,Q78XF5,Transmembrane,Helical,118.0,138.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ostc,Q78XF5,Topological domain,Extracellular,139.0,149.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+P4hb,P09103,Signal,,1.0,19.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+P4hb,P09103,Chain,Protein disulfide-isomerase,20.0,509.0,EXACT,EXACT,,[]
+Pa2g4,P50580,Chain,Proliferation-associated protein 2G4,2.0,394.0,EXACT,EXACT,,[]
+Park7,Q99LX0,Chain,Parkinson disease protein 7 homolog,2.0,,EXACT,UNKNOWN,,[]
+Park7,Q99LX0,Propeptide,Removed in mature form,,189.0,UNKNOWN,EXACT,,[]
+Park7,Q99LX0,Lipidation,S-palmitoyl cysteine,46.0,46.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99497""}]"
+Park7,Q99LX0,Lipidation,S-palmitoyl cysteine,53.0,53.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99497""}]"
+Park7,Q99LX0,Lipidation,S-palmitoyl cysteine; alternate,106.0,106.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99497""}]"
+Parl,Q5XJY4,Chain,"Presenilin-associated rhomboid-like protein, mitochondrial",51.0,377.0,EXACT,EXACT,,[]
+Parl,Q5XJY4,Peptide,P-beta,51.0,75.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Parl,Q5XJY4,Topological domain,Mitochondrial matrix,51.0,99.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Transmembrane,Helical,100.0,119.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Topological domain,Mitochondrial intermembrane,120.0,165.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Transmembrane,Helical,166.0,185.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Topological domain,Mitochondrial matrix,186.0,205.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Transmembrane,Helical,206.0,228.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Topological domain,Mitochondrial intermembrane,229.0,242.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Transmembrane,Helical,243.0,260.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Topological domain,Mitochondrial matrix,261.0,270.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Transmembrane,Helical,271.0,287.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Topological domain,Mitochondrial intermembrane,288.0,293.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Transmembrane,Helical,294.0,316.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Topological domain,Mitochondrial matrix,317.0,330.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Transmembrane,Helical,331.0,352.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Parl,Q5XJY4,Topological domain,Mitochondrial intermembrane,353.0,377.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Pbdc1,Q9D0B6,Chain,Protein PBDC1,1.0,198.0,EXACT,EXACT,,[]
+Pcbp1,P60335,Chain,Poly(rC)-binding protein 1,1.0,356.0,EXACT,EXACT,,[]
+Pdia3,P27773,Signal,,1.0,24.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""7523108""}, {""evidenceCode"": ""ECO:0000269"", ""source"": ""Reference"", ""id"": ""Ref.7""}]"
+Pdia3,P27773,Chain,Protein disulfide-isomerase A3,25.0,505.0,EXACT,EXACT,,[]
+Pdia4,P08003,Signal,,1.0,20.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Pdia4,P08003,Chain,Protein disulfide-isomerase A4,21.0,638.0,EXACT,EXACT,,[]
+Pdia6,Q922R8,Signal,,1.0,19.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Pdia6,Q922R8,Chain,Protein disulfide-isomerase A6,20.0,440.0,EXACT,EXACT,,[]
+Pdlim1,O70400,Chain,PDZ and LIM domain protein 1,2.0,327.0,EXACT,EXACT,,[]
+Pebp1,P70296,Chain,Phosphatidylethanolamine-binding protein 1,2.0,187.0,EXACT,EXACT,,[]
+Pebp1,P70296,Peptide,Hippocampal cholinergic neurostimulating peptide,2.0,12.0,EXACT,EXACT,,[]
+Pfn1,P62962,Chain,Profilin-1,2.0,140.0,EXACT,EXACT,,[]
+Pgls,Q9CQ60,Chain,6-phosphogluconolactonase,2.0,257.0,EXACT,EXACT,,[]
+Phb1,P67778,Chain,Prohibitin 1,2.0,272.0,EXACT,EXACT,,[]
+Phpt1,Q9DAK9,Chain,14 kDa phosphohistidine phosphatase,1.0,124.0,EXACT,EXACT,,[]
+Pim3,P58750,Chain,Serine/threonine-protein kinase pim-3,1.0,326.0,EXACT,EXACT,,[]
+Pkig,O70139,Chain,cAMP-dependent protein kinase inhibitor gamma,1.0,76.0,EXACT,EXACT,,[]
+Pkm,P52480,Chain,Pyruvate kinase PKM,1.0,531.0,EXACT,EXACT,,[]
+Plin2,P43883,Chain,Perilipin-2,2.0,425.0,EXACT,EXACT,,[]
+Plod3,Q9R0E1,Signal,,1.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Plod3,Q9R0E1,Chain,Multifunctional procollagen lysine hydroxylase and glycosyltransferase LH3,28.0,741.0,EXACT,EXACT,,[]
+Pno1,Q9CPS7,Chain,RNA-binding protein PNO1,1.0,248.0,EXACT,EXACT,,[]
+Pnp,P23492,Chain,Purine nucleoside phosphorylase,1.0,289.0,EXACT,EXACT,,[]
+Polr2d,Q9D7M8,Chain,DNA-directed RNA polymerase II subunit RPB4,1.0,142.0,EXACT,EXACT,,[]
+Polr2h,Q923G2,Chain,"DNA-directed RNA polymerases I, II, and III subunit RPABC3",2.0,150.0,EXACT,EXACT,,[]
+Polr2l,P62876,Chain,"DNA-directed RNA polymerases I, II, and III subunit RPABC5",1.0,67.0,EXACT,EXACT,,[]
+Pomp,Q9CQT5,Chain,Proteasome maturation protein,1.0,141.0,EXACT,EXACT,,[]
+Ppa1,Q9D819,Chain,Inorganic pyrophosphatase,2.0,289.0,EXACT,EXACT,,[]
+Ppib,P24369,Signal,,1.0,33.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Ppib,P24369,Chain,Peptidyl-prolyl cis-trans isomerase B,34.0,216.0,EXACT,EXACT,,[]
+Ppic,P30412,Chain,Peptidyl-prolyl cis-trans isomerase C,1.0,212.0,EXACT,EXACT,,[]
+Ppil3,Q9D6L8,Chain,Peptidyl-prolyl cis-trans isomerase-like 3,2.0,161.0,EXACT,EXACT,,[]
+Praf2,Q9JIG8,Chain,PRA1 family protein 2,1.0,178.0,EXACT,EXACT,,[]
+Praf2,Q9JIG8,Topological domain,Cytoplasmic,1.0,41.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Praf2,Q9JIG8,Transmembrane,Helical,42.0,62.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Praf2,Q9JIG8,Topological domain,Extracellular,63.0,64.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Praf2,Q9JIG8,Transmembrane,Helical,65.0,85.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Praf2,Q9JIG8,Topological domain,Cytoplasmic,86.0,96.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Praf2,Q9JIG8,Transmembrane,Helical,97.0,119.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Praf2,Q9JIG8,Topological domain,Extracellular,120.0,122.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Praf2,Q9JIG8,Transmembrane,Helical,123.0,140.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Praf2,Q9JIG8,Topological domain,Cytoplasmic,141.0,178.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Prcp,Q7TMR0,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Prcp,Q7TMR0,Propeptide,,18.0,43.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Prcp,Q7TMR0,Chain,Lysosomal Pro-X carboxypeptidase,44.0,491.0,EXACT,EXACT,,[]
+Prdx1,P35700,Chain,Peroxiredoxin-1,2.0,199.0,EXACT,EXACT,,[]
+Prdx2,Q61171,Chain,Peroxiredoxin-2,2.0,198.0,EXACT,EXACT,,[]
+Prdx4,O08807,Signal,,1.0,40.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Prdx4,O08807,Chain,Peroxiredoxin-4,41.0,274.0,EXACT,EXACT,,[]
+Prdx6,O08709,Chain,Peroxiredoxin-6,2.0,224.0,EXACT,EXACT,,[]
+Prmt5,Q8CIG8,Chain,Protein arginine N-methyltransferase 5,2.0,637.0,EXACT,EXACT,,[]
+Procr,Q64695,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Procr,Q64695,Chain,Endothelial protein C receptor,18.0,242.0,EXACT,EXACT,,[]
+Procr,Q64695,Topological domain,Extracellular,18.0,214.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Procr,Q64695,Transmembrane,Helical,215.0,235.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Procr,Q64695,Topological domain,Cytoplasmic,236.0,242.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Psma1,Q9R1P4,Chain,Proteasome subunit alpha type-1,1.0,263.0,EXACT,EXACT,,[]
+Psma2,P49722,Chain,Proteasome subunit alpha type-2,2.0,234.0,EXACT,EXACT,,[]
+Psma3,O70435,Chain,Proteasome subunit alpha type-3,2.0,255.0,EXACT,EXACT,,[]
+Psma4,Q9R1P0,Chain,Proteasome subunit alpha type-4,1.0,261.0,EXACT,EXACT,,[]
+Psma5,Q9Z2U1,Chain,Proteasome subunit alpha type-5,1.0,241.0,EXACT,EXACT,,[]
+Psma6,Q9QUM9,Chain,Proteasome subunit alpha type-6,1.0,246.0,EXACT,EXACT,,[]
+Psmb1,O09061,Propeptide,,1.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Psmb1,O09061,Chain,Proteasome subunit beta type-1,28.0,240.0,EXACT,EXACT,,[]
+Psmb2,Q9R1P3,Chain,Proteasome subunit beta type-2,1.0,201.0,EXACT,EXACT,,[]
+Psmb3,Q9R1P1,Chain,Proteasome subunit beta type-3,2.0,205.0,EXACT,EXACT,,[]
+Psmb4,P99026,Propeptide,,1.0,45.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""Reference"", ""id"": ""Ref.4""}, {""evidenceCode"": ""ECO:0000269"", ""source"": ""Reference"", ""id"": ""Ref.5""}]"
+Psmb4,P99026,Chain,Proteasome subunit beta type-4,46.0,264.0,EXACT,EXACT,,[]
+Psmb6,Q60692,Propeptide,Removed in mature form,2.0,33.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Psmb6,Q60692,Chain,Proteasome subunit beta type-6,34.0,238.0,EXACT,EXACT,,[]
+Psmc4,P54775,Chain,26S proteasome regulatory subunit 6B,1.0,418.0,EXACT,EXACT,,[]
+Psmc6,P62334,Chain,26S proteasome regulatory subunit 10B,1.0,389.0,EXACT,EXACT,,[]
+Psmd11,Q8BG32,Chain,26S proteasome non-ATPase regulatory subunit 11,2.0,422.0,EXACT,EXACT,,[]
+Psmd14,O35593,Chain,Ubiquitin C-terminal hydrolase PSMD14,1.0,310.0,EXACT,EXACT,,[]
+Psmd6,Q99JI4,Chain,26S proteasome non-ATPase regulatory subunit 6,1.0,389.0,EXACT,EXACT,,[]
+Psmd8,Q9CX56,Chain,26S proteasome non-ATPase regulatory subunit 8,1.0,353.0,EXACT,EXACT,,[]
+Psme2,P97372,Chain,Proteasome activator complex subunit 2,2.0,239.0,EXACT,EXACT,,[]
+Ptgs2,Q05769,Signal,,1.0,17.0,EXACT,EXACT,,[]
+Ptgs2,Q05769,Chain,Prostaglandin G/H synthase 2,18.0,604.0,EXACT,EXACT,,[]
+Rab11a,P62492,Chain,Ras-related protein Rab-11A,2.0,213.0,EXACT,EXACT,,[]
+Rab11a,P62492,Propeptide,Removed in mature form,214.0,216.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rab11a,P62492,Lipidation,S-geranylgeranyl cysteine,212.0,212.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P62491""}]"
+Rab11a,P62492,Lipidation,S-geranylgeranyl cysteine,213.0,213.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P62491""}]"
+Rack1,P68040,Chain,Small ribosomal subunit protein RACK1,1.0,317.0,EXACT,EXACT,,[]
+Rack1,P68040,Chain,"Small ribosomal subunit protein RACK1, N-terminally processed",2.0,317.0,EXACT,EXACT,,[]
+Ralb,Q9JIW9,Chain,Ras-related protein Ral-B,1.0,203.0,EXACT,EXACT,,[]
+Ralb,Q9JIW9,Propeptide,Removed in mature form,204.0,206.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Ralb,Q9JIW9,Lipidation,S-geranylgeranyl cysteine,203.0,203.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Ran,P62827,Chain,GTP-binding nuclear protein Ran,2.0,216.0,EXACT,EXACT,,[]
+Ranbp1,P34022,Chain,Ran-specific GTPase-activating protein,2.0,203.0,EXACT,EXACT,,[]
+Rbis,Q0VG62,Chain,Ribosomal biogenesis factor,1.0,97.0,EXACT,EXACT,,[]
+Rex1bd,Q9CYZ6,Chain,Required for excision 1-B domain-containing protein,1.0,169.0,EXACT,EXACT,,[]
+Rexo2,Q9D8S4,Chain,"Oligoribonuclease, mitochondrial",26.0,237.0,EXACT,EXACT,,[]
+Rhoc,Q62159,Chain,Rho-related GTP-binding protein RhoC,1.0,190.0,EXACT,EXACT,,[]
+Rhoc,Q62159,Propeptide,Removed in mature form,191.0,193.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P62745""}]"
+Rhoc,Q62159,Lipidation,S-geranylgeranyl cysteine,190.0,190.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P61585""}]"
+Rnd1,Q8BLR7,Chain,Rho-related GTP-binding protein Rho6,1.0,229.0,EXACT,EXACT,,[]
+Rnd1,Q8BLR7,Propeptide,Removed in mature form,230.0,232.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P61585""}]"
+Rnd1,Q8BLR7,Lipidation,S-geranylgeranyl cysteine,229.0,229.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P61585""}]"
+Rnh1,Q91VI7,Chain,Ribonuclease inhibitor,1.0,456.0,EXACT,EXACT,,[]
+Romo1,P60603,Chain,Reactive oxygen species modulator 1,1.0,79.0,EXACT,EXACT,,[]
+Romo1,P60603,Transmembrane,Helical,22.0,44.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpl13,P47963,Chain,Large ribosomal subunit protein eL13,1.0,211.0,EXACT,EXACT,,[]
+Rpl13a,P19253,Chain,Large ribosomal subunit protein uL13,2.0,203.0,EXACT,EXACT,,[]
+Rpl14,Q9CR57,Chain,Large ribosomal subunit protein eL14,1.0,217.0,EXACT,EXACT,,[]
+Rpl18,P35980,Chain,Large ribosomal subunit protein eL18,1.0,188.0,EXACT,EXACT,,[]
+Rpl22l1,Q9D7S7,Chain,Ribosomal protein eL22-like 1,1.0,122.0,EXACT,EXACT,,[]
+Rpl26,P61255,Chain,Large ribosomal subunit protein uL24,1.0,145.0,EXACT,EXACT,,[]
+Rpl29,P47915,Chain,Large ribosomal subunit protein eL29,1.0,160.0,EXACT,EXACT,,[]
+Rpl32,P62911,Chain,Large ribosomal subunit protein eL32,1.0,135.0,EXACT,EXACT,,[]
+Rpl34,Q9D1R9,Chain,Large ribosomal subunit protein eL34,1.0,117.0,EXACT,EXACT,,[]
+Rpl39,P62892,Chain,Large ribosomal subunit protein eL39,1.0,51.0,EXACT,EXACT,,[]
+Rpl4,Q9D8E6,Chain,Large ribosomal subunit protein uL4,2.0,419.0,EXACT,EXACT,,[]
+Rpl41,P62947,Chain,Small ribosomal subunit protein eS32,1.0,25.0,EXACT,EXACT,,[]
+Rpl6,P47911,Chain,Large ribosomal subunit protein eL6,1.0,296.0,EXACT,EXACT,,[]
+Rpl7,P14148,Chain,Large ribosomal subunit protein uL30,1.0,270.0,EXACT,EXACT,,[]
+Rpl7l1,Q9D8M4,Chain,Large ribosomal subunit protein uL30-like 1,1.0,246.0,EXACT,EXACT,,[]
+Rpl8,P62918,Chain,Large ribosomal subunit protein uL2,1.0,257.0,EXACT,EXACT,,[]
+Rplp0,P14869,Chain,Large ribosomal subunit protein uL10,1.0,317.0,EXACT,EXACT,,[]
+Rplp1,P47955,Chain,Large ribosomal subunit protein P1,2.0,114.0,EXACT,EXACT,,[]
+Rplp2,P99027,Chain,Large ribosomal subunit protein P2,1.0,115.0,EXACT,EXACT,,[]
+Rpn1,Q91YQ5,Signal,,1.0,25.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Rpn1,Q91YQ5,Chain,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,26.0,608.0,EXACT,EXACT,,[]
+Rpn1,Q91YQ5,Topological domain,Lumenal,26.0,440.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn1,Q91YQ5,Transmembrane,Helical,441.0,458.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn1,Q91YQ5,Topological domain,Cytoplasmic,459.0,608.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn2,Q9DBG6,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Rpn2,Q9DBG6,Chain,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2,23.0,631.0,EXACT,EXACT,,[]
+Rpn2,Q9DBG6,Topological domain,Lumenal,23.0,540.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn2,Q9DBG6,Transmembrane,Helical,541.0,561.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn2,Q9DBG6,Topological domain,Cytoplasmic,562.0,571.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn2,Q9DBG6,Transmembrane,Helical,572.0,592.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn2,Q9DBG6,Topological domain,Lumenal,593.0,596.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn2,Q9DBG6,Transmembrane,Helical,597.0,617.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rpn2,Q9DBG6,Topological domain,Cytoplasmic,618.0,631.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Rps11,P62281,Chain,Small ribosomal subunit protein uS17,2.0,158.0,EXACT,EXACT,,[]
+Rps11,P62281,Lipidation,S-palmitoyl cysteine,60.0,60.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P62280""}]"
+Rps15,P62843,Chain,Small ribosomal subunit protein uS19,2.0,145.0,EXACT,EXACT,,[]
+Rps15a,P62245,Chain,Small ribosomal subunit protein uS8,1.0,130.0,EXACT,EXACT,,[]
+Rps18,P62270,Chain,Small ribosomal subunit protein uS13,2.0,152.0,EXACT,EXACT,,[]
+Rps19,Q9CZX8,Chain,Small ribosomal subunit protein eS19,1.0,145.0,EXACT,EXACT,,[]
+Rps2,P25444,Chain,Small ribosomal subunit protein uS5,2.0,293.0,EXACT,EXACT,,[]
+Rps20,P60867,Chain,Small ribosomal subunit protein uS10,2.0,119.0,EXACT,EXACT,,[]
+Rps24,P62849,Chain,Small ribosomal subunit protein eS24,1.0,133.0,EXACT,EXACT,,[]
+Rps25,P62852,Chain,Small ribosomal subunit protein eS25,1.0,125.0,EXACT,EXACT,,[]
+Rps26,P62855,Chain,Small ribosomal subunit protein eS26,1.0,115.0,EXACT,EXACT,,[]
+Rps27l,Q6ZWY3,Chain,Small ribosomal subunit protein eS27-like,1.0,84.0,EXACT,EXACT,,[]
+Rps3,P62908,Chain,Small ribosomal subunit protein uS3,2.0,243.0,EXACT,EXACT,,[]
+Rps5,P97461,Chain,Small ribosomal subunit protein uS7,1.0,204.0,EXACT,EXACT,,[]
+Rps5,P97461,Chain,"Small ribosomal subunit protein uS7, N-terminally processed",2.0,204.0,EXACT,EXACT,,[]
+Rps7,P62082,Chain,Small ribosomal subunit protein eS7,1.0,194.0,EXACT,EXACT,,[]
+Rps8,P62242,Chain,Small ribosomal subunit protein eS8,2.0,208.0,EXACT,EXACT,,[]
+Rps8,P62242,Lipidation,N-myristoyl glycine,2.0,2.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P62241""}]"
+Rps9,Q6ZWN5,Chain,Small ribosomal subunit protein uS4,1.0,194.0,EXACT,EXACT,,[]
+Rpsa,P14206,Chain,Small ribosomal subunit protein uS2,2.0,295.0,EXACT,EXACT,,[]
+Ruvbl2,Q9WTM5,Chain,RuvB-like 2,2.0,463.0,EXACT,EXACT,,[]
+S100a10,P08207,Chain,Protein S100-A10,1.0,97.0,EXACT,EXACT,,[]
+S100a11,P50543,Chain,Protein S100-A11,1.0,98.0,EXACT,EXACT,,[]
+S100a16,Q9D708,Chain,Protein S100-A16,1.0,124.0,EXACT,EXACT,,[]
+S100a6,P14069,Chain,Protein S100-A6,1.0,89.0,EXACT,EXACT,,[]
+Sar1b,Q9CQC9,Chain,Small COPII coat GTPase SAR1B,1.0,198.0,EXACT,EXACT,,[]
+Sat1,P48026,Chain,Diamine acetyltransferase 1,1.0,171.0,EXACT,EXACT,,[]
+Scgb3a1,Q920D7,Signal,,1.0,21.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q96QR1""}]"
+Scgb3a1,Q920D7,Chain,Secretoglobin family 3A member 1,22.0,104.0,EXACT,EXACT,,[]
+Sdcbp,O08992,Chain,Syntenin-1,2.0,299.0,EXACT,EXACT,,[]
+Sdhaf1,Q3U276,Chain,"Succinate dehydrogenase assembly factor 1, mitochondrial",1.0,118.0,EXACT,EXACT,,[]
+Sdhc,Q9CZB0,Chain,"Succinate dehydrogenase cytochrome b560 subunit, mitochondrial",30.0,169.0,EXACT,EXACT,,[]
+Sdhc,Q9CZB0,Topological domain,Mitochondrial matrix,30.0,62.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""D0VWV4""}]"
+Sdhc,Q9CZB0,Transmembrane,Helical,63.0,92.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""D0VWV4""}]"
+Sdhc,Q9CZB0,Topological domain,Mitochondrial intermembrane,93.0,112.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""D0VWV4""}]"
+Sdhc,Q9CZB0,Transmembrane,Helical,113.0,137.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""D0VWV4""}]"
+Sdhc,Q9CZB0,Topological domain,Mitochondrial matrix,138.0,144.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""D0VWV4""}]"
+Sdhc,Q9CZB0,Transmembrane,Helical,145.0,166.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""D0VWV4""}]"
+Sdhc,Q9CZB0,Topological domain,Mitochondrial intermembrane,167.0,169.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""D0VWV4""}]"
+Sec11a,Q9R0P6,Chain,Signal peptidase complex catalytic subunit SEC11A,1.0,179.0,EXACT,EXACT,,[]
+Sec11a,Q9R0P6,Topological domain,Cytoplasmic,1.0,16.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P67811""}]"
+Sec11a,Q9R0P6,Transmembrane,Helical; Signal-anchor for type II membrane protein,17.0,36.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Sec11a,Q9R0P6,Topological domain,Lumenal,37.0,179.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P67811""}]"
+Sec11c,Q9D8V7,Chain,Signal peptidase complex catalytic subunit SEC11C,1.0,192.0,EXACT,EXACT,,[]
+Sec11c,Q9D8V7,Topological domain,Cytoplasmic,1.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13679""}]"
+Sec11c,Q9D8V7,Transmembrane,Helical; Signal-anchor for type II membrane protein,29.0,48.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Sec11c,Q9D8V7,Topological domain,Lumenal,49.0,192.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P13679""}]"
+Sec61b,Q9CQS8,Chain,Protein transport protein Sec61 subunit beta,2.0,96.0,EXACT,EXACT,,[]
+Sec61b,Q9CQS8,Topological domain,Cytoplasmic,2.0,70.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Sec61b,Q9CQS8,Transmembrane,Helical,71.0,91.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Sec61b,Q9CQS8,Lipidation,S-palmitoyl cysteine,39.0,39.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Selenof,Q9ERR7,Signal,,1.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Selenof,Q9ERR7,Chain,Selenoprotein F,29.0,162.0,EXACT,EXACT,,[]
+Selenoh,Q3UQA7,Chain,Selenoprotein H,1.0,116.0,EXACT,EXACT,,[]
+Selenom,Q8VHC3,Signal,,1.0,23.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Selenom,Q8VHC3,Chain,Selenoprotein M,24.0,145.0,EXACT,EXACT,,[]
+Selp,Q01102,Signal,,1.0,41.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Selp,Q01102,Chain,P-selectin,42.0,768.0,EXACT,EXACT,,[]
+Selp,Q01102,Topological domain,Extracellular,42.0,709.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Selp,Q01102,Transmembrane,Helical,710.0,733.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Selp,Q01102,Topological domain,Cytoplasmic,734.0,768.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Selp,Q01102,Lipidation,S-palmitoyl cysteine; alternate,745.0,745.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P16109""}]"
+Selp,Q01102,Lipidation,S-stearoyl cysteine; alternate,745.0,745.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P16109""}]"
+Sem1,P60897,Chain,26S proteasome complex subunit SEM1,1.0,70.0,EXACT,EXACT,,[]
+Serp1,Q9Z1W5,Chain,Stress-associated endoplasmic reticulum protein 1,1.0,66.0,EXACT,EXACT,,[]
+Serp1,Q9Z1W5,Transmembrane,Helical,39.0,59.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Serpinh1,P19324,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""1317794""}]"
+Serpinh1,P19324,Chain,Serpin H1,18.0,417.0,EXACT,EXACT,,[]
+Sf3b5,Q923D4,Chain,Splicing factor 3B subunit 5,2.0,86.0,EXACT,EXACT,,[]
+Sf3b6,P59708,Chain,Splicing factor 3B subunit 6,1.0,125.0,EXACT,EXACT,,[]
+Sh3bgrl3,Q91VW3,Chain,SH3 domain-binding glutamic acid-rich-like protein 3,2.0,93.0,EXACT,EXACT,,[]
+Slc25a3,Q8VEM8,Chain,Solute carrier family 25 member 3,46.0,357.0,EXACT,EXACT,,[]
+Slc25a3,Q8VEM8,Topological domain,Mitochondrial intermembrane,46.0,58.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Transmembrane,Helical; Name=1,59.0,81.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Topological domain,Mitochondrial matrix,82.0,116.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Transmembrane,Helical; Name=2,117.0,136.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Topological domain,Mitochondrial intermembrane,137.0,156.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Transmembrane,Helical; Name=3,157.0,178.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Topological domain,Mitochondrial matrix,179.0,213.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Transmembrane,Helical; Name=4,214.0,233.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Topological domain,Mitochondrial intermembrane,234.0,256.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Transmembrane,Helical; Name=5,257.0,279.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Topological domain,Mitochondrial matrix,280.0,309.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Transmembrane,Helical; Name=6,310.0,328.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a3,Q8VEM8,Topological domain,Mitochondrial intermembrane,329.0,357.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc25a4,P48962,Chain,ADP/ATP translocase 1,2.0,298.0,EXACT,EXACT,,[]
+Slc25a4,P48962,Topological domain,Mitochondrial intermembrane,2.0,7.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a4,P48962,Transmembrane,Helical; Name=1,8.0,37.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a4,P48962,Topological domain,Mitochondrial matrix,38.0,74.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a4,P48962,Transmembrane,Helical; Name=2,75.0,99.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a4,P48962,Topological domain,Mitochondrial intermembrane,100.0,109.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a4,P48962,Transmembrane,Helical; Name=3,110.0,130.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a4,P48962,Topological domain,Mitochondrial matrix,131.0,178.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a4,P48962,Transmembrane,Helical; Name=4,179.0,199.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a4,P48962,Topological domain,Mitochondrial intermembrane,200.0,210.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a4,P48962,Transmembrane,Helical; Name=5,211.0,231.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a4,P48962,Topological domain,Mitochondrial matrix,232.0,273.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a4,P48962,Transmembrane,Helical; Name=6,274.0,291.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a4,P48962,Topological domain,Mitochondrial intermembrane,292.0,298.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a5,P51881,Chain,ADP/ATP translocase 2,1.0,298.0,EXACT,EXACT,,[]
+Slc25a5,P51881,Chain,"ADP/ATP translocase 2, N-terminally processed",2.0,298.0,EXACT,EXACT,,[]
+Slc25a5,P51881,Topological domain,Mitochondrial intermembrane,2.0,7.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a5,P51881,Transmembrane,Helical; Name=1,8.0,37.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a5,P51881,Topological domain,Mitochondrial matrix,38.0,74.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a5,P51881,Transmembrane,Helical; Name=2,75.0,99.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a5,P51881,Topological domain,Mitochondrial intermembrane,100.0,109.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a5,P51881,Transmembrane,Helical; Name=3,110.0,130.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a5,P51881,Topological domain,Mitochondrial matrix,131.0,178.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a5,P51881,Transmembrane,Helical; Name=4,179.0,199.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a5,P51881,Topological domain,Mitochondrial intermembrane,200.0,210.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a5,P51881,Transmembrane,Helical; Name=5,211.0,231.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a5,P51881,Topological domain,Mitochondrial matrix,232.0,273.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc25a5,P51881,Transmembrane,Helical; Name=6,274.0,291.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P02722""}]"
+Slc25a5,P51881,Topological domain,Mitochondrial intermembrane,292.0,298.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc29a1,Q9JIM1,Chain,Equilibrative nucleoside transporter 1,1.0,460.0,EXACT,EXACT,,[]
+Slc29a1,Q9JIM1,Topological domain,Cytoplasmic,1.0,14.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=1,15.0,36.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Extracellular,37.0,79.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=2,80.0,103.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Cytoplasmic,104.0,108.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=3,109.0,131.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Extracellular,132.0,140.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=4,141.0,163.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Cytoplasmic,164.0,172.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=5,173.0,194.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Extracellular,195.0,202.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=6,203.0,224.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Cytoplasmic,225.0,288.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=7,289.0,312.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Extracellular,313.0,328.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=8,329.0,350.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Cytoplasmic,351.0,358.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=9,359.0,377.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Extracellular,378.0,397.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=10,398.0,420.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Cytoplasmic,421.0,434.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Slc29a1,Q9JIM1,Transmembrane,Helical; Name=11,435.0,454.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc29a1,Q9JIM1,Topological domain,Extracellular,455.0,460.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q99808""}]"
+Slc35b1,P97858,Chain,Solute carrier family 35 member B1,1.0,322.0,EXACT,EXACT,,[]
+Slc35b1,P97858,Topological domain,Cytoplasmic,1.0,11.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=1,12.0,32.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Lumenal,33.0,50.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=2,51.0,71.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Cytoplasmic,72.0,84.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=3,85.0,105.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Lumenal,106.0,108.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=4,109.0,131.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Cytoplasmic,132.0,137.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=5,138.0,156.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Lumenal,157.0,173.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=6,174.0,189.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Cytoplasmic,190.0,204.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=7,205.0,222.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Lumenal,223.0,238.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=8,239.0,259.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Cytoplasmic,260.0,266.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=9,267.0,287.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Lumenal,288.0,293.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Transmembrane,Helical; Name=10,294.0,313.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc35b1,P97858,Topological domain,Cytoplasmic,314.0,322.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P78383""}]"
+Slc39a1,Q9QZ03,Chain,Zinc transporter ZIP1,1.0,324.0,EXACT,EXACT,,[]
+Slc39a1,Q9QZ03,Topological domain,Extracellular,1.0,30.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Transmembrane,Helical,31.0,51.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Topological domain,Cytoplasmic,52.0,68.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Transmembrane,Helical,69.0,89.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Topological domain,Extracellular,90.0,104.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Transmembrane,Helical,105.0,125.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Topological domain,Cytoplasmic,126.0,179.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Transmembrane,Helical,180.0,200.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Topological domain,Extracellular,201.0,206.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Transmembrane,Helical,207.0,227.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Topological domain,Cytoplasmic,228.0,237.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Transmembrane,Helical,238.0,258.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Topological domain,Extracellular,259.0,272.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Transmembrane,Helical,273.0,293.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Topological domain,Cytoplasmic,294.0,303.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc39a1,Q9QZ03,Transmembrane,Helical,304.0,324.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc48a1,Q9D8M3,Chain,Heme transporter HRG1,1.0,146.0,EXACT,EXACT,,[]
+Slc48a1,Q9D8M3,Transmembrane,Helical,12.0,32.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc48a1,Q9D8M3,Transmembrane,Helical,40.0,60.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc48a1,Q9D8M3,Transmembrane,Helical,74.0,94.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Slc48a1,Q9D8M3,Transmembrane,Helical,110.0,130.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Smim7,Q5RKS2,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Smim7,Q5RKS2,Chain,Small integral membrane protein 7,18.0,75.0,EXACT,EXACT,,[]
+Smim7,Q5RKS2,Topological domain,Extracellular,18.0,53.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Smim7,Q5RKS2,Transmembrane,Helical,54.0,74.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Smim7,Q5RKS2,Topological domain,Cytoplasmic,75.0,75.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Smu1,Q3UKJ7,Chain,WD40 repeat-containing protein SMU1,1.0,513.0,EXACT,EXACT,,[]
+Smu1,Q3UKJ7,Chain,"WD40 repeat-containing protein SMU1, N-terminally processed",2.0,513.0,EXACT,EXACT,,[]
+Snrpa1,P57784,Chain,U2 small nuclear ribonucleoprotein A',1.0,255.0,EXACT,EXACT,,[]
+Snrpb,P27048,Chain,Small nuclear ribonucleoprotein-associated protein B,1.0,231.0,EXACT,EXACT,,[]
+Snrpd1,P62315,Chain,Small nuclear ribonucleoprotein Sm D1,1.0,119.0,EXACT,EXACT,,[]
+Snrpd2,P62317,Chain,Small nuclear ribonucleoprotein Sm D2,2.0,118.0,EXACT,EXACT,,[]
+Snrpd3,P62320,Chain,Small nuclear ribonucleoprotein Sm D3,2.0,126.0,EXACT,EXACT,,[]
+Snrpe,P62305,Chain,Small nuclear ribonucleoprotein E,1.0,92.0,EXACT,EXACT,,[]
+Snrpf,P62307,Chain,Small nuclear ribonucleoprotein F,2.0,86.0,EXACT,EXACT,,[]
+Sparc,P07214,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""3109947""}]"
+Sparc,P07214,Chain,SPARC,18.0,302.0,EXACT,EXACT,,[]
+Spp1,P10923,Signal,,1.0,16.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Spp1,P10923,Chain,Osteopontin,17.0,294.0,EXACT,EXACT,,[]
+Sra1,Q80VJ2,Chain,Steroid receptor RNA activator 1,1.0,220.0,EXACT,EXACT,,[]
+Srm,Q64674,Chain,Spermidine synthase,1.0,302.0,EXACT,EXACT,,[]
+Srsf6,Q3TWW8,Chain,Serine/arginine-rich splicing factor 6,1.0,339.0,EXACT,EXACT,,[]
+Srsf7,Q8BL97,Chain,Serine/arginine-rich splicing factor 7,1.0,267.0,EXACT,EXACT,,[]
+Ssr2,Q9CPW5,Signal,,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Ssr2,Q9CPW5,Chain,Translocon-associated protein subunit beta,18.0,183.0,EXACT,EXACT,,[]
+Ssr2,Q9CPW5,Topological domain,Lumenal,18.0,146.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ssr2,Q9CPW5,Transmembrane,Helical,147.0,167.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ssr2,Q9CPW5,Topological domain,Cytoplasmic,168.0,183.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ssr4,Q62186,Signal,,1.0,23.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ssr4,Q62186,Chain,Translocon-associated protein subunit delta,24.0,172.0,EXACT,EXACT,,[]
+Ssr4,Q62186,Topological domain,Lumenal,24.0,143.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ssr4,Q62186,Transmembrane,Helical,144.0,164.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Ssr4,Q62186,Topological domain,Cytoplasmic,165.0,172.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Sting1,Q3TBT3,Chain,Stimulator of interferon genes protein,1.0,378.0,EXACT,EXACT,,[]
+Sting1,Q3TBT3,Topological domain,Cytoplasmic,1.0,17.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Transmembrane,Helical; Name=1,18.0,34.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Topological domain,Lumenal,35.0,44.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Transmembrane,Helical; Name=2,45.0,69.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Topological domain,Cytoplasmic,70.0,91.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Transmembrane,Helical; Name=3,92.0,106.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Topological domain,Lumenal,107.0,115.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Transmembrane,Helical; Name=4,116.0,133.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Topological domain,Cytoplasmic,134.0,378.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Lipidation,S-palmitoyl cysteine,64.0,64.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q86WV6""}]"
+Sting1,Q3TBT3,Lipidation,S-palmitoyl cysteine,88.0,88.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""27324217""}]"
+Sting1,Q3TBT3,Lipidation,S-palmitoyl cysteine,91.0,91.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""27324217""}]"
+Sub1,P11031,Chain,Activated RNA polymerase II transcriptional coactivator p15,1.0,127.0,EXACT,EXACT,,[]
+Surf4,Q64310,Chain,Surfeit locus protein 4,1.0,269.0,EXACT,EXACT,,[]
+Surf4,Q64310,Transmembrane,Helical,65.0,85.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Surf4,Q64310,Transmembrane,Helical,92.0,112.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Surf4,Q64310,Transmembrane,Helical,179.0,199.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Surf4,Q64310,Transmembrane,Helical,203.0,223.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Surf4,Q64310,Transmembrane,Helical,242.0,262.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Svbp,Q99LQ4,Chain,Small vasohibin-binding protein,1.0,66.0,EXACT,EXACT,,[]
+Swi5,Q8K3D3,Chain,DNA repair protein SWI5 homolog,1.0,89.0,EXACT,EXACT,,[]
+Synpo,Q8CC35,Chain,Synaptopodin,1.0,929.0,EXACT,EXACT,,[]
+Taldo1,Q93092,Chain,Transaldolase,1.0,337.0,EXACT,EXACT,,[]
+Tbca,P48428,Chain,Tubulin-specific chaperone A,2.0,108.0,EXACT,EXACT,,[]
+Tbrg1,Q3UB74,Chain,Transforming growth factor beta regulator 1,2.0,406.0,EXACT,EXACT,,[]
+Tcp1,P11983,Chain,T-complex protein 1 subunit alpha,1.0,556.0,EXACT,EXACT,,[]
+Tfpi,O54819,Signal,,1.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Tfpi,O54819,Chain,Tissue factor pathway inhibitor,29.0,306.0,EXACT,EXACT,,[]
+Thyn1,Q91YJ3,Chain,Thymocyte nuclear protein 1,1.0,226.0,EXACT,EXACT,,[]
+Timm10b,Q9WV96,Chain,Mitochondrial import inner membrane translocase subunit Tim10 B,1.0,100.0,EXACT,EXACT,,[]
+Timm13,P62075,Chain,Mitochondrial import inner membrane translocase subunit Tim13,1.0,95.0,EXACT,EXACT,,[]
+Timm17a,Q9Z0V8,Chain,Mitochondrial import inner membrane translocase subunit Tim17-A,1.0,171.0,EXACT,EXACT,,[]
+Timm17a,Q9Z0V8,Transmembrane,Helical,17.0,37.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Timm17a,Q9Z0V8,Transmembrane,Helical,63.0,77.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Timm17a,Q9Z0V8,Transmembrane,Helical,113.0,133.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Timm22,Q9CQ85,Chain,Mitochondrial import inner membrane translocase subunit Tim22,1.0,194.0,EXACT,EXACT,,[]
+Timm22,Q9CQ85,Transmembrane,Helical,74.0,94.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Timm22,Q9CQ85,Transmembrane,Helical,123.0,143.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Timm22,Q9CQ85,Transmembrane,Helical,170.0,190.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Timm8b,P62077,Chain,Mitochondrial import inner membrane translocase subunit Tim8 B,2.0,83.0,EXACT,EXACT,,[]
+Timp1,P12032,Signal,,1.0,24.0,EXACT,EXACT,,[]
+Timp1,P12032,Chain,Metalloproteinase inhibitor 1,25.0,205.0,EXACT,EXACT,,[]
+Tma7,Q8K003,Chain,Translation machinery-associated protein 7,1.0,64.0,EXACT,EXACT,,[]
+Tmed2,Q9R0Q3,Signal,,1.0,20.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmed2,Q9R0Q3,Chain,Transmembrane emp24 domain-containing protein 2,21.0,201.0,EXACT,EXACT,,[]
+Tmed2,Q9R0Q3,Topological domain,Lumenal,21.0,168.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmed2,Q9R0Q3,Transmembrane,Helical,169.0,189.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmed2,Q9R0Q3,Topological domain,Cytoplasmic,190.0,201.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmed9,Q99KF1,Signal,,1.0,37.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Tmed9,Q99KF1,Chain,Transmembrane emp24 domain-containing protein 9,38.0,235.0,EXACT,EXACT,,[]
+Tmed9,Q99KF1,Topological domain,Lumenal,38.0,202.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmed9,Q99KF1,Transmembrane,Helical,203.0,222.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmed9,Q99KF1,Topological domain,Cytoplasmic,223.0,235.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem147,Q9CQG6,Chain,BOS complex subunit TMEM147,1.0,224.0,EXACT,EXACT,,[]
+Tmem147,Q9CQG6,Transmembrane,Helical,1.0,21.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Topological domain,Cytoplasmic,22.0,34.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Transmembrane,Helical,35.0,58.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Topological domain,Lumenal,59.0,66.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Transmembrane,Helical,67.0,88.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Topological domain,Cytoplasmic,89.0,98.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Transmembrane,Helical,99.0,124.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Topological domain,Lumenal,125.0,129.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Transmembrane,Helical,130.0,155.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Topological domain,Cytoplasmic,156.0,164.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Transmembrane,Helical,165.0,187.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Topological domain,Lumenal,188.0,194.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Transmembrane,Helical,195.0,216.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem147,Q9CQG6,Topological domain,Cytoplasmic,217.0,224.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""A0A8I3MKU8""}]"
+Tmem14c,Q9CQN6,Chain,Transmembrane protein 14C,1.0,114.0,EXACT,EXACT,,[]
+Tmem14c,Q9CQN6,Transmembrane,Helical,8.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem14c,Q9CQN6,Transmembrane,Helical,33.0,53.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem14c,Q9CQN6,Transmembrane,Helical,63.0,83.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem14c,Q9CQN6,Transmembrane,Helical,89.0,109.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem176a,Q9DCS1,Chain,Transmembrane protein 176A,1.0,244.0,EXACT,EXACT,,[]
+Tmem176a,Q9DCS1,Transmembrane,Helical,60.0,80.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem176a,Q9DCS1,Transmembrane,Helical,92.0,112.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem176a,Q9DCS1,Transmembrane,Helical,122.0,142.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem176a,Q9DCS1,Transmembrane,Helical,204.0,224.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem205,Q91XE8,Chain,Transmembrane protein 205,1.0,189.0,EXACT,EXACT,,[]
+Tmem205,Q91XE8,Transmembrane,Helical,18.0,38.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem205,Q91XE8,Transmembrane,Helical,53.0,73.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem205,Q91XE8,Transmembrane,Helical,81.0,101.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem205,Q91XE8,Transmembrane,Helical,166.0,186.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem252,Q8C353,Chain,Transmembrane protein 252,1.0,183.0,EXACT,EXACT,,[]
+Tmem252,Q8C353,Transmembrane,Helical,8.0,28.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem252,Q8C353,Transmembrane,Helical,39.0,59.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem256,Q5F285,Signal,,1.0,29.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem256,Q5F285,Chain,Transmembrane protein 256,30.0,113.0,EXACT,EXACT,,[]
+Tmem256,Q5F285,Topological domain,Extracellular,30.0,63.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem256,Q5F285,Transmembrane,Helical,64.0,84.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem256,Q5F285,Topological domain,Cytoplasmic,85.0,92.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem256,Q5F285,Transmembrane,Helical,93.0,113.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem258,P61166,Chain,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit TMEM258,1.0,79.0,EXACT,EXACT,,[]
+Tmem258,P61166,Transmembrane,Helical,17.0,37.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem258,P61166,Transmembrane,Helical,55.0,75.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem88,Q9D0N8,Chain,Transmembrane protein 88,1.0,159.0,EXACT,EXACT,,[]
+Tmem88,Q9D0N8,Transmembrane,Helical,43.0,63.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmem88,Q9D0N8,Transmembrane,Helical,88.0,108.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tmsb4x,P20065,Chain,Thymosin beta-4,1.0,50.0,EXACT,EXACT,,[]
+Tmsb4x,P20065,Peptide,Hemoregulatory peptide AcSDKP,8.0,11.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""11303049""}]"
+Tnfrsf12a,Q9CR75,Signal,,1.0,27.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tnfrsf12a,Q9CR75,Chain,Tumor necrosis factor receptor superfamily member 12A,28.0,129.0,EXACT,EXACT,,[]
+Tnfrsf12a,Q9CR75,Topological domain,Extracellular,28.0,80.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tnfrsf12a,Q9CR75,Transmembrane,Helical,81.0,101.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tnfrsf12a,Q9CR75,Topological domain,Cytoplasmic,102.0,129.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tnfrsf1a,P25118,Signal,,1.0,29.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P19438""}]"
+Tnfrsf1a,P25118,Chain,Tumor necrosis factor receptor superfamily member 1A,30.0,454.0,EXACT,EXACT,,[]
+Tnfrsf1a,P25118,Topological domain,Extracellular,30.0,212.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tnfrsf1a,P25118,Transmembrane,Helical,213.0,235.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tnfrsf1a,P25118,Topological domain,Cytoplasmic,236.0,454.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tpd52l2,Q9CYZ2,Chain,Tumor protein D54,1.0,220.0,EXACT,EXACT,,[]
+Tram1,Q91V04,Chain,Translocating chain-associated membrane protein 1,1.0,374.0,EXACT,EXACT,,[]
+Tram1,Q91V04,Topological domain,Cytoplasmic,1.0,29.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tram1,Q91V04,Transmembrane,Helical,30.0,50.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tram1,Q91V04,Topological domain,Lumenal,51.0,76.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tram1,Q91V04,Transmembrane,Helical,77.0,97.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tram1,Q91V04,Topological domain,Cytoplasmic,98.0,121.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tram1,Q91V04,Transmembrane,Helical,122.0,142.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tram1,Q91V04,Topological domain,Lumenal,143.0,159.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tram1,Q91V04,Transmembrane,Helical,160.0,180.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tram1,Q91V04,Topological domain,Cytoplasmic,181.0,192.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tram1,Q91V04,Transmembrane,Helical,193.0,213.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tram1,Q91V04,Topological domain,Lumenal,214.0,217.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tram1,Q91V04,Transmembrane,Helical,218.0,238.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tram1,Q91V04,Topological domain,Cytoplasmic,239.0,251.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tram1,Q91V04,Transmembrane,Helical,252.0,272.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tram1,Q91V04,Topological domain,Lumenal,273.0,297.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tram1,Q91V04,Transmembrane,Helical,298.0,318.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tram1,Q91V04,Topological domain,Cytoplasmic,319.0,374.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""21237175""}]"
+Tspan4,Q9DCK3,Chain,Tetraspanin-4,1.0,238.0,EXACT,EXACT,,[]
+Tspan4,Q9DCK3,Topological domain,Cytoplasmic,1.0,13.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspan4,Q9DCK3,Transmembrane,Helical,14.0,34.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspan4,Q9DCK3,Topological domain,Extracellular,35.0,55.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspan4,Q9DCK3,Transmembrane,Helical,56.0,76.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspan4,Q9DCK3,Topological domain,Cytoplasmic,77.0,85.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspan4,Q9DCK3,Transmembrane,Helical,86.0,106.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspan4,Q9DCK3,Topological domain,Extracellular,107.0,201.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspan4,Q9DCK3,Transmembrane,Helical,202.0,222.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspan4,Q9DCK3,Topological domain,Cytoplasmic,223.0,238.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Tspo,P50637,Chain,Translocator protein,1.0,169.0,EXACT,EXACT,,[]
+Tspo,P50637,Topological domain,Mitochondrial intermembrane,1.0,5.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""24653034""}]"
+Tspo,P50637,Transmembrane,Helical; Name=1,6.0,26.0,EXACT,EXACT,,[]
+Tspo,P50637,Topological domain,Cytoplasmic,27.0,46.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""24653034""}]"
+Tspo,P50637,Transmembrane,Helical; Name=2,47.0,67.0,EXACT,EXACT,,[]
+Tspo,P50637,Topological domain,Mitochondrial intermembrane,68.0,79.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""24653034""}]"
+Tspo,P50637,Transmembrane,Helical; Name=3,80.0,100.0,EXACT,EXACT,,[]
+Tspo,P50637,Topological domain,Cytoplasmic,101.0,105.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""24653034""}]"
+Tspo,P50637,Transmembrane,Helical; Name=4,106.0,126.0,EXACT,EXACT,,[]
+Tspo,P50637,Topological domain,Mitochondrial intermembrane,127.0,134.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""24653034""}]"
+Tspo,P50637,Transmembrane,Helical; Name=5,135.0,155.0,EXACT,EXACT,,[]
+Tspo,P50637,Topological domain,Cytoplasmic,156.0,169.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""24653034""}]"
+Tuba1a,P68369,Chain,Tubulin alpha-1A chain,1.0,451.0,EXACT,EXACT,,[]
+Tuba1a,P68369,Chain,Detyrosinated tubulin alpha-1A chain,1.0,450.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""26446751""}, {""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""27102488""}, {""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""29146868""}]"
+Tuba1b,P05213,Chain,Tubulin alpha-1B chain,1.0,451.0,EXACT,EXACT,,[]
+Tuba1b,P05213,Chain,Detyrosinated tubulin alpha-1B chain,1.0,450.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""26446751""}, {""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""27102488""}, {""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""29146868""}]"
+Tuba1c,P68373,Chain,Tubulin alpha-1C chain,1.0,449.0,EXACT,EXACT,,[]
+Tuba1c,P68373,Chain,Detyrosinated tubulin alpha-1C chain,1.0,448.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""26446751""}, {""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""27102488""}, {""evidenceCode"": ""ECO:0000305"", ""source"": ""PubMed"", ""id"": ""29146868""}]"
+Tubb5,P99024,Chain,Tubulin beta-5 chain,1.0,444.0,EXACT,EXACT,,[]
+Tubb6,Q922F4,Chain,Tubulin beta-6 chain,1.0,447.0,EXACT,EXACT,,[]
+Txndc17,Q9CQM5,Chain,Thioredoxin domain-containing protein 17,2.0,123.0,EXACT,EXACT,,[]
+Txnrd1,Q9JMH6,Chain,"Thioredoxin reductase 1, cytoplasmic",1.0,613.0,EXACT,EXACT,,[]
+Ubl5,Q9EPV8,Chain,Ubiquitin-like protein 5,1.0,73.0,EXACT,EXACT,,[]
+Ubtd1,Q91WB7,Chain,Ubiquitin domain-containing protein 1,1.0,227.0,EXACT,EXACT,,[]
+Uchl1,Q9R0P9,Chain,Ubiquitin carboxyl-terminal hydrolase isozyme L1,1.0,220.0,EXACT,EXACT,,[]
+Uchl1,Q9R0P9,Propeptide,Removed in mature form,221.0,223.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250""}]"
+Uchl1,Q9R0P9,Lipidation,S-farnesyl cysteine,220.0,220.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P09936""}]"
+Uchl3,Q9JKB1,Chain,Ubiquitin carboxyl-terminal hydrolase isozyme L3,1.0,230.0,EXACT,EXACT,,[]
+Ufc1,Q9CR09,Chain,Ubiquitin-fold modifier-conjugating enzyme 1,1.0,167.0,EXACT,EXACT,,[]
+Ufm1,P61961,Chain,Ubiquitin-fold modifier 1,1.0,83.0,EXACT,EXACT,,[]
+Ufm1,P61961,Propeptide,Removed in mature form,84.0,85.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P61960""}]"
+Upp1,P52624,Chain,Uridine phosphorylase 1,1.0,311.0,EXACT,EXACT,,[]
+Uqcc2,Q9CQY6,Chain,Ubiquinol-cytochrome c reductase complex assembly factor 2,14.0,136.0,EXACT,EXACT,,[]
+Uqcr11,Q9CPX8,Chain,Cytochrome b-c1 complex subunit 10,1.0,56.0,EXACT,EXACT,,[]
+Uqcr11,Q9CPX8,Topological domain,Mitochondrial matrix,1.0,16.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Uqcr11,Q9CPX8,Transmembrane,Helical,17.0,38.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Uqcr11,Q9CPX8,Topological domain,Mitochondrial intermembrane,39.0,56.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Uqcrb,Q9D855,Chain,Cytochrome b-c1 complex subunit 7,2.0,111.0,EXACT,EXACT,,[]
+Uqcrfs1,Q9CR68,Chain,Cytochrome b-c1 complex subunit 9,1.0,78.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""28673544""}]"
+Uqcrfs1,Q9CR68,Chain,"Cytochrome b-c1 complex subunit Rieske, mitochondrial",79.0,274.0,EXACT,EXACT,,[]
+Uqcrfs1,Q9CR68,Topological domain,Mitochondrial matrix,79.0,110.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}]"
+Uqcrfs1,Q9CR68,Transmembrane,Helical,111.0,137.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}]"
+Uqcrfs1,Q9CR68,Topological domain,Mitochondrial intermembrane,138.0,274.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}]"
+Uqcrq,Q9CQ69,Chain,Cytochrome b-c1 complex subunit 8,1.0,82.0,EXACT,EXACT,,[]
+Uqcrq,Q9CQ69,Topological domain,Mitochondrial matrix,1.0,43.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Uqcrq,Q9CQ69,Transmembrane,Helical,44.0,62.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Uqcrq,Q9CQ69,Topological domain,Mitochondrial intermembrane,63.0,82.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000269"", ""source"": ""PubMed"", ""id"": ""34616041""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O37""}, {""evidenceCode"": ""ECO:0007744"", ""source"": ""PDB"", ""id"": ""7O3C""}]"
+Vars1,Q9Z1Q9,Chain,Valine--tRNA ligase,2.0,1263.0,EXACT,EXACT,,[]
+Vcp,Q01853,Chain,Transitional endoplasmic reticulum ATPase,2.0,806.0,EXACT,EXACT,,[]
+Vdac2,Q60930,Chain,Non-selective voltage-gated ion channel VDAC2,1.0,295.0,EXACT,EXACT,,[]
+Vdac2,Q60930,Topological domain,Cytoplasmic,1.0,12.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Intramembrane,Helical,13.0,36.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,37.0,46.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,47.0,49.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,50.0,58.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,59.0,64.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,65.0,75.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,76.0,79.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,80.0,87.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,88.0,90.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,91.0,100.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,101.0,105.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,106.0,115.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,116.0,121.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,122.0,131.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,132.0,133.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,134.0,141.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,142.0,147.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,148.0,156.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,157.0,160.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,161.0,169.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,170.0,173.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,174.0,186.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,187.0,188.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,189.0,196.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,197.0,199.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,200.0,209.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,210.0,212.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,213.0,222.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,223.0,228.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,229.0,238.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,239.0,241.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,242.0,249.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,250.0,252.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,253.0,262.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,263.0,264.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,265.0,274.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Cytoplasmic,275.0,283.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Transmembrane,Beta stranded,284.0,293.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vdac2,Q60930,Topological domain,Mitochondrial intermembrane,294.0,294.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P45880""}]"
+Vim,P20152,Chain,Vimentin,2.0,466.0,EXACT,EXACT,,[]
+Vmp1,Q99KU0,Chain,Vacuole membrane protein 1,2.0,406.0,EXACT,EXACT,,[]
+Vmp1,Q99KU0,Topological domain,Cytoplasmic,2.0,77.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Transmembrane,Helical,78.0,98.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Topological domain,Extracellular,99.0,109.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Transmembrane,Helical,110.0,130.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Topological domain,Cytoplasmic,131.0,250.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Transmembrane,Helical,251.0,271.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Topological domain,Extracellular,272.0,273.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Transmembrane,Helical,274.0,294.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Topological domain,Cytoplasmic,295.0,305.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Transmembrane,Helical,306.0,326.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Topological domain,Extracellular,327.0,363.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Transmembrane,Helical,364.0,384.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vmp1,Q99KU0,Topological domain,Cytoplasmic,385.0,406.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vps29,Q9QZ88,Chain,Vacuolar protein sorting-associated protein 29,1.0,182.0,EXACT,EXACT,,[]
+Vwa1,Q8R2Z5,Signal,,1.0,18.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Vwa1,Q8R2Z5,Chain,von Willebrand factor A domain-containing protein 1,19.0,415.0,EXACT,EXACT,,[]
+Vwf,Q8CIZ8,Signal,,1.0,22.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P04275""}]"
+Vwf,Q8CIZ8,Chain,von Willebrand antigen 2,23.0,763.0,EXACT,EXACT,,[]
+Vwf,Q8CIZ8,Chain,von Willebrand factor,764.0,2813.0,EXACT,EXACT,,[]
+Wdr1,O88342,Chain,WD repeat-containing protein 1,1.0,606.0,EXACT,EXACT,,[]
+Xbp1,O35426,Chain,X-box-binding protein 1,1.0,267.0,EXACT,EXACT,,[]
+Xbp1,O35426,Chain,"X-box-binding protein 1, cytoplasmic form",1.0,188.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P17861""}]"
+Xbp1,O35426,Chain,"X-box-binding protein 1, luminal form",191.0,267.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P17861""}]"
+Xbp1,O35426,Topological domain,Cytoplasmic,1.0,180.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P17861""}]"
+Xbp1,O35426,Transmembrane,Helical; Signal-anchor for type II membrane protein,181.0,198.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P17861""}, {""evidenceCode"": ""ECO:0000255""}]"
+Xbp1,O35426,Topological domain,Lumenal,199.0,267.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""P17861""}]"
+Xpnpep1,Q6P1B1,Chain,Xaa-Pro aminopeptidase 1,1.0,623.0,EXACT,EXACT,,[]
+Ybx1,P62960,Chain,Y-box-binding protein 1,2.0,322.0,EXACT,EXACT,,[]
+Yif1a,Q91XB7,Chain,Protein YIF1A,2.0,293.0,EXACT,EXACT,,[]
+Yif1a,Q91XB7,Topological domain,Cytoplasmic,2.0,138.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Yif1a,Q91XB7,Transmembrane,Helical,139.0,159.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Yif1a,Q91XB7,Topological domain,Lumenal,160.0,174.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Yif1a,Q91XB7,Transmembrane,Helical,175.0,195.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Yif1a,Q91XB7,Topological domain,Cytoplasmic,196.0,203.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Yif1a,Q91XB7,Transmembrane,Helical,204.0,226.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Yif1a,Q91XB7,Topological domain,Lumenal,227.0,229.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Yif1a,Q91XB7,Transmembrane,Helical,230.0,249.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Yif1a,Q91XB7,Topological domain,Cytoplasmic,250.0,271.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Yif1a,Q91XB7,Transmembrane,Helical,272.0,292.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Zdhhc6,Q9CPV7,Chain,Palmitoyltransferase ZDHHC6,1.0,413.0,EXACT,EXACT,,[]
+Zdhhc6,Q9CPV7,Topological domain,Cytoplasmic,1.0,24.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Zdhhc6,Q9CPV7,Transmembrane,Helical,25.0,45.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Zdhhc6,Q9CPV7,Topological domain,Lumenal,46.0,57.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Zdhhc6,Q9CPV7,Transmembrane,Helical,58.0,78.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Zdhhc6,Q9CPV7,Topological domain,Cytoplasmic,79.0,143.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Zdhhc6,Q9CPV7,Transmembrane,Helical,144.0,164.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Zdhhc6,Q9CPV7,Topological domain,Lumenal,165.0,194.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Zdhhc6,Q9CPV7,Transmembrane,Helical,195.0,215.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000255""}]"
+Zdhhc6,Q9CPV7,Topological domain,Cytoplasmic,216.0,413.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000305""}]"
+Zdhhc6,Q9CPV7,Lipidation,S-palmitoyl cysteine,328.0,328.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9H6R6""}]"
+Zdhhc6,Q9CPV7,Lipidation,S-palmitoyl cysteine,329.0,329.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9H6R6""}]"
+Zdhhc6,Q9CPV7,Lipidation,S-palmitoyl cysteine,343.0,343.0,EXACT,EXACT,,"[{""evidenceCode"": ""ECO:0000250"", ""source"": ""UniProtKB"", ""id"": ""Q9H6R6""}]"

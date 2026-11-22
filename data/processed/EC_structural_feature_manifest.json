@@ -1,0 +1,22 @@
+{
+  "pipeline_version": "1.0",
+  "uniprot_release": "2026_04",
+  "alignment_pipeline_version": "1.0",
+  "coordinate_convention": "One-based canonical UniProt residue coordinates",
+  "feature_source": "UniProt canonical protein feature annotations",
+  "external_topology": "Explicit and inferred boundaries retained separately",
+  "n_linked_sequon_definition": "N-X-S/T, X is a standard amino acid other than proline",
+  "sequon_conservation": "All three residues map contiguously to an extracellular sequon",
+  "disulfide_pair_conservation": "Both annotated cysteine endpoints correspond and the counterpart annotation subtype matches",
+  "single_disulfide_endpoint": "Reported separately; counterpart bond connectivity unresolved",
+  "annotation_counting": "Feature records rather than unique experimentally verified sites",
+  "missing_annotation": "Not evidence of absence of the biological modification",
+  "limitations": [
+    "Glycan occupancy and glycan structures not determined",
+    "Disulfide connectivity not independently validated",
+    "Isoform-specific coordinates not assumed canonical",
+    "First optimal sequence alignment retained",
+    "Extracellular topology does not establish luminal accessibility"
+  ],
+  "generated_utc": "2026-11-18T17:39:10.690235+00:00"
+}

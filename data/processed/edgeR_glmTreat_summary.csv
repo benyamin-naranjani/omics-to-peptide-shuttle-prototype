@@ -1,0 +1,10 @@
+comparison,min_fold_change,n_tested,upregulated,downregulated
+D02_vs_Sham,1.2,6142,362,316
+D02_vs_Sham,1.5,6142,133,78
+D02_vs_Sham,2.0,6142,29,3
+D14_vs_D02,1.2,6142,198,244
+D14_vs_D02,1.5,6142,35,68
+D14_vs_D02,2.0,6142,3,19
+D14_vs_Sham,1.2,6142,9,3
+D14_vs_Sham,1.5,6142,5,2
+D14_vs_Sham,2.0,6142,2,0

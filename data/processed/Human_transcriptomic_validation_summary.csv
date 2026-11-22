@@ -1,0 +1,20 @@
+metric,value
+Unique human target genes,559
+Integrated mouse-human relationships,568
+Unique adult human donors,9
+Primary sorted EC donors,8
+Primary unsorted EC donors,6
+Primary sorted EC cells,56529
+Primary unsorted EC cells,6813
+Resolved sorted human gene features,543
+Resolved unsorted human gene features,542
+Genes resolved in both datasets,542
+Genes detected in all assessed donors in both datasets,498
+Donor-level EC expression records,17329
+Population-specific expression records,107328
+Gene-population comparisons,8385
+Sensitivity assessments,100620
+Leave-one-donor-out assessments,39865
+Direction preserved across all checks,5720
+Figure human genes,24
+Unresolved dataset-specific feature records,33

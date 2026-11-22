@@ -1,0 +1,10 @@
+dataset_key,column,original_class,scalar_csv_compatible,n_missing,n_unique_nonmissing
+sorted_EC,PATH,character,True,0,1
+sorted_EC,ECclusters,character,True,0,12
+sorted_EC,Patient,factor,True,0,9
+sorted_EC,sex,factor,True,0,2
+sorted_EC,age,factor,True,0,7
+unsorted_EC_PVC,Cellclusters,factor,True,0,11
+unsorted_EC_PVC,Patient,factor,True,0,6
+unsorted_EC_PVC,sex,factor,True,0,2
+unsorted_EC_PVC,age,factor,True,0,5

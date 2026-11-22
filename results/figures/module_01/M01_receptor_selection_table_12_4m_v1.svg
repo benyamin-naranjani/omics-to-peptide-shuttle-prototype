@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1432.08pt" height="703.954425pt" viewBox="0 0 1432.08 703.954425" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T14:06:08.909742</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 703.954425 
+L 1432.08 703.954425 
+L 1432.08 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 40.932 163.6812 
+L 1391.148 163.6812 
+L 1391.148 120.6036 
+L 40.932 120.6036 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #1f4e79"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 40.932 238.7196 
+L 1391.148 238.7196 
+L 1391.148 163.6812 
+L 40.932 163.6812 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #ffffff; stroke: #dee4ea; stroke-width: 0.36; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 40.932 238.7196 
+L 45.378 238.7196 
+L 45.378 163.6812 
+L 40.932 163.6812 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #4fae9d"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 40.932 313.758 
+L 1391.148 313.758 
+L 1391.148 238.7196 
+L 40.932 238.7196 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #f4f7fa; stroke: #dee4ea; stroke-width: 0.36; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 40.932 313.758 
+L 45.378 313.758 
+L 45.378 238.7196 
+L 40.932 238.7196 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #4fae9d"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 40.932 388.7964 
+L 1391.148 388.7964 
+L 1391.148 313.758 
+L 40.932 313.758 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #ffffff; stroke: #dee4ea; stroke-width: 0.36; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 40.932 388.7964 
+L 45.378 388.7964 
+L 45.378 313.758 
+L 40.932 313.758 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #c9a441"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 40.932 463.8348 
+L 1391.148 463.8348 
+L 1391.148 388.7964 
+L 40.932 388.7964 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #f4f7fa; stroke: #dee4ea; stroke-width: 0.36; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 40.932 463.8348 
+L 45.378 463.8348 
+L 45.378 388.7964 
+L 40.932 388.7964 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #c9a441"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 40.932 538.8732 
+L 1391.148 538.8732 
+L 1391.148 463.8348 
+L 40.932 463.8348 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #ffffff; stroke: #dee4ea; stroke-width: 0.36; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 40.932 538.8732 
+L 45.378 538.8732 
+L 45.378 463.8348 
+L 40.932 463.8348 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #e58e73"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 40.932 613.9116 
+L 1391.148 613.9116 
+L 1391.148 538.8732 
+L 40.932 538.8732 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #f4f7fa; stroke: #dee4ea; stroke-width: 0.36; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 40.932 613.9116 
+L 45.378 613.9116 
+L 45.378 538.8732 
+L 40.932 538.8732 
+z
+" clip-path="url(#pbbbdea8bb7)" style="fill: #4e84c4"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 181.152 238.7196 
+L 181.152 163.6812 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 331.632 238.7196 
+L 331.632 163.6812 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 468.432 238.7196 
+L 468.432 163.6812 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 536.832 238.7196 
+L 536.832 163.6812 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 779.652 238.7196 
+L 779.652 163.6812 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 988.956 238.7196 
+L 988.956 163.6812 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 1159.956 238.7196 
+L 1159.956 163.6812 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 181.152 313.758 
+L 181.152 238.7196 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 331.632 313.758 
+L 331.632 238.7196 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 468.432 313.758 
+L 468.432 238.7196 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 536.832 313.758 
+L 536.832 238.7196 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 779.652 313.758 
+L 779.652 238.7196 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 988.956 313.758 
+L 988.956 238.7196 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 1159.956 313.758 
+L 1159.956 238.7196 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 181.152 388.7964 
+L 181.152 313.758 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 331.632 388.7964 
+L 331.632 313.758 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 468.432 388.7964 
+L 468.432 313.758 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 536.832 388.7964 
+L 536.832 313.758 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 779.652 388.7964 
+L 779.652 313.758 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 988.956 388.7964 
+L 988.956 313.758 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 1159.956 388.7964 
+L 1159.956 313.758 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 181.152 463.8348 
+L 181.152 388.7964 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 331.632 463.8348 
+L 331.632 388.7964 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 468.432 463.8348 
+L 468.432 388.7964 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 536.832 463.8348 
+L 536.832 388.7964 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 779.652 463.8348 
+L 779.652 388.7964 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 988.956 463.8348 
+L 988.956 388.7964 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 1159.956 463.8348 
+L 1159.956 388.7964 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 181.152 538.8732 
+L 181.152 463.8348 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 331.632 538.8732 
+L 331.632 463.8348 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 468.432 538.8732 
+L 468.432 463.8348 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 536.832 538.8732 
+L 536.832 463.8348 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 779.652 538.8732 
+L 779.652 463.8348 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 988.956 538.8732 
+L 988.956 463.8348 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 1159.956 538.8732 
+L 1159.956 463.8348 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 181.152 613.9116 
+L 181.152 538.8732 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 331.632 613.9116 
+L 331.632 538.8732 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 468.432 613.9116 
+L 468.432 538.8732 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 536.832 613.9116 
+L 536.832 538.8732 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 779.652 613.9116 
+L 779.652 538.8732 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 988.956 613.9116 
+L 988.956 538.8732 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_42">
+    <path d="M 1159.956 613.9116 
+L 1159.956 538.8732 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #dae2e9; stroke-width: 0.28; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_43">
+    <path d="M 40.932 627.8076 
+L 1391.148 627.8076 
+" clip-path="url(#pbbbdea8bb7)" style="fill: none; stroke: #b8c5d1; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f4e79" x="40.932" y="44.16305" transform="rotate(-0 40.932 44.16305)">STROKE ENDOTHELIAL RECEPTOR PRIORITIZATION</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5f6f7d" x="40.932" y="71.864388" transform="rotate(-0 40.932 71.864388)">Five exploratory discovery candidates and one independent peptide-shuttle benchmark</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5f6f7d" x="40.932" y="95.792681" transform="rotate(-0 40.932 95.792681)">Decisions are manually adjudicated; the quantitative audit is a sensitivity analysis, not a trained selection model.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="47.772" y="145.07152" transform="rotate(-0 47.772 145.07152)">Receptor / role</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="187.992" y="145.07152" transform="rotate(-0 187.992 145.07152)">Mouse stroke (D02)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="338.472" y="145.07152" transform="rotate(-0 338.472 145.07152)">Human brain EC</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="475.272" y="145.07152" transform="rotate(-0 475.272 145.07152)">ECD identity</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="543.672" y="145.07152" transform="rotate(-0 543.672 145.07152)">Transport endpoint</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="786.492" y="145.07152" transform="rotate(-0 786.492 145.07152)">Safety / structural liability</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="995.796" y="145.07152" transform="rotate(-0 995.796 145.07152)">Peripheral EC RNA peak</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #ffffff" x="1166.796" y="144.941618" transform="rotate(-0 1166.796 144.941618)">Reviewed primary DOIs</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 12.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f4e79" x="50.508" y="189.972941" transform="rotate(-0 50.508 189.972941)">PROCR</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4fae9d" x="50.508" y="213.846642" transform="rotate(-0 50.508 213.846642)">PROVISIONAL 1</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 183.581444)">log2FC +0.97</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 197.715061)">FDR 0.0357</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 211.065061)">LOSO 100%</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 187.921364)">114.9 CPM</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 201.510356)">EC enrichment +3.16 log2</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="475.272" y="184.64302" transform="rotate(-0 475.272 184.64302)">66.8%</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 185.055666)">Mouse blood-to-brain transport of native</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 196.683666)">APC; EPCR-dependent. No engineered</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 208.311666)">peptide tested.</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 184.912275)">APC/protein C competition;</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 196.336275)">anticoagulant and PAR1-linked</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 207.760275)">cytoprotective signalling.</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="995.796" y="185.500275" transform="rotate(-0 995.796 185.500275)">thymus EC: 339.6 nTPM (HPA)</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 182.978816)">10.1038/jcbfm.2008.117</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 194.120046)">10.1182/blood-2009-03-208900</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 204.815046)">10.1182/blood-2002-12-3680</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 12.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f4e79" x="50.508" y="265.011341" transform="rotate(-0 50.508 265.011341)">TM4SF1</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4fae9d" x="50.508" y="288.885042" transform="rotate(-0 50.508 288.885042)">PROVISIONAL 2</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 258.619844)">log2FC +1.34</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 272.753461)">FDR 0.0016</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 286.103461)">LOSO 100%</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 262.959764)">767.3 CPM</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 276.548756)">EC enrichment +4.41 log2</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="475.272" y="259.68142" transform="rotate(-0 475.272 259.68142)">77.3%</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 260.094066)">Endothelial surface antibody uptake;</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 271.722066)">polarized BBB peptide transcytosis</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 284.178347)">untested.</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 259.950675)">Angiogenesis and vessel repair;</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 271.374675)">species-dependent glycosylated EL2</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 282.798675)">epitope.</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="995.796" y="260.858269" transform="rotate(-0 995.796 260.858269)">skin EC: 5,464.6 nTPM (HPA)</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 258.395028)">10.1007/s10456-014-9437-2</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 268.712216)">10.1016/j.bbrc.2015.07.142</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 279.785028)">10.1002/ccs3.12031</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 290.102216)">10.3390/ijms27104437</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 12.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f4e79" x="50.508" y="340.049741" transform="rotate(-0 50.508 340.049741)">SELP</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c9a441" x="50.508" y="363.923442" transform="rotate(-0 50.508 363.923442)">RESERVE 1</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 333.658244)">log2FC +7.11</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 347.791861)">FDR 0.0036</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 361.141861)">LOSO 100%</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 337.998164)">0.3 CPM</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 351.587156)">EC enrichment +0.31 log2</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="475.272" y="334.71982" transform="rotate(-0 475.272 334.71982)">72.6%</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 335.132466)">CAV1-dependent fucoidan nanocarrier</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 346.760466)">transport in a brain-tumour model; not a</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 358.388466)">free peptide.</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 334.989075)">Platelet binding and</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 346.413075)">thromboinflammation; extremely low</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 357.837075)">healthy human brain EC RNA.</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="995.796" y="335.577075" transform="rotate(-0 995.796 335.577075)">lung EC: 158.2 nTPM (HPA)</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 333.433428)">10.1038/s41563-023-01481-9</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 344.128428)">10.1186/1471-2202-11-12</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 354.445616)">10.1083/jcb.124.4.435</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 12.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f4e79" x="50.508" y="415.088141" transform="rotate(-0 50.508 415.088141)">ECSCR</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #c9a441" x="50.508" y="438.961842" transform="rotate(-0 50.508 438.961842)">RESERVE 2</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 408.696644)">log2FC +2.23</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 422.830261)">FDR 5.06e-05</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 436.180261)">LOSO 100%</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 413.036564)">176.7 CPM</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 426.625556)">EC enrichment +6.52 log2</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="475.272" y="409.75822" transform="rotate(-0 475.272 409.75822)">46.1%</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 410.999147)">VEGFR2-associated endosomal</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 421.798866)">redistribution; no ECSCR-bound cargo BBB</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 433.180385)">transport.</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 410.027475)">VEGF/PI3K/eNOS signalling and</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 421.451475)">systemic metabolic effects; low</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 433.689225)">ECD conservation.</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(995.796 411.000694)">breast EC: 1,202.2 nTPM</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(995.796 423.530475)">(HPA)</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 408.540246)">10.1182/blood-2009-10-248856</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 418.789016)">10.1074/jbc.m112.413542</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 429.861828)">10.1038/ncomms3389</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 12.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f4e79" x="50.508" y="490.126541" transform="rotate(-0 50.508 490.126541)">ACKR1</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #e58e73" x="50.508" y="514.000242" transform="rotate(-0 50.508 514.000242)">DIRECTION MISMATCH</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 483.735044)">log2FC +2.65</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 497.868661)">FDR 0.0012</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 511.218661)">LOSO 100%</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 488.074964)">82.2 CPM</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 501.663956)">EC enrichment +5.68 log2</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="475.272" y="484.79662" transform="rotate(-0 475.272 484.79662)">52.2%</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 486.037547)">Intact chemokines move</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 496.837266)">abluminal-to-luminal; opposite required</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 508.465266)">drug influx.</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 485.065875)">Leukocyte recruitment,</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 497.303625)">inflammation and</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 507.913875)">genotype-dependent erythrocyte</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 520.151625)">sink.</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(995.796 485.653875)">fallopian tube EC: 2,761.6</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(995.796 498.568875)">nTPM (HPA)</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 483.578646)">10.1093/brain/awu045</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 494.273646)">10.1038/ni.1675</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 504.522416)">10.1016/j.cell.2024.07.005</text>
+   </g>
+   <g id="text_57">
+    <text style="font-weight: 700; font-size: 12.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1f4e79" x="50.508" y="565.164941" transform="rotate(-0 50.508 565.164941)">LRP1</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #4e84c4" x="50.508" y="589.038642" transform="rotate(-0 50.508 589.038642)">BENCHMARK</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 559.635631)">D02 unavailable</text>
+    <text style="font-size: 8.9px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(187.992 572.462061)">Benchmark (not ranked)</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 563.113364)">9.6 CPM</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(338.472 576.702356)">EC enrichment -3.43 log2</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 9.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="475.272" y="559.83502" transform="rotate(-0 475.272 559.83502)">98.0%</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 560.247666)">Angiopep-2: partial LRP1-linked BBB</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 571.875666)">influx. L57: cluster-IV binding and brain</text>
+    <text style="font-size: 8.55px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(543.672 583.503666)">tracer uptake.</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 560.104275)">Broad ligand clearance; BBB</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 571.528275)">polarity and peripheral uptake;</text>
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #243649" transform="translate(786.492 582.952275)">non-LRP1 routes possible.</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 8.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243649" x="995.796" y="561.011869" transform="rotate(-0 995.796 561.011869)">liver EC: 49.1 nTPM (HPA)</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 558.170816)">10.1111/j.1471-4159.2008.05492.x</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 568.865816)">10.1016/j.bbrep.2017.07.003</text>
+    <text style="font-size: 7.75px; font-family: 'DejaVu Sans'; fill: #2a6091" transform="translate(1166.796 579.560816)">10.1016/j.xphs.2020.09.019</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5f6f7d" x="40.932" y="647.78235" transform="rotate(-0 40.932 647.78235)">Provisional design targets only: PROCR and TM4SF1. SELP, ECSCR and ACKR1 remain documented alternatives; LRP1 is a separate benchmark.</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5f6f7d" x="40.932" y="662.02575" transform="rotate(-0 40.932 662.02575)">ECD = extracellular domain; EC = endothelial cell; CPM = counts per million; LOSO = leave-one-sample-out direction stability.</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5f6f7d" x="40.932" y="676.26915" transform="rotate(-0 40.932 676.26915)">Human brain atlas CPM and peripheral HPA nTPM use different datasets/scales and must NOT be interpreted as a selectivity ratio.</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5f6f7d" x="40.932" y="690.51255" transform="rotate(-0 40.932 690.51255)">Published binding or uptake does not prove intact engineered peptide delivery; native luminal access, safety and epitope approval remain open.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbbbdea8bb7">
+   <rect x="11.52" y="11.52" width="1409.04" height="663.534"/>
+  </clipPath>
+ </defs>
+</svg>

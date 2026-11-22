@@ -1,0 +1,186 @@
+{
+  "HPA_release": "24.1",
+  "HPA_Ensembl_release": 109,
+  "current_Ensembl_release": 116,
+  "files": {
+    "tissue": {
+      "url": "https://v24.proteinatlas.org/download/tsv/rna_tissue_consensus.tsv.zip",
+      "resolved_url": "https://v24.proteinatlas.org/download/tsv/rna_tissue_consensus.tsv.zip",
+      "bytes": 5170393,
+      "last_modified": "Sat, 19 Oct 2024 16:52:20 GMT",
+      "etag": "\"4ee4d9-624d73e2d7900\"",
+      "retrieved_utc": "2026-11-19T13:28:09.563669+00:00",
+      "members": [
+        "rna_tissue_consensus.tsv"
+      ],
+      "sha256": "d815123757837c51e6aa7af1ca4299bfc11195c1199608dcc2c244367b61b42a",
+      "source_rows": 1000036,
+      "retained_rows": 27832,
+      "source_unique_gene_ids": 20162,
+      "columns": [
+        "Gene",
+        "Gene name",
+        "Tissue",
+        "nTPM"
+      ]
+    },
+    "tissue_metadata": {
+      "url": "https://v24.proteinatlas.org/download/tsv/rna_tissue_consensus_tissues.tsv.zip",
+      "resolved_url": "https://v24.proteinatlas.org/download/tsv/rna_tissue_consensus_tissues.tsv.zip",
+      "bytes": 734,
+      "last_modified": "Sat, 19 Oct 2024 16:52:34 GMT",
+      "etag": "\"2de-624d73f031880\"",
+      "retrieved_utc": "2026-11-19T13:28:09.761541+00:00",
+      "members": [
+        "rna_tissue_consensus_tissues.tsv"
+      ],
+      "sha256": "495dc7bad08eb2ae7fe5e15a825cc25bb410b1b43da62acb4e196edfe40b7fb9",
+      "source_rows": 50,
+      "retained_rows": 50,
+      "source_unique_gene_ids": 0,
+      "columns": [
+        "Tissue",
+        "Organ"
+      ]
+    },
+    "cluster": {
+      "url": "https://v24.proteinatlas.org/download/tsv/rna_single_cell_cluster.tsv.zip",
+      "resolved_url": "https://v24.proteinatlas.org/download/tsv/rna_single_cell_cluster.tsv.zip",
+      "bytes": 86025434,
+      "last_modified": "Wed, 12 Feb 2025 10:50:35 GMT",
+      "etag": "\"520a4da-62defb60cf4c0\"",
+      "retrieved_utc": "2026-11-19T13:28:30.233395+00:00",
+      "members": [
+        "rna_single_cell_cluster.tsv"
+      ],
+      "sha256": "ccd409b32e0d238092411a59c75f0f78ce6591b93478727a6b1ac4b92243986f",
+      "source_rows": 11185674,
+      "retained_rows": 309135,
+      "source_unique_gene_ids": 20082,
+      "columns": [
+        "Gene",
+        "Gene name",
+        "Tissue",
+        "Cluster",
+        "Cell type",
+        "Read count",
+        "nTPM"
+      ]
+    },
+    "cluster_metadata": {
+      "url": "https://v24.proteinatlas.org/download/tsv/rna_single_cell_clusters.tsv.zip",
+      "resolved_url": "https://v24.proteinatlas.org/download/tsv/rna_single_cell_clusters.tsv.zip",
+      "bytes": 5314,
+      "last_modified": "Wed, 12 Feb 2025 10:50:35 GMT",
+      "etag": "\"14c2-62defb60cf4c0\"",
+      "retrieved_utc": "2026-11-19T13:28:31.252214+00:00",
+      "members": [
+        "rna_single_cell_clusters.tsv"
+      ],
+      "sha256": "5c4fcb839960c3db143c4cd158fec59d394d1111ee30164d3183186d96255386",
+      "source_rows": 557,
+      "retained_rows": 557,
+      "source_unique_gene_ids": 0,
+      "columns": [
+        "Tissue",
+        "Cluster",
+        "Cell type",
+        "Cell type group",
+        "Cell count",
+        "Included in aggregation",
+        "Annotation reliability"
+      ]
+    },
+    "immune": {
+      "url": "https://v24.proteinatlas.org/download/tsv/rna_immune_cell.tsv.zip",
+      "resolved_url": "https://v24.proteinatlas.org/download/tsv/rna_immune_cell.tsv.zip",
+      "bytes": 2751254,
+      "last_modified": "Sat, 19 Oct 2024 16:58:39 GMT",
+      "etag": "\"29fb16-624d754c48dc0\"",
+      "retrieved_utc": "2026-11-19T13:28:31.943333+00:00",
+      "members": [
+        "rna_immune_cell.tsv"
+      ],
+      "sha256": "4d543ebe4e67d41f977071a6473e6468d59d2cd887773db3649f2b9fe02fa11f",
+      "source_rows": 383078,
+      "retained_rows": 10583,
+      "source_unique_gene_ids": 20162,
+      "columns": [
+        "Gene",
+        "Gene name",
+        "Immune cell",
+        "TPM",
+        "pTPM",
+        "nTPM"
+      ]
+    },
+    "ihc": {
+      "url": "https://v24.proteinatlas.org/download/tsv/normal_ihc_data.tsv.zip",
+      "resolved_url": "https://v24.proteinatlas.org/download/tsv/normal_ihc_data.tsv.zip",
+      "bytes": 5721486,
+      "last_modified": "Sat, 19 Oct 2024 16:33:52 GMT",
+      "etag": "\"574d8e-624d6fc22bc00\"",
+      "retrieved_utc": "2026-11-19T13:28:33.635821+00:00",
+      "members": [
+        "normal_ihc_data.tsv"
+      ],
+      "sha256": "71dd993e032ad40f91dd2885dd65a59f522fad008fcfe6affb0862056ad818c6",
+      "source_rows": 1198185,
+      "retained_rows": 46121,
+      "source_unique_gene_ids": 15302,
+      "columns": [
+        "Gene",
+        "Gene name",
+        "Tissue",
+        "IHC tissue name",
+        "Cell type",
+        "Level",
+        "Reliability"
+      ]
+    },
+    "ihc_metadata": {
+      "url": "https://v24.proteinatlas.org/download/tsv/normal_ihc_tissues.tsv.zip",
+      "resolved_url": "https://v24.proteinatlas.org/download/tsv/normal_ihc_tissues.tsv.zip",
+      "bytes": 675,
+      "last_modified": "Sat, 19 Oct 2024 16:33:52 GMT",
+      "etag": "\"2a3-624d6fc22bc00\"",
+      "retrieved_utc": "2026-11-19T13:28:33.908376+00:00",
+      "members": [
+        "normal_ihc_tissues.tsv"
+      ],
+      "sha256": "96420dd85dae8673bb87786bc29ca4a5f2ae9e10e29cb16174f834bdb5c897c8",
+      "source_rows": 45,
+      "retained_rows": 45,
+      "source_unique_gene_ids": 0,
+      "columns": [
+        "Tissue",
+        "Organ"
+      ]
+    }
+  },
+  "policy": "Exact stable IDs only; source symbol conflicts withheld from summaries pending review. No missing-to-zero imputation.",
+  "descriptive_nTPM_floors": [
+    1,
+    10,
+    100
+  ],
+  "min_cluster_cells": 30,
+  "accepted_cluster_reliability": [
+    "high",
+    "medium"
+  ],
+  "IHC_higher_support_categories": [
+    "enhanced",
+    "supported"
+  ],
+  "limitations": [
+    "HPA consensus bulk RNA, cluster RNA and immune RNA have distinct normalization and sampling; no ratios across resources or against W\u00e4lchli CPM.",
+    "Cluster maxima are descriptive; not independent donors or systemic vascular coverage.",
+    "Normal tissue datasets do not capture stroke-induced peripheral changes.",
+    "IHC categories are ordinal and do not establish membrane localization or blood-facing accessibility.",
+    "Blood cells such as platelets and mature erythrocytes and circulating soluble receptor pools are not exhaustively assessed.",
+    "No receptor-specific safety, pharmacokinetics, or ligand off-target binding established.",
+    "No automatic exclusion or prioritization."
+  ],
+  "generated_utc": "2026-11-19T13:28:42.687058+00:00"
+}

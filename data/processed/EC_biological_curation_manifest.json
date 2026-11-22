@@ -1,0 +1,31 @@
+{
+  "pipeline_version": "1.0",
+  "curation_date": "2026-11-19",
+  "curation_method": "Targeted manual literature review",
+  "systematic_review": false,
+  "exhaustive_literature_coverage": false,
+  "review_unit": "Mouse gene with study-specific species and experimental context",
+  "study_types": [
+    "Primary experimental study",
+    "Secondary review"
+  ],
+  "n_literature_records": 26,
+  "n_unique_publications": 23,
+  "n_initially_reviewed_mouse_genes": 19,
+  "n_structural_scope_mouse_genes": 114,
+  "n_mouse_genes_requiring_further_review": 96,
+  "negative_evidence_policy": "Negative and inconclusive results retained explicitly",
+  "functional_risk_policy": "Distinguish published deleterious perturbation from potential physiological interaction risks",
+  "review_queue_policy": "Search navigation only; no candidate exclusion or final ranking",
+  "limitations": [
+    "Literature review is targeted rather than systematic",
+    "Unreviewed receptors remain eligible for assessment",
+    "Antibody uptake does not establish peptide uptake",
+    "Endocytosis does not establish abluminal cargo release",
+    "Viral-vector transport does not establish standalone peptide transport",
+    "Mouse evidence is not automatically transferred to human orthologues",
+    "Negative results apply to the investigated ligand and model",
+    "Physiological risk hypotheses require experimental confirmation"
+  ],
+  "generated_utc": "2026-11-19T11:24:05.849082+00:00"
+}

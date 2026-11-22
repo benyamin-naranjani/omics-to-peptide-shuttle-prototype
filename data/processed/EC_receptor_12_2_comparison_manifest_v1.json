@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "generated_utc": "2026-11-20T07:19:07.782970+00:00",
+  "input_csv": "EC_receptor_multiaxis_selection_evidence_v1.csv",
+  "input_sha256": "40849166ce2a5d6f3a64fe1e011afdda9ca8c80c3db0235704f7957c4eb45362",
+  "manual_sheet_csv": "EC_receptor_manual_adjudication_template_v1.csv",
+  "manual_sheet_sha256_at_analysis": "2b3daca2dd21e99d4ec530fa26f2f50f0c0d511f02d0212ee79110eb7516c081",
+  "manual_sheet_untouched": true,
+  "comparison_protocol": "EC_receptor_12_2_comparison_protocol_v1.json",
+  "n_relationships": 125,
+  "n_mouse_genes": 114,
+  "provisional_deep_review_examples_not_selected": [
+    "Ecscr",
+    "Tm4sf1",
+    "Procr"
+  ],
+  "no_human_orthologue_merging": true,
+  "no_composite_score": true,
+  "no_auto_ranking_or_exclusion": true,
+  "no_approved_fragment": true,
+  "human_brain_EC_vs_HPA_peripheral_ratio_unavailable": true,
+  "interpretation_constraints": [
+    "Literature identity and endpoint reconciliation is incomplete",
+    "Human control brain RNA is not human stroke transport evidence",
+    "Peripheral EC transcript abundance is not a ligand-specific off-target risk measurement",
+    "Alternative orthologue relationships are not merged or optimized independently",
+    "Published antibody, native ligand or AAV delivery is not generated peptide delivery",
+    "Structural mapping availability is not docking fragment approval",
+    "A provisional focus list is documentation triage, never a final receptor choice"
+  ]
+}

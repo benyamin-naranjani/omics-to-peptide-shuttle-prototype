@@ -1,0 +1,16 @@
+cluster,comparison,n_tested,upregulated,downregulated,globally_significant
+EC1,D02_vs_Sham,2600,6,1,2
+EC1,D14_vs_D02,1780,0,2,2
+EC1,D14_vs_Sham,1406,1,0,1
+EC3,D02_vs_Sham,605,0,0,0
+EC3,D14_vs_D02,1197,1,0,1
+EC3,D14_vs_Sham,1200,1,0,1
+EC4,D02_vs_Sham,543,3,3,1
+EC4,D14_vs_D02,371,0,0,0
+EC4,D14_vs_Sham,225,0,0,0
+EC5,D02_vs_Sham,396,0,0,0
+EC5,D14_vs_D02,696,1,1,0
+EC5,D14_vs_Sham,389,0,0,0
+EC6,D02_vs_Sham,394,0,0,0
+EC6,D14_vs_D02,460,12,0,0
+EC6,D14_vs_Sham,227,0,0,0

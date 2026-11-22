@@ -1,0 +1,28 @@
+dataset_key,population_resolution,population,n_total_donors,n_available_donors,n_supported_donors,n_cells,minimum_cells_per_donor,median_cells_per_donor,maximum_cells_per_donor
+sorted_EC,original_EC_subtype,Angiogenic capillary,8,8,6,2375,2,306.5,613
+sorted_EC,original_EC_subtype,Arteriole,8,8,8,15954,203,1125.0,6714
+sorted_EC,original_EC_subtype,Artery,8,8,7,2448,23,285.0,605
+sorted_EC,original_EC_subtype,Capillary,8,8,8,26072,145,2891.0,9441
+sorted_EC,original_EC_subtype,EndoMT,8,8,6,1852,5,135.0,728
+sorted_EC,original_EC_subtype,Large artery,8,8,8,1971,59,154.0,896
+sorted_EC,original_EC_subtype,Large vein,8,7,6,777,0,89.5,218
+sorted_EC,original_EC_subtype,Mitochondrial,8,8,7,595,3,78.0,127
+sorted_EC,original_EC_subtype,Proliferating cell,8,7,3,217,0,23.5,69
+sorted_EC,original_EC_subtype,Stem-to-EC,8,7,0,38,0,4.5,10
+sorted_EC,original_EC_subtype,Vein,8,8,7,899,11,107.0,235
+sorted_EC,original_EC_subtype,Venule,8,8,7,3331,8,349.5,811
+sorted_EC,vascular_zone,Arterial,8,8,8,20373,294,1789.0,7035
+sorted_EC,vascular_zone,Capillary,8,8,8,26072,145,2891.0,9441
+sorted_EC,vascular_zone,Venous,8,8,7,5007,19,569.0,1116
+unsorted_EC_PVC,original_cell_type,Astrocytes,6,6,6,5488,113,198.5,4468
+unsorted_EC_PVC,original_cell_type,Endothelial cells,6,6,6,6813,131,1010.0,2486
+unsorted_EC_PVC,original_cell_type,Fibroblasts,6,6,5,1140,10,201.0,317
+unsorted_EC_PVC,original_cell_type,Microglia and Macrophages,6,6,6,33630,3174,4585.5,11381
+unsorted_EC_PVC,original_cell_type,Neuron progenitor,6,6,1,1182,2,4.5,1157
+unsorted_EC_PVC,original_cell_type,Neurons,6,6,1,15942,4,8.0,15903
+unsorted_EC_PVC,original_cell_type,Oligodendrocytes,6,6,5,3778,9,291.5,1675
+unsorted_EC_PVC,original_cell_type,Pericytes,6,6,6,2825,46,354.5,968
+unsorted_EC_PVC,original_cell_type,Smooth muscle cells,6,6,6,5605,53,757.5,2638
+unsorted_EC_PVC,original_cell_type,Stem cells,6,5,1,2352,0,8.5,2306
+unsorted_EC_PVC,original_cell_type,T cells,6,6,6,1760,128,171.0,716
+unsorted_EC_PVC,composite_cell_type,All non-EC cells,6,6,6,73702,4169,8451.5,30135

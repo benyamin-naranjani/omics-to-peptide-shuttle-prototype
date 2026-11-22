@@ -1,0 +1,4 @@
+stage,n_protein_coding_genes,n_mapped_genes,n_additional_genes,n_unmapped_genes,mapping_coverage_pct
+Ensembl,556,523,523,33,94.06474820143885
++ MGI,556,544,21,12,97.84172661870504
++ NCBI,556,550,6,6,98.92086330935251

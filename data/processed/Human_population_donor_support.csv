@@ -1,0 +1,193 @@
+dataset_key,population_resolution,population,donor_id,sex,age_years,n_cells,total_library_size,population_available,cell_support_sufficient
+sorted_EC,original_EC_subtype,Angiogenic capillary,TL10,Male,24,438,2946469,True,True
+sorted_EC,original_EC_subtype,Angiogenic capillary,TL2,Male,19,347,595307,True,True
+sorted_EC,original_EC_subtype,Angiogenic capillary,TL3,Female,41,266,1501035,True,True
+sorted_EC,original_EC_subtype,Angiogenic capillary,TL4,Male,41,135,495844,True,True
+sorted_EC,original_EC_subtype,Angiogenic capillary,TL5,Female,69,613,3075175,True,True
+sorted_EC,original_EC_subtype,Angiogenic capillary,TL6,Male,24,552,3532109,True,True
+sorted_EC,original_EC_subtype,Angiogenic capillary,TL7,Female,39,2,10889,True,False
+sorted_EC,original_EC_subtype,Angiogenic capillary,TL9,Male,25,22,61670,True,False
+sorted_EC,original_EC_subtype,Arteriole,TL10,Male,24,6714,53998780,True,True
+sorted_EC,original_EC_subtype,Arteriole,TL2,Male,19,1131,2745372,True,True
+sorted_EC,original_EC_subtype,Arteriole,TL3,Female,41,636,3942966,True,True
+sorted_EC,original_EC_subtype,Arteriole,TL4,Male,41,397,1786309,True,True
+sorted_EC,original_EC_subtype,Arteriole,TL5,Female,69,1119,7123167,True,True
+sorted_EC,original_EC_subtype,Arteriole,TL6,Male,24,1757,15023755,True,True
+sorted_EC,original_EC_subtype,Arteriole,TL7,Female,39,203,1180105,True,True
+sorted_EC,original_EC_subtype,Arteriole,TL9,Male,25,3997,24256341,True,True
+sorted_EC,original_EC_subtype,Artery,TL10,Male,24,170,1257885,True,True
+sorted_EC,original_EC_subtype,Artery,TL2,Male,19,605,957224,True,True
+sorted_EC,original_EC_subtype,Artery,TL3,Female,41,257,1480573,True,True
+sorted_EC,original_EC_subtype,Artery,TL4,Male,41,211,814049,True,True
+sorted_EC,original_EC_subtype,Artery,TL5,Female,69,333,1720665,True,True
+sorted_EC,original_EC_subtype,Artery,TL6,Male,24,313,1839186,True,True
+sorted_EC,original_EC_subtype,Artery,TL7,Female,39,23,115836,True,False
+sorted_EC,original_EC_subtype,Artery,TL9,Male,25,536,3130223,True,True
+sorted_EC,original_EC_subtype,Capillary,TL10,Male,24,9441,61173055,True,True
+sorted_EC,original_EC_subtype,Capillary,TL2,Male,19,3020,4693870,True,True
+sorted_EC,original_EC_subtype,Capillary,TL3,Female,41,1396,7436236,True,True
+sorted_EC,original_EC_subtype,Capillary,TL4,Male,41,872,2784053,True,True
+sorted_EC,original_EC_subtype,Capillary,TL5,Female,69,3673,17272475,True,True
+sorted_EC,original_EC_subtype,Capillary,TL6,Male,24,4763,26835152,True,True
+sorted_EC,original_EC_subtype,Capillary,TL7,Female,39,145,751080,True,True
+sorted_EC,original_EC_subtype,Capillary,TL9,Male,25,2762,13450636,True,True
+sorted_EC,original_EC_subtype,EndoMT,TL10,Male,24,728,7656186,True,True
+sorted_EC,original_EC_subtype,EndoMT,TL2,Male,19,129,262606,True,True
+sorted_EC,original_EC_subtype,EndoMT,TL3,Female,41,87,466685,True,True
+sorted_EC,original_EC_subtype,EndoMT,TL4,Male,41,23,91952,True,False
+sorted_EC,original_EC_subtype,EndoMT,TL5,Female,69,141,890133,True,True
+sorted_EC,original_EC_subtype,EndoMT,TL6,Male,24,291,2245259,True,True
+sorted_EC,original_EC_subtype,EndoMT,TL7,Female,39,5,39211,True,False
+sorted_EC,original_EC_subtype,EndoMT,TL9,Male,25,448,3889675,True,True
+sorted_EC,original_EC_subtype,Large artery,TL10,Male,24,151,977953,True,True
+sorted_EC,original_EC_subtype,Large artery,TL2,Male,19,157,289816,True,True
+sorted_EC,original_EC_subtype,Large artery,TL3,Female,41,289,1886828,True,True
+sorted_EC,original_EC_subtype,Large artery,TL4,Male,41,59,271164,True,True
+sorted_EC,original_EC_subtype,Large artery,TL5,Female,69,233,1758541,True,True
+sorted_EC,original_EC_subtype,Large artery,TL6,Male,24,118,829429,True,True
+sorted_EC,original_EC_subtype,Large artery,TL7,Female,39,68,349601,True,True
+sorted_EC,original_EC_subtype,Large artery,TL9,Male,25,896,4542563,True,True
+sorted_EC,original_EC_subtype,Large vein,TL10,Male,24,131,1080966,True,True
+sorted_EC,original_EC_subtype,Large vein,TL2,Male,19,55,168969,True,True
+sorted_EC,original_EC_subtype,Large vein,TL3,Female,41,54,393188,True,True
+sorted_EC,original_EC_subtype,Large vein,TL4,Male,41,13,65292,True,False
+sorted_EC,original_EC_subtype,Large vein,TL5,Female,69,218,2219068,True,True
+sorted_EC,original_EC_subtype,Large vein,TL6,Male,24,124,1125042,True,True
+sorted_EC,original_EC_subtype,Large vein,TL7,Female,39,0,0,False,False
+sorted_EC,original_EC_subtype,Large vein,TL9,Male,25,182,1170418,True,True
+sorted_EC,original_EC_subtype,Mitochondrial,TL10,Male,24,62,57457,True,True
+sorted_EC,original_EC_subtype,Mitochondrial,TL2,Male,19,96,77034,True,True
+sorted_EC,original_EC_subtype,Mitochondrial,TL3,Female,41,59,137335,True,True
+sorted_EC,original_EC_subtype,Mitochondrial,TL4,Male,41,94,141399,True,True
+sorted_EC,original_EC_subtype,Mitochondrial,TL5,Female,69,127,194109,True,True
+sorted_EC,original_EC_subtype,Mitochondrial,TL6,Male,24,102,188952,True,True
+sorted_EC,original_EC_subtype,Mitochondrial,TL7,Female,39,3,2430,True,False
+sorted_EC,original_EC_subtype,Mitochondrial,TL9,Male,25,52,51483,True,True
+sorted_EC,original_EC_subtype,Proliferating cell,TL10,Male,24,5,31571,True,False
+sorted_EC,original_EC_subtype,Proliferating cell,TL2,Male,19,69,99913,True,True
+sorted_EC,original_EC_subtype,Proliferating cell,TL3,Female,41,20,112971,True,False
+sorted_EC,original_EC_subtype,Proliferating cell,TL4,Male,41,27,99437,True,False
+sorted_EC,original_EC_subtype,Proliferating cell,TL5,Female,69,55,283001,True,True
+sorted_EC,original_EC_subtype,Proliferating cell,TL6,Male,24,40,232332,True,True
+sorted_EC,original_EC_subtype,Proliferating cell,TL7,Female,39,0,0,False,False
+sorted_EC,original_EC_subtype,Proliferating cell,TL9,Male,25,1,15675,True,False
+sorted_EC,original_EC_subtype,Stem-to-EC,TL10,Male,24,5,32026,True,False
+sorted_EC,original_EC_subtype,Stem-to-EC,TL2,Male,19,10,11591,True,False
+sorted_EC,original_EC_subtype,Stem-to-EC,TL3,Female,41,2,5973,True,False
+sorted_EC,original_EC_subtype,Stem-to-EC,TL4,Male,41,4,10946,True,False
+sorted_EC,original_EC_subtype,Stem-to-EC,TL5,Female,69,7,21800,True,False
+sorted_EC,original_EC_subtype,Stem-to-EC,TL6,Male,24,7,28231,True,False
+sorted_EC,original_EC_subtype,Stem-to-EC,TL7,Female,39,0,0,False,False
+sorted_EC,original_EC_subtype,Stem-to-EC,TL9,Male,25,3,14414,True,False
+sorted_EC,original_EC_subtype,Vein,TL10,Male,24,97,824646,True,True
+sorted_EC,original_EC_subtype,Vein,TL2,Male,19,125,302227,True,True
+sorted_EC,original_EC_subtype,Vein,TL3,Female,41,77,489115,True,True
+sorted_EC,original_EC_subtype,Vein,TL4,Male,41,31,140504,True,True
+sorted_EC,original_EC_subtype,Vein,TL5,Female,69,235,1853684,True,True
+sorted_EC,original_EC_subtype,Vein,TL6,Male,24,206,1577166,True,True
+sorted_EC,original_EC_subtype,Vein,TL7,Female,39,11,71932,True,False
+sorted_EC,original_EC_subtype,Vein,TL9,Male,25,117,726274,True,True
+sorted_EC,original_EC_subtype,Venule,TL10,Male,24,811,7059123,True,True
+sorted_EC,original_EC_subtype,Venule,TL2,Male,19,423,1001325,True,True
+sorted_EC,original_EC_subtype,Venule,TL3,Female,41,276,1752966,True,True
+sorted_EC,original_EC_subtype,Venule,TL4,Male,41,136,617697,True,True
+sorted_EC,original_EC_subtype,Venule,TL5,Female,69,655,4773870,True,True
+sorted_EC,original_EC_subtype,Venule,TL6,Male,24,786,6178784,True,True
+sorted_EC,original_EC_subtype,Venule,TL7,Female,39,8,43455,True,False
+sorted_EC,original_EC_subtype,Venule,TL9,Male,25,236,1537219,True,True
+sorted_EC,vascular_zone,Arterial,TL10,Male,24,7035,56234618,True,True
+sorted_EC,vascular_zone,Arterial,TL2,Male,19,1893,3992412,True,True
+sorted_EC,vascular_zone,Arterial,TL3,Female,41,1182,7310367,True,True
+sorted_EC,vascular_zone,Arterial,TL4,Male,41,667,2871522,True,True
+sorted_EC,vascular_zone,Arterial,TL5,Female,69,1685,10602373,True,True
+sorted_EC,vascular_zone,Arterial,TL6,Male,24,2188,17692370,True,True
+sorted_EC,vascular_zone,Arterial,TL7,Female,39,294,1645542,True,True
+sorted_EC,vascular_zone,Arterial,TL9,Male,25,5429,31929127,True,True
+sorted_EC,vascular_zone,Capillary,TL10,Male,24,9441,61173055,True,True
+sorted_EC,vascular_zone,Capillary,TL2,Male,19,3020,4693870,True,True
+sorted_EC,vascular_zone,Capillary,TL3,Female,41,1396,7436236,True,True
+sorted_EC,vascular_zone,Capillary,TL4,Male,41,872,2784053,True,True
+sorted_EC,vascular_zone,Capillary,TL5,Female,69,3673,17272475,True,True
+sorted_EC,vascular_zone,Capillary,TL6,Male,24,4763,26835152,True,True
+sorted_EC,vascular_zone,Capillary,TL7,Female,39,145,751080,True,True
+sorted_EC,vascular_zone,Capillary,TL9,Male,25,2762,13450636,True,True
+sorted_EC,vascular_zone,Venous,TL10,Male,24,1039,8964735,True,True
+sorted_EC,vascular_zone,Venous,TL2,Male,19,603,1472521,True,True
+sorted_EC,vascular_zone,Venous,TL3,Female,41,407,2635269,True,True
+sorted_EC,vascular_zone,Venous,TL4,Male,41,180,823493,True,True
+sorted_EC,vascular_zone,Venous,TL5,Female,69,1108,8846622,True,True
+sorted_EC,vascular_zone,Venous,TL6,Male,24,1116,8880992,True,True
+sorted_EC,vascular_zone,Venous,TL7,Female,39,19,115387,True,False
+sorted_EC,vascular_zone,Venous,TL9,Male,25,535,3433911,True,True
+unsorted_EC_PVC,original_cell_type,Astrocytes,TL10,Male,24,159,280939,True,True
+unsorted_EC_PVC,original_cell_type,Astrocytes,TL5,Female,69,195,277571,True,True
+unsorted_EC_PVC,original_cell_type,Astrocytes,TL6,Male,24,113,175588,True,True
+unsorted_EC_PVC,original_cell_type,Astrocytes,TL7,Female,39,202,638142,True,True
+unsorted_EC_PVC,original_cell_type,Astrocytes,TL8,Male,48,4468,9462333,True,True
+unsorted_EC_PVC,original_cell_type,Astrocytes,TL9,Male,25,351,855156,True,True
+unsorted_EC_PVC,original_cell_type,Endothelial cells,TL10,Male,24,2486,30474972,True,True
+unsorted_EC_PVC,original_cell_type,Endothelial cells,TL5,Female,69,1199,10825539,True,True
+unsorted_EC_PVC,original_cell_type,Endothelial cells,TL6,Male,24,521,6281390,True,True
+unsorted_EC_PVC,original_cell_type,Endothelial cells,TL7,Female,39,131,593196,True,True
+unsorted_EC_PVC,original_cell_type,Endothelial cells,TL8,Male,48,821,1879251,True,True
+unsorted_EC_PVC,original_cell_type,Endothelial cells,TL9,Male,25,1655,23100138,True,True
+unsorted_EC_PVC,original_cell_type,Fibroblasts,TL10,Male,24,225,1202012,True,True
+unsorted_EC_PVC,original_cell_type,Fibroblasts,TL5,Female,69,177,879831,True,True
+unsorted_EC_PVC,original_cell_type,Fibroblasts,TL6,Male,24,154,993488,True,True
+unsorted_EC_PVC,original_cell_type,Fibroblasts,TL7,Female,39,10,46084,True,False
+unsorted_EC_PVC,original_cell_type,Fibroblasts,TL8,Male,48,317,1002821,True,True
+unsorted_EC_PVC,original_cell_type,Fibroblasts,TL9,Male,25,257,1668784,True,True
+unsorted_EC_PVC,original_cell_type,Microglia and Macrophages,TL10,Male,24,6695,20108964,True,True
+unsorted_EC_PVC,original_cell_type,Microglia and Macrophages,TL5,Female,69,3209,8736269,True,True
+unsorted_EC_PVC,original_cell_type,Microglia and Macrophages,TL6,Male,24,3174,8175071,True,True
+unsorted_EC_PVC,original_cell_type,Microglia and Macrophages,TL7,Female,39,3676,13992706,True,True
+unsorted_EC_PVC,original_cell_type,Microglia and Macrophages,TL8,Male,48,5495,14784975,True,True
+unsorted_EC_PVC,original_cell_type,Microglia and Macrophages,TL9,Male,25,11381,38436996,True,True
+unsorted_EC_PVC,original_cell_type,Neuron progenitor,TL10,Male,24,2,5519,True,False
+unsorted_EC_PVC,original_cell_type,Neuron progenitor,TL5,Female,69,4,7346,True,False
+unsorted_EC_PVC,original_cell_type,Neuron progenitor,TL6,Male,24,2,2452,True,False
+unsorted_EC_PVC,original_cell_type,Neuron progenitor,TL7,Female,39,5,13092,True,False
+unsorted_EC_PVC,original_cell_type,Neuron progenitor,TL8,Male,48,1157,3159100,True,True
+unsorted_EC_PVC,original_cell_type,Neuron progenitor,TL9,Male,25,12,26440,True,False
+unsorted_EC_PVC,original_cell_type,Neurons,TL10,Male,24,15,19602,True,False
+unsorted_EC_PVC,original_cell_type,Neurons,TL5,Female,69,9,22016,True,False
+unsorted_EC_PVC,original_cell_type,Neurons,TL6,Male,24,4,5961,True,False
+unsorted_EC_PVC,original_cell_type,Neurons,TL7,Female,39,4,12685,True,False
+unsorted_EC_PVC,original_cell_type,Neurons,TL8,Male,48,15903,53275381,True,True
+unsorted_EC_PVC,original_cell_type,Neurons,TL9,Male,25,7,22130,True,False
+unsorted_EC_PVC,original_cell_type,Oligodendrocytes,TL10,Male,24,1466,8884590,True,True
+unsorted_EC_PVC,original_cell_type,Oligodendrocytes,TL5,Female,69,418,1783205,True,True
+unsorted_EC_PVC,original_cell_type,Oligodendrocytes,TL6,Male,24,165,1008044,True,True
+unsorted_EC_PVC,original_cell_type,Oligodendrocytes,TL7,Female,39,45,223376,True,True
+unsorted_EC_PVC,original_cell_type,Oligodendrocytes,TL8,Male,48,9,24191,True,False
+unsorted_EC_PVC,original_cell_type,Oligodendrocytes,TL9,Male,25,1675,11398365,True,True
+unsorted_EC_PVC,original_cell_type,Pericytes,TL10,Male,24,959,3221856,True,True
+unsorted_EC_PVC,original_cell_type,Pericytes,TL5,Female,69,420,964176,True,True
+unsorted_EC_PVC,original_cell_type,Pericytes,TL6,Male,24,289,891100,True,True
+unsorted_EC_PVC,original_cell_type,Pericytes,TL7,Female,39,46,172534,True,True
+unsorted_EC_PVC,original_cell_type,Pericytes,TL8,Male,48,143,319869,True,True
+unsorted_EC_PVC,original_cell_type,Pericytes,TL9,Male,25,968,3901521,True,True
+unsorted_EC_PVC,original_cell_type,Smooth muscle cells,TL10,Male,24,1090,6599113,True,True
+unsorted_EC_PVC,original_cell_type,Smooth muscle cells,TL5,Female,69,1200,7091973,True,True
+unsorted_EC_PVC,original_cell_type,Smooth muscle cells,TL6,Male,24,425,2740162,True,True
+unsorted_EC_PVC,original_cell_type,Smooth muscle cells,TL7,Female,39,53,246542,True,True
+unsorted_EC_PVC,original_cell_type,Smooth muscle cells,TL8,Male,48,199,426124,True,True
+unsorted_EC_PVC,original_cell_type,Smooth muscle cells,TL9,Male,25,2638,18605242,True,True
+unsorted_EC_PVC,original_cell_type,Stem cells,TL10,Male,24,8,42936,True,False
+unsorted_EC_PVC,original_cell_type,Stem cells,TL5,Female,69,25,154207,True,False
+unsorted_EC_PVC,original_cell_type,Stem cells,TL6,Male,24,4,31068,True,False
+unsorted_EC_PVC,original_cell_type,Stem cells,TL7,Female,39,0,0,False,False
+unsorted_EC_PVC,original_cell_type,Stem cells,TL8,Male,48,2306,8744316,True,True
+unsorted_EC_PVC,original_cell_type,Stem cells,TL9,Male,25,9,141131,True,False
+unsorted_EC_PVC,original_cell_type,T cells,TL10,Male,24,436,1885365,True,True
+unsorted_EC_PVC,original_cell_type,T cells,TL5,Female,69,191,799205,True,True
+unsorted_EC_PVC,original_cell_type,T cells,TL6,Male,24,151,622789,True,True
+unsorted_EC_PVC,original_cell_type,T cells,TL7,Female,39,128,526623,True,True
+unsorted_EC_PVC,original_cell_type,T cells,TL8,Male,48,138,364463,True,True
+unsorted_EC_PVC,original_cell_type,T cells,TL9,Male,25,716,2963139,True,True
+unsorted_EC_PVC,composite_cell_type,All non-EC cells,TL10,Male,24,11055,42250896,True,True
+unsorted_EC_PVC,composite_cell_type,All non-EC cells,TL5,Female,69,5848,20715799,True,True
+unsorted_EC_PVC,composite_cell_type,All non-EC cells,TL6,Male,24,4481,14645723,True,True
+unsorted_EC_PVC,composite_cell_type,All non-EC cells,TL7,Female,39,4169,15871784,True,True
+unsorted_EC_PVC,composite_cell_type,All non-EC cells,TL8,Male,48,30135,91563573,True,True
+unsorted_EC_PVC,composite_cell_type,All non-EC cells,TL9,Male,25,18014,78018904,True,True

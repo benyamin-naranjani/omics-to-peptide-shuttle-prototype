@@ -1,0 +1,36 @@
+{
+  "figure_version": "1.0",
+  "figure_name": "EC_mouse_human_translational_evidence",
+  "ensembl_release": 116,
+  "uniprot_release": "2026_04",
+  "selected_genes": [
+    "Lrp1",
+    "Insr",
+    "Igf1r",
+    "Tfrc",
+    "Abcg2",
+    "Ace",
+    "Itm2a",
+    "Cd200",
+    "Tm4sf1",
+    "Car4",
+    "Il4ra",
+    "Ly6e",
+    "Ecscr",
+    "Ly6a",
+    "Ly6c1"
+  ],
+  "selected_gene_purpose": "Illustrative translational candidates and reference targets; not a final receptor ranking",
+  "panel_a": "Cumulative unique mouse protein-coding genes with reported human mappings",
+  "panel_b": "All mouse-human relationships with assessable extracellular sequence conservation",
+  "panel_c": "Canonical protein identity and bidirectional extracellular alignment coverage",
+  "panel_d": "Mouse-to-human feature conservation; matched feature records divided by source records",
+  "paired_disulfide_definition": "Two-endpoint intrachain or unspecified annotations; excludes single endpoints, explicitly interchain and redox-associated annotations",
+  "missing_feature_value": "Grey cell and dash indicate undefined percentage because source features are absent or unavailable",
+  "asterisk": "Mouse Ly6a and Ly6c1 mapped to human LY6S with low Ensembl orthology confidence",
+  "color_scale": [
+    0,
+    100
+  ],
+  "generated_utc": "2026-11-18T17:43:33.607518+00:00"
+}

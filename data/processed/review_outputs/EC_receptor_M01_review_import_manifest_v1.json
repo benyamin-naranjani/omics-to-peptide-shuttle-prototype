@@ -1,0 +1,38 @@
+{
+  "module": "OmiPep v0.2 Module 01",
+  "cell": "12.4g",
+  "state": "screened_sources_not_full_text_adjudicated",
+  "output_policy": "derived_only_no_manual_edits_or_source_modifications",
+  "n_relationships_source": 125,
+  "n_relationships_with_screening": 5,
+  "n_relationships_pending_further_adjudication": 125,
+  "n_unique_publications_screened": 22,
+  "n_evidence_claim_rows": 22,
+  "n_reviewed_zip_packages": 1,
+  "n_approved_receptors": 0,
+  "n_approved_docking_fragments": 0,
+  "original_source_dossier_sha256": "a4c65b9d5cd90785174ec03ccd94dcd6c0aab5b55c8e2b36ef8952ef486ef6f7",
+  "original_expert_master_sha256": "8e0758afe01b3cffc6cf4890abcfd3c30a33c9f05cc9ba5c3d4ee067f3e33f2c",
+  "batch_packets": [
+    {
+      "filename": "LIT-P01-01_REVIEWED_v1.zip",
+      "sha256": "6ad21ea48d70202c91817e8172b8a48c1825440f5d61d6142e9960c659f8712b",
+      "source_packet_sha256": "a10f9e480b0ef0b5d8605720f669afd68d833d8802467cd9f1a6d2f7a17b2639",
+      "batch_id": "LIT-P01-01",
+      "relationships": 5
+    }
+  ],
+  "output_sha256": {
+    "reference_index": "b7892198c55985e99d6e9fa6fd29560345398fddc32292efcef9b9c76e5dd288",
+    "claim_ledger": "0f721cc35ee71e608010e631b7a22a1631c7a753c1547174cab1e3f8e836a9a8",
+    "relationship_reviews": "817b0a7e184ce21bd16b48be6f4adcf8523a019a707de2cf171b36b69c083124",
+    "expert_master": "4fe0a279ed003218c702aaa6be464acea3e787351f11ab7462930533f5516bd5"
+  },
+  "notes": [
+    "Source and verified_ columns have not been edited.",
+    "Blank transport fields must not be interpreted as absence.",
+    "Only screened summaries are appended; manual complete adjudication awaits review.",
+    "This importer does not write to Google Sheets. Sheet is managed as separate deduplicated reference library.",
+    "No scoring, automatic prioritization, selection or docking handoff."
+  ]
+}

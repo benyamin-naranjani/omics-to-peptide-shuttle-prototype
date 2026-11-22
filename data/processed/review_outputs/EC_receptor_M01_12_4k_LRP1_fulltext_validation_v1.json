@@ -1,0 +1,67 @@
+{
+  "review_id": "OmiPep_M01_12_4k_LRP1_benchmark_fulltext_v1",
+  "review_date": "2026-11-22",
+  "counts": {
+    "previous_cumulative_papers": 16,
+    "previous_cumulative_experiments": 169,
+    "added_lrp1_papers": 3,
+    "added_lrp1_experiments": 44,
+    "cumulative_papers": 19,
+    "cumulative_experiments": 213,
+    "shortlist_rows": 6,
+    "benchmark_peptide_sequences": 3
+  },
+  "generated_csv_sha256": {
+    "EC_receptor_M01_12_4k_LRP1_fulltext_papers_v1.csv": "cb0d81e75b21cbf65d79fd7253d1db697af70b79d6655c9af5bfb7135ef8a703",
+    "EC_receptor_M01_12_4k_LRP1_experiment_ledger_v1.csv": "c04a05ae0b07443c0f098a57613bdee3c5ae9ac31d1c11cd8c925525ca7a7756",
+    "EC_receptor_M01_12_4k_fulltext_paper_ledger_v6.csv": "0b825a5322cb8045a038513a80c3b66f2c93ecabd94092e50cdbbd4f7584e5eb",
+    "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v5.csv": "46d8a4e68d8fc984e07e4209708dd2c0e4f41c1082bd01b16e6e1cf16821c9ff",
+    "EC_receptor_M01_12_4k_shortlist_WORKING_v8.csv": "0310c829a20bfa2e170f4ea105c8c6beb071e2619c89740eebdfcc05107edede",
+    "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v6.csv": "14d00648da271407c3fc7fd5cdea5934bd1cac89882952af19d109d05bc72bfd",
+    "EC_receptor_M01_12_4k_LRP1_benchmark_peptides_v1.csv": "6ac8546eeac62a72261484087bbf4c0a0c04b8035c394a7ac59b3267d5e5e854",
+    "EC_receptor_M01_12_4k_LRP1_followup_TO_VERIFY_v1.csv": "0504d27de11be2f5934c0d03b11d38be111d5d2cf74dde04ee27ed882b9d4d9c"
+  },
+  "original_source_pdf_sha256": {
+    "Demeule2008_Angiopep2_LRP1": {
+      "source_filename": "j.1471-4159.2008.05492.x.pdf",
+      "sha256": "3f9bd0704d0000edc440f09f184b7b7b26c8e7db0ec44bbce20d5008cf5ed3a3",
+      "doi": "10.1111/j.1471-4159.2008.05492.x"
+    },
+    "Sakamoto2017_LRP1_L57": {
+      "source_filename": "1-s2.0-S240558081730081X-main.pdf",
+      "sha256": "2000665d07fd96e706be1379615bb6164ac0bf363d48492148f3156d4afa17ee",
+      "doi": "10.1016/j.bbrep.2017.07.003"
+    },
+    "Rodrigues2021_L57_cell_uptake": {
+      "source_filename": "nihms-1638970.pdf",
+      "sha256": "ada884df01f97095bc96250a701b8648c47a780ff61e8633667064f0eb6ad95f",
+      "doi": "10.1016/j.xphs.2020.09.019"
+    }
+  },
+  "preservation": {
+    "original_16_paper_records_preserved": true,
+    "original_169_experiment_records_preserved": true,
+    "five_discovery_rows_identical": true,
+    "five_discovery_manuscript_rows_identical": true,
+    "all_original_first_9_shortlist_columns_preserved": true,
+    "no_final_receptor_approval": true
+  },
+  "scope": "Main full texts and figures independently assessed; cited supplementary figures/data not provided; LRP1 benchmark retained without claiming in-vivo strict LRP1 dependence or clinically safe shuttling.",
+  "critical_source_boundaries": [
+    "Demeule supports partial LRP1 involvement, not exclusive receptor requirement; intact in-vitro receiver only data-not-shown",
+    "Sakamoto 2017 quantitative comparison L57 versus Angiopep-7, not Angiopep-2; whole brain 125I, no capillary depletion",
+    "Sakamoto CL4 45 nM is ELISA EC50, not KD",
+    "Rodrigues 2021 PEA10 heterozygous LRP1 and fibroblast lineage versus rat BMVEC; not genetic knock-out rescue",
+    "Rodrigues fluorescent amidated L57 and A7 constructs differ from parent free-acid sequences and each other; 4h MTT not long-term safety"
+  ],
+  "google_sheet_citation_keys": [
+    "Demeule2008_Angiopep2_LRP1",
+    "Sakamoto2017_LRP1_L57",
+    "Rodrigues2021_L57_cell_uptake"
+  ],
+  "supplements_missing": [
+    "Sakamoto supplementary S1/S2/Table S1",
+    "Rodrigues supplementary figures and live videos",
+    "Demeule further Angiopep-2 lower-compartment intactness data not shown"
+  ]
+}

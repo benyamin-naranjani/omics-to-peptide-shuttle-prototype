@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "uniprot_release": "2026_04",
+  "endpoints": {
+    "pdbe": "https://www.ebi.ac.uk/pdbe/api/mappings/best_structures/",
+    "afdb": "https://alphafold.ebi.ac.uk/api/prediction/"
+  },
+  "cache_dir": "../data/raw/structure_metadata_cache",
+  "short_region_review_flag_aa": 20,
+  "sequence_proximity_review_flag_aa": 10,
+  "coordinate_convention": "1-based inclusive canonical UniProt; split continuous topology intervals at annotated mature-chain boundaries",
+  "limitations": [
+    "PDBe SIFTS accession-mapped span is not verified coordinate coverage or sequence identity. Unobserved residues and internal gaps require model-level inspection.",
+    "AFDB exact sequence/range metadata does not establish structural accuracy; coordinates, pLDDT, PAE and oligomeric arrangement not yet inspected.",
+    "No annotated subunit comment does not establish monomer state.",
+    "Sequence distance is not physical membrane proximity.",
+    "N-linked sequons are sequence motifs, not glycan occupancy. Disulfide annotations require chain and mature-state context.",
+    "Extracellular topology can represent organelle lumen; no luminal BBB accessibility inferred.",
+    "No model fragments approved, no ranking, no membrane MD decision before target and binding-site selection.",
+    "API missing/error responses are not proof of model absence."
+  ],
+  "generated_utc": "2026-11-19T13:39:50.455590+00:00"
+}

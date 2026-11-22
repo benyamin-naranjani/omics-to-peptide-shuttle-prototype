@@ -1,0 +1,56 @@
+dataset_key,metadata_column,value,n_cells
+sorted_EC,PATH,TL,76125
+sorted_EC,ECclusters,Capillary,36268
+sorted_EC,ECclusters,Arteriole,18487
+sorted_EC,ECclusters,Angiogenic capillary,4863
+sorted_EC,ECclusters,Venule,4780
+sorted_EC,ECclusters,Artery,3114
+sorted_EC,ECclusters,Large artery,2157
+sorted_EC,ECclusters,EndoMT,2088
+sorted_EC,ECclusters,Vein,1792
+sorted_EC,ECclusters,Large vein,1406
+sorted_EC,ECclusters,Mitochondrial,820
+sorted_EC,ECclusters,Proliferating cell,305
+sorted_EC,ECclusters,Stem-to-EC,45
+sorted_EC,Patient,TL1,19596
+sorted_EC,Patient,TL10,18753
+sorted_EC,Patient,TL9,9252
+sorted_EC,Patient,TL6,9059
+sorted_EC,Patient,TL5,7409
+sorted_EC,Patient,TL2,6167
+sorted_EC,Patient,TL3,3419
+sorted_EC,Patient,TL4,2002
+sorted_EC,Patient,TL7,468
+sorted_EC,sex,Male,64829
+sorted_EC,sex,Female,11296
+sorted_EC,age,24 years,27812
+sorted_EC,age,15 years,19596
+sorted_EC,age,25 years,9252
+sorted_EC,age,69 years,7409
+sorted_EC,age,19 years,6167
+sorted_EC,age,41 years,5421
+sorted_EC,age,39 years,468
+unsorted_EC_PVC,Cellclusters,Microglia and Macrophages,33630
+unsorted_EC_PVC,Cellclusters,Neurons,15942
+unsorted_EC_PVC,Cellclusters,Endothelial cells,6813
+unsorted_EC_PVC,Cellclusters,Smooth muscle cells,5605
+unsorted_EC_PVC,Cellclusters,Astrocytes,5488
+unsorted_EC_PVC,Cellclusters,Oligodendrocytes,3778
+unsorted_EC_PVC,Cellclusters,Pericytes,2825
+unsorted_EC_PVC,Cellclusters,Stem cells,2352
+unsorted_EC_PVC,Cellclusters,T cells,1760
+unsorted_EC_PVC,Cellclusters,Neuron progenitor,1182
+unsorted_EC_PVC,Cellclusters,Fibroblasts,1140
+unsorted_EC_PVC,Patient,TL8,30956
+unsorted_EC_PVC,Patient,TL9,19669
+unsorted_EC_PVC,Patient,TL10,13541
+unsorted_EC_PVC,Patient,TL5,7047
+unsorted_EC_PVC,Patient,TL6,5002
+unsorted_EC_PVC,Patient,TL7,4300
+unsorted_EC_PVC,sex,Male,69168
+unsorted_EC_PVC,sex,Female,11347
+unsorted_EC_PVC,age,48 years,30956
+unsorted_EC_PVC,age,25 years,19669
+unsorted_EC_PVC,age,24 years,18543
+unsorted_EC_PVC,age,69 years,7047
+unsorted_EC_PVC,age,39 years,4300

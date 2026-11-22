@@ -1,0 +1,18 @@
+{
+  "alignment_pipeline_version": "1.0",
+  "biopython_version": "1.88",
+  "alignment_mode": "global",
+  "substitution_matrix": "BLOSUM62",
+  "gap_open_score": -10.0,
+  "gap_extension_score": -0.5,
+  "sequence_source": "UniProt canonical sequence",
+  "uniprot_release": "2026_04",
+  "ensembl_release": 116,
+  "nonstandard_residues": "Replaced by X for alignment scoring; excluded from pairwise identity denominator",
+  "identity_definition": "Identical standard amino-acid pairs divided by comparable aligned standard amino-acid pairs",
+  "external_coverage_definition": "Jointly aligned extracellular residues divided by all annotated extracellular residues in the relevant species",
+  "exact_conservation_definition": "Identical jointly aligned standard amino acids divided by all relevant annotated residues",
+  "alternative_optimal_alignments": "First optimal alignment retained; non-unique solutions flagged",
+  "coordinate_convention": "Alignment coordinates are zero-based; UniProt segment boundaries are one-based inclusive",
+  "generated_utc": "2026-11-18T17:33:39.353143+00:00"
+}

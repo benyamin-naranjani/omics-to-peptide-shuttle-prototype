@@ -1,0 +1,111 @@
+{
+  "method": "POST-HOC TRANSPARENT AUDIT; not preregistered, not intended as calibrated clinical efficacy probability",
+  "n_relationships": 125,
+  "n_unique_mouse_genes": 114,
+  "n_sig_D02_up": 94,
+  "n_sig_up_full_4_metric": 56,
+  "comparison_complete_case_size": 56,
+  "numerical_score_instability": {
+    "PROCR": {
+      "balanced": 24,
+      "stroke_emphasis": 45,
+      "human_emphasis": 17,
+      "orthology_emphasis": 42
+    },
+    "TM4SF1": {
+      "balanced": 2,
+      "stroke_emphasis": 7,
+      "human_emphasis": 1,
+      "orthology_emphasis": 9
+    },
+    "SELP": {
+      "balanced": 32,
+      "stroke_emphasis": 12,
+      "human_emphasis": 45,
+      "orthology_emphasis": 43
+    },
+    "ECSCR": {
+      "balanced": 4,
+      "stroke_emphasis": 2,
+      "human_emphasis": 10,
+      "orthology_emphasis": 28
+    },
+    "ACKR1": {
+      "balanced": 11,
+      "stroke_emphasis": 6,
+      "human_emphasis": 16,
+      "orthology_emphasis": 32
+    }
+  },
+  "n_sig_up_topology_screen_defer": 12,
+  "n_fulltext_discovery": 5,
+  "n_benchmark": 1,
+  "selected_provisional": [
+    "PROCR",
+    "TM4SF1"
+  ],
+  "conditional_high_interest_reserve": "SELP",
+  "additional_reserves": [
+    "ECSCR",
+    "ACKR1"
+  ],
+  "benchmark": [
+    "LRP1",
+    "Angiopep-2",
+    "L57",
+    "Angiopep-7 as comparison-only"
+  ],
+  "data_integrity": {
+    "master_sha256": "b15905ba0c237fccd83347ce31b901746ff94fc1b59f39b4e79ba11141030329",
+    "shortlist_v8_sha256": "0310c829a20bfa2e170f4ea105c8c6beb071e2619c89740eebdfcc05107edede"
+  },
+  "gate_definitions": {
+    "DE": "D02 FDR<0.05 AND D02 log2FC>0; no magnitude threshold",
+    "LOSO": "reported only; <80 flagged, not excluded",
+    "human": "missing or low CPM flagged, NEVER presumed no stroke expression",
+    "topology": "source screening categories; NOT measured blood-facing access",
+    "mechanism": "full-text adjudicated only for five + benchmark; experimental direction and cargo identity explicitly separated",
+    "safety": "noncompensatory review and experiments; no toxicity probability estimated"
+  },
+  "quant_priority": {
+    "population": "94 significant-up relationships",
+    "formula": "weighted mean of empirical percentiles of logFC, human brain EC CPM, EC/nonEC log2, extracellular identity; missing metrics omitted and coverage reported; not a final rank",
+    "weight_sets": {
+      "balanced": {
+        "fc": 0.25,
+        "brain": 0.3,
+        "enrichment": 0.25,
+        "identity": 0.2
+      },
+      "stroke_emphasis": {
+        "fc": 0.45,
+        "brain": 0.2,
+        "enrichment": 0.15,
+        "identity": 0.2
+      },
+      "human_emphasis": {
+        "fc": 0.1,
+        "brain": 0.45,
+        "enrichment": 0.3,
+        "identity": 0.15
+      },
+      "orthology_emphasis": {
+        "fc": 0.15,
+        "brain": 0.2,
+        "enrichment": 0.15,
+        "identity": 0.5
+      }
+    },
+    "caveat": "No paper-count popularity boost; no compensation for wrong transport direction, nonluminal protein or serious safety"
+  },
+  "selection_caveat": "PROCR and TM4SF1 are working choices for computational feasibility; expert/luminal binding/wet-lab gate required before experimental or clinical selection",
+  "all_candidates_fulltext": "Only 5/125 discovery candidates were reviewed at full-text level; counterfactual candidates from pass1 must not be described as experimentally rejected",
+  "generated_files": {
+    "EC_receptor_M01_12_4l_125_gate_audit_v1.csv": "d197b38db69941170c1a1d86f4893c604c3a8562053b4bf5fe6a7597171ed3b3",
+    "EC_receptor_M01_12_4l_six_receptor_selection_v1.csv": "cc7668f7bdf9f0f91117bd93361a537e7df9020593cc01717c304bc1dba63e30",
+    "EC_receptor_M01_12_4l_provisional_two_plus_LRP1_v1.csv": "33225dfe402ea32f360591d5a07178985effadbfa7e39a094b3650ea5c59a5b1",
+    "EC_receptor_M01_12_4l_counterfactual_surface_candidates_top20_v1.csv": "d691aff639775cac8cef8f50fd83ac61f4d2953315fd989a8d29c6f18df72fce",
+    "EC_receptor_M01_12_4l_counterfactual_unique_human_targets_top15_v1.csv": "7698c7f0a38cbe8c6e6338ca66cfa6d9ab5e5de9d9e65f9dced7e11f5bc0f1f0",
+    "EC_receptor_M01_12_4l_selection_method_and_limitations_v1.md": "575e8a9e8aaaf47f63722d49c8440a5e9607d7b8f2239d922dcc7158cd6b362b"
+  }
+}

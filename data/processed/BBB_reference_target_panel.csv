@@ -1,0 +1,37 @@
+gene,category,description
+Tfrc,Receptor-mediated delivery references,Established BBB shuttle target
+Lrp1,Receptor-mediated delivery references,Peptide-mediated delivery precedent
+Insr,Receptor-mediated delivery references,Receptor-mediated transcytosis precedent
+Igf1r,Receptor-mediated delivery references,Receptor-mediated transcytosis precedent
+Ldlr,Receptor-mediated delivery references,Lipoprotein receptor transport precedent
+Lrp8,Receptor-mediated delivery references,Lipoprotein receptor transport precedent
+Slc3a2,Receptor-mediated delivery references,CD98hc-mediated brain delivery precedent
+Ly6a,AAV-mediated delivery references,Murine AAV delivery receptor
+Ly6c1,AAV-mediated delivery references,Murine AAV delivery receptor
+Ly6e,AAV-mediated delivery references,Emerging AAV receptor candidate
+Car4,AAV-mediated delivery references,Engineered AAV delivery precedent
+Lrp6,AAV-mediated delivery references,AAV-mediated BBB transport precedent
+Slc2a1,BBB transport and barrier identity,Glucose transporter
+Slc7a5,BBB transport and barrier identity,Amino-acid transporter
+Mfsd2a,BBB transport and barrier identity,Lipid transporter and barrier regulator
+Abcb1a,BBB transport and barrier identity,Efflux transporter
+Abcg2,BBB transport and barrier identity,Efflux transporter
+Slco1a4,BBB transport and barrier identity,Organic anion transporter
+Cldn5,BBB transport and barrier identity,Endothelial tight-junction marker
+Pecam1,BBB transport and barrier identity,Endothelial identity marker
+Kdr,Vascular receptors,VEGF receptor 2
+Flt1,Vascular receptors,VEGF receptor 1
+Tek,Vascular receptors,Tie2 endothelial receptor
+Eng,Vascular receptors,Endothelial accessory receptor
+Bsg,Vascular receptors,Membrane glycoprotein
+Cd36,Vascular receptors,Scavenger receptor
+Scarb1,Vascular receptors,Scavenger receptor
+Icam1,Inflammatory endothelial activation,Endothelial adhesion protein
+Vcam1,Inflammatory endothelial activation,Endothelial adhesion protein
+Sele,Inflammatory endothelial activation,Endothelial selectin
+Plvap,Inflammatory endothelial activation,Vascular permeability-associated protein
+Ecscr,Exploratory surface candidates,Endothelial chemotaxis regulator
+Tm4sf1,Exploratory surface candidates,Endothelial membrane and trafficking protein
+Itm2a,Exploratory surface candidates,Integral membrane protein
+Cd200,Exploratory surface candidates,Immunoregulatory surface protein
+Igfbp7,Secreted biological context,Secreted vascular-associated factor

@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "comparison_is_a_documentation_agenda_not_a_final_ranking": true,
+  "provisional_exploratory_review_examples": [
+    "Ecscr",
+    "Tm4sf1",
+    "Procr"
+  ],
+  "alternative_review_examples": [
+    "Ace",
+    "Selp",
+    "Ackr1",
+    "Cd93",
+    "Bst2",
+    "Itgb1",
+    "Il4ra",
+    "Cd200",
+    "Tnfrsf1a",
+    "Mcam"
+  ],
+  "reference_comparison_examples": {
+    "Lrp1": "published_peptide_delivery_reference; verify ligand, epitope and quantitative endpoints",
+    "Tfrc": "antibody_brain_delivery_reference; separate peptide T7 benchmark claims",
+    "Insr": "antibody_brain_delivery_reference; species and insulin-signalling context",
+    "Igf1r": "antibody_brain_delivery_reference; construct and species context",
+    "Slc3a2": "antibody_delivery_reference; transporter-complex context",
+    "Ly6a": "mouse_AAV_vector_reference_not_human_peptide_evidence",
+    "Ly6e": "AAV_vector_reference_not_standalone_peptide_evidence",
+    "Car4": "AAV_vector_reference_not_standalone_peptide_evidence",
+    "Itm2a": "exploratory_reference_with_negative_or_inconclusive_transport_result"
+  },
+  "comparison_axes": [
+    "mouse_D02_D14_DE_and_formal_effect_robustness",
+    "human_brain_EC_expression_and_donor_paired_specificity",
+    "relationship_specific_mouse_human_orthology_and_extracellular_conservation",
+    "blood_facing_accessibility_not_inferred_from_topology",
+    "published_ligand_specific_uptake_direction_and_intact_cargo_BBB_transport",
+    "systemic_tissue_peripheral_endothelial_and_immune_RNA_context",
+    "native_receptor_complex_glycans_disulfides_and_membrane_structure",
+    "primary_claim_verification_and_manual_review"
+  ],
+  "no_composite_score": true,
+  "no_automatic_selection": true,
+  "no_automatic_exclusion": true,
+  "no_fragment_approval": true,
+  "no_orthologue_merging": true,
+  "missing_data_remain_unassessed": true
+}

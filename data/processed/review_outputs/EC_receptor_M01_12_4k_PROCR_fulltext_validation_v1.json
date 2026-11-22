@@ -1,0 +1,45 @@
+{
+  "review_date": "2026-11-22",
+  "relationship_id": "Procr::ENSG00000101000",
+  "inputs": {
+    "EC_receptor_M01_12_4k_provisional_shortlist_v2.csv": "124bf2f26f4c933c6e7f3d038b9aa3cc47635e50526058eeb1c40bf12a481160",
+    "EC_receptor_M01_expert_master_WITH_ENDPOINT_EVIDENCE_v2.csv": "b15905ba0c237fccd83347ce31b901746ff94fc1b59f39b4e79ba11141030329"
+  },
+  "fulltext_pdfs": {
+    "Deane2009_PROCR_APC_BBB_transport": {
+      "file_name": "deane-et-al-2008-endothelial-protein-c-receptor-assisted-transport-of-activated-protein-c-across-the-mouse-blood-brain.pdf",
+      "sha256": "8ab940b93de9715d360f1374810d754062511257660b1b769daa96e93eba0527",
+      "doi": "10.1038/jcbfm.2008.117"
+    },
+    "Nayak2009_PROCR_recycling_FVIIa": {
+      "file_name": "blood-2009-03-208900.pdf",
+      "sha256": "fc16577bbcc47a775c917e21b936550bfe9ea4c895c4dd6b54cd39b3bd477f02",
+      "doi": "10.1182/blood-2009-03-208900"
+    },
+    "Domotor2003_PROCR_human_BEC_signalling": {
+      "file_name": "blood-2002-12-3680.pdf",
+      "sha256": "a39653351137527646100dac20a4ce87f595740fd1e05ea61ba987076cc56084",
+      "doi": "10.1182/blood-2002-12-3680"
+    }
+  },
+  "results": {
+    "fulltext_papers": 3,
+    "distinct_experimental_readouts_not_independent_biological_replication": 16,
+    "shortlist_rows": 6,
+    "manuscript_comparison_rows": 6,
+    "other_shortlist_rows_unchanged": 5
+  },
+  "source_evidence_limitations": [
+    "Original 125x47 claim ledger was not uploaded; independent claim-level citation graph cannot be verified",
+    "Full-text review covers ONLY three user-uploaded papers; external 2025/2026 contextual studies are screening leads only",
+    "No biological or structural expert approval; no docking fragments approved",
+    "More than 85 percent capillary-depleted radioactivity and more than 94 percent intact whole-brain signal are from different experiment measurements"
+  ],
+  "file_sha256": {
+    "EC_receptor_M01_12_4k_fulltext_paper_ledger_v1.csv": "592ced091a86ccbf06eddaef957ebf7c4d5a3f2a98f1d2a391a200260d55d0df",
+    "EC_receptor_M01_12_4k_PROCR_experiment_ledger_v1.csv": "a08df093d7e6f4e23a53b41d5ec6f89984e9d93bd1f9ccdf207f1c2e3ad7066f",
+    "EC_receptor_M01_12_4k_shortlist_WORKING_v3.csv": "7b44c703f8aae18ef36fdd0a3bf779741c823243f9e8c1267e47da1434b46af0",
+    "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v1.csv": "fdc1c18e121729fdc1ee792e9e19c79f09d59fd1dded62d2be2da5760759fba2",
+    "EC_receptor_M01_12_4k_PROCR_additional_context_TO_VERIFY_v1.csv": "f9e064ad70c85ccefde0fc9ee7d50c6375ca4c185444c5c420736985d425858c"
+  }
+}

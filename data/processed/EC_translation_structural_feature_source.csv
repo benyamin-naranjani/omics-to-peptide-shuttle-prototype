@@ -1,0 +1,106 @@
+gene,human_ensembl_gene_id,feature,n_conserved,n_source,conservation_pct,feature_available
+Lrp1,ENSG00000123384,Cysteines,331.0,332.0,99.6987951807229,True
+Lrp1,ENSG00000123384,"N-linked
+sequons",51.0,51.0,100.0,True
+Lrp1,ENSG00000123384,"Glycosylation
+annotations",51.0,51.0,100.0,True
+Lrp1,ENSG00000123384,"Paired S-S
+annotations",159.0,159.0,100.0,True
+Insr,ENSG00000171105,Cysteines,41.0,41.0,100.0,True
+Insr,ENSG00000171105,"N-linked
+sequons",18.0,18.0,100.0,True
+Insr,ENSG00000171105,"Glycosylation
+annotations",18.0,18.0,100.0,True
+Insr,ENSG00000171105,"Paired S-S
+annotations",18.0,18.0,100.0,True
+Igf1r,ENSG00000140443,Cysteines,39.0,39.0,100.0,True
+Igf1r,ENSG00000140443,"N-linked
+sequons",15.0,16.0,93.75,True
+Igf1r,ENSG00000140443,"Glycosylation
+annotations",15.0,16.0,93.75,True
+Igf1r,ENSG00000140443,"Paired S-S
+annotations",15.0,15.0,100.0,True
+Tfrc,ENSG00000072274,Cysteines,6.0,6.0,100.0,True
+Tfrc,ENSG00000072274,"N-linked
+sequons",3.0,4.0,75.0,True
+Tfrc,ENSG00000072274,"Glycosylation
+annotations",4.0,5.0,80.0,True
+Tfrc,ENSG00000072274,"Paired S-S
+annotations",0.0,0.0,,False
+Abcg2,ENSG00000118777,Cysteines,3.0,3.0,100.0,True
+Abcg2,ENSG00000118777,"N-linked
+sequons",1.0,2.0,50.0,True
+Abcg2,ENSG00000118777,"Glycosylation
+annotations",1.0,2.0,50.0,True
+Abcg2,ENSG00000118777,"Paired S-S
+annotations",1.0,1.0,100.0,True
+Ace,ENSG00000159640,Cysteines,14.0,15.0,93.33333333333333,True
+Ace,ENSG00000159640,"N-linked
+sequons",15.0,15.0,100.0,True
+Ace,ENSG00000159640,"Glycosylation
+annotations",13.0,13.0,100.0,True
+Ace,ENSG00000159640,"Paired S-S
+annotations",6.0,6.0,100.0,True
+Itm2a,ENSG00000078596,Cysteines,5.0,5.0,100.0,True
+Itm2a,ENSG00000078596,"N-linked
+sequons",1.0,1.0,100.0,True
+Itm2a,ENSG00000078596,"Glycosylation
+annotations",1.0,1.0,100.0,True
+Itm2a,ENSG00000078596,"Paired S-S
+annotations",1.0,1.0,100.0,True
+Cd200,ENSG00000091972,Cysteines,6.0,6.0,100.0,True
+Cd200,ENSG00000091972,"N-linked
+sequons",6.0,6.0,100.0,True
+Cd200,ENSG00000091972,"Glycosylation
+annotations",6.0,6.0,100.0,True
+Cd200,ENSG00000091972,"Paired S-S
+annotations",3.0,3.0,100.0,True
+Tm4sf1,ENSG00000169908,Cysteines,2.0,2.0,100.0,True
+Tm4sf1,ENSG00000169908,"N-linked
+sequons",1.0,2.0,50.0,True
+Tm4sf1,ENSG00000169908,"Glycosylation
+annotations",1.0,2.0,50.0,True
+Tm4sf1,ENSG00000169908,"Paired S-S
+annotations",0.0,0.0,,False
+Car4,ENSG00000167434,Cysteines,4.0,5.0,80.0,True
+Car4,ENSG00000167434,"N-linked
+sequons",0.0,2.0,0.0,True
+Car4,ENSG00000167434,"Glycosylation
+annotations",0.0,2.0,0.0,True
+Car4,ENSG00000167434,"Paired S-S
+annotations",2.0,2.0,100.0,True
+Il4ra,ENSG00000077238,Cysteines,6.0,7.0,85.71428571428571,True
+Il4ra,ENSG00000077238,"N-linked
+sequons",3.0,5.0,60.0,True
+Il4ra,ENSG00000077238,"Glycosylation
+annotations",2.0,4.0,50.0,True
+Il4ra,ENSG00000077238,"Paired S-S
+annotations",2.0,2.0,100.0,True
+Ly6e,ENSG00000160932,Cysteines,10.0,10.0,100.0,True
+Ly6e,ENSG00000160932,"N-linked
+sequons",1.0,1.0,100.0,True
+Ly6e,ENSG00000160932,"Glycosylation
+annotations",1.0,1.0,100.0,True
+Ly6e,ENSG00000160932,"Paired S-S
+annotations",5.0,5.0,100.0,True
+Ecscr,ENSG00000249751,Cysteines,0.0,0.0,,False
+Ecscr,ENSG00000249751,"N-linked
+sequons",0.0,0.0,,False
+Ecscr,ENSG00000249751,"Glycosylation
+annotations",0.0,0.0,,False
+Ecscr,ENSG00000249751,"Paired S-S
+annotations",0.0,0.0,,False
+Ly6a,ENSG00000291309,Cysteines,9.0,10.0,90.0,True
+Ly6a,ENSG00000291309,"N-linked
+sequons",0.0,0.0,,False
+Ly6a,ENSG00000291309,"Glycosylation
+annotations",0.0,0.0,,False
+Ly6a,ENSG00000291309,"Paired S-S
+annotations",4.0,5.0,80.0,True
+Ly6c1,ENSG00000291309,Cysteines,9.0,10.0,90.0,True
+Ly6c1,ENSG00000291309,"N-linked
+sequons",0.0,0.0,,False
+Ly6c1,ENSG00000291309,"Glycosylation
+annotations",0.0,0.0,,False
+Ly6c1,ENSG00000291309,"Paired S-S
+annotations",3.0,5.0,60.0,True

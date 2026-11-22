@@ -1,0 +1,9 @@
+treatment,stage,n_candidates,retained_pct
+D02,Significant upregulation,532,100.0
+D02,+ Annotation robustness,523,98.30827067669173
+D02,+ LOSO robustness,275,51.69172932330827
+D02,+ Minimum effect (1.5×),127,23.872180451127818
+D14,Significant upregulation,14,100.0
+D14,+ Annotation robustness,13,92.85714285714286
+D14,+ LOSO robustness,3,21.428571428571427
+D14,+ Minimum effect (1.5×),3,21.428571428571427

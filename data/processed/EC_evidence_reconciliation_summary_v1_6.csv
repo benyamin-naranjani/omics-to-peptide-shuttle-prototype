@@ -1,0 +1,12 @@
+metric,value
+structural_scope_mouse_genes,114
+structural_scope_relationships,125
+direct_review_scoped_records,24
+direct_review_mouse_genes,16
+previous_failed_identifiers_directly_located,6
+previous_failed_identifiers_still_unresolved,0
+HPA_brain_label_metadata_rows,45
+HPA_supported_exact_brain_EC_clusters,0
+HPA_audited_both_context_relationships,0
+pending_targeted_primary_review_genes,72
+approved_fragments,0

@@ -1,0 +1,66 @@
+{
+  "review_id": "OmiPep_M01_12_4k_ACKR1_full_text_review_v1",
+  "date": "2026-11-22",
+  "source_pdf_sha256": {
+    "Minten2014_ACKR1_BBB_reverse": {
+      "source_filename": "brain%2Fawu045.pdf",
+      "sha256": "7abbbe726270889ef32f0846a2df50c986b9a904bd81bbb9fbb5fa7b160df09c",
+      "doi": "10.1093/brain/awu045"
+    },
+    "Pruenster2009_ACKR1_chemokine_transport": {
+      "source_filename": "ni.1675.pdf",
+      "sha256": "84922cc012cde15f6aa01115a0c2160e4b7aeebce224dd981bc88343456a59a5",
+      "doi": "10.1038/ni.1675"
+    },
+    "Saha2024_ACKR1_CCL7_structure": {
+      "source_filename": "PIIS0092867424007657.pdf",
+      "sha256": "7ccc3e06a18d4775f819cb9af069624db7a0fce6474e3d601f5fc9329f924c15",
+      "doi": "10.1016/j.cell.2024.07.005"
+    }
+  },
+  "baseline_source_checksums": {
+    "EC_receptor_M01_12_4k_fulltext_paper_ledger_v4.csv": "0358b48d4b357f401041bef6b2b5e8db699c6ee8cba3a7cd06104937703b3151",
+    "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v3.csv": "514242d2ae33809d438149959fb0c6d28543f9a99c5252bbe2d32aca08f8f914",
+    "EC_receptor_M01_12_4k_shortlist_WORKING_v6.csv": "28489e8b65ea273f96276d4137a5192a4d5819a06a4f28776287f7261a2c5122",
+    "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v4.csv": "31dcd76311d0cd3baeb523de6ad0ae2c110526b85107f5614de406313cb4bae5"
+  },
+  "generated_csv_checksums": {
+    "EC_receptor_M01_12_4k_ACKR1_fulltext_papers_v1.csv": "b9633e31edbc17179bac0bd465822ec9f0c81185315cf686b0d4bb4a284f177b",
+    "EC_receptor_M01_12_4k_ACKR1_experiment_ledger_v1.csv": "caa972e52a75de379240338c4497b155091daf6b9843ea4b63310f40fab3550f",
+    "EC_receptor_M01_12_4k_fulltext_paper_ledger_v5.csv": "fc5b37b1687fa4b2ec69bda3acb2e37ff2d9c869f8b31efd93f2667a82abf27d",
+    "EC_receptor_M01_12_4k_cumulative_experiment_ledger_v4.csv": "b50e8ea2576e955ac7547285c13a17be16cb1452453451ff84c0d86d75cb9943",
+    "EC_receptor_M01_12_4k_shortlist_WORKING_v7.csv": "feb6d06f46f56a8608cddd70ff1bac80d4c636b84c22b28eccf7abb2d3e24339",
+    "EC_receptor_M01_12_4k_manuscript_comparison_PROVISIONAL_v5.csv": "47f8bf1ccf0a44bb009f3fd423c783215110671e4591b70b96c6094eae93d33e",
+    "EC_receptor_M01_12_4k_ACKR1_followup_TO_VERIFY_v1.csv": "306284f22ad0650b5de842f554c7d7d9a119cb02d4f150c4fedfa1f599985d50"
+  },
+  "counts": {
+    "baseline_papers": 13,
+    "added_papers": 3,
+    "cumulative_papers": 16,
+    "baseline_experiments": 123,
+    "added_ackr1_experiments": 46,
+    "cumulative_experiments": 169,
+    "shortlist_rows": 6,
+    "manuscript_rows": 6
+  },
+  "conservation_tests": {
+    "earlier_paper_rows_unchanged": true,
+    "earlier_experiment_rows_unchanged": true,
+    "all_five_non_ACKR1_shortlist_rows_unchanged": true,
+    "all_five_non_ACKR1_manuscript_rows_unchanged": true,
+    "all_original_expression_and_orthology_metrics_unchanged": true,
+    "no_receptor_approved": true
+  },
+  "directionality_interpretation": "Evidence for abluminal->luminal native chemokines, no demonstrated blood->brain 20-aa peptide; Pruenster found tested apical->basolateral CCL2 enhancement absent.",
+  "external_reference_library_keys": [
+    "Minten2014_ACKR1_BBB_reverse",
+    "Pruenster2009_ACKR1_chemokine_transport",
+    "Saha2024_ACKR1_CCL7_structure"
+  ],
+  "known_missing_source_material": [
+    "Pruenster2009 separate online supplements",
+    "Saha2024 separate Data S1 and Tables S1-S5",
+    "Minten2014 original supplements where cited"
+  ],
+  "review_scope": "Primary papers and main figures inspected. This package is an evidence derivative, not final expert adjudication or a docking approval."
+}

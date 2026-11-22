@@ -1,0 +1,51 @@
+Tissue,organ_key,anatomical_context
+adipose tissue,connective & soft tissue,non_CNS_non_ocular
+adrenal gland,endocrine tissues,non_CNS_non_ocular
+amygdala,brain,CNS
+appendix,bone marrow & lymphoid tissues,non_CNS_non_ocular
+basal ganglia,brain,CNS
+bone marrow,bone marrow & lymphoid tissues,non_CNS_non_ocular
+breast,breast and female reproductive system,non_CNS_non_ocular
+cerebellum,brain,CNS
+cerebral cortex,brain,CNS
+cervix,breast and female reproductive system,non_CNS_non_ocular
+choroid plexus,brain,CNS
+colon,gastrointestinal tract,non_CNS_non_ocular
+duodenum,gastrointestinal tract,non_CNS_non_ocular
+endometrium,breast and female reproductive system,non_CNS_non_ocular
+epididymis,male reproductive system,non_CNS_non_ocular
+esophagus,proximal digestive tract,non_CNS_non_ocular
+fallopian tube,breast and female reproductive system,non_CNS_non_ocular
+gallbladder,liver & gallbladder,non_CNS_non_ocular
+heart muscle,muscle tissues,non_CNS_non_ocular
+hippocampal formation,brain,CNS
+hypothalamus,brain,CNS
+kidney,kidney & urinary bladder,non_CNS_non_ocular
+liver,liver & gallbladder,non_CNS_non_ocular
+lung,respiratory system,non_CNS_non_ocular
+lymph node,bone marrow & lymphoid tissues,non_CNS_non_ocular
+midbrain,brain,CNS
+ovary,breast and female reproductive system,non_CNS_non_ocular
+pancreas,pancreas,non_CNS_non_ocular
+parathyroid gland,endocrine tissues,non_CNS_non_ocular
+pituitary gland,endocrine tissues,non_CNS_non_ocular
+placenta,breast and female reproductive system,non_CNS_non_ocular
+prostate,male reproductive system,non_CNS_non_ocular
+rectum,gastrointestinal tract,non_CNS_non_ocular
+retina,eye,ocular
+salivary gland,proximal digestive tract,non_CNS_non_ocular
+seminal vesicle,male reproductive system,non_CNS_non_ocular
+skeletal muscle,muscle tissues,non_CNS_non_ocular
+skin,skin,non_CNS_non_ocular
+small intestine,gastrointestinal tract,non_CNS_non_ocular
+smooth muscle,muscle tissues,non_CNS_non_ocular
+spinal cord,brain,CNS
+spleen,bone marrow & lymphoid tissues,non_CNS_non_ocular
+stomach,gastrointestinal tract,non_CNS_non_ocular
+testis,male reproductive system,non_CNS_non_ocular
+thymus,bone marrow & lymphoid tissues,non_CNS_non_ocular
+thyroid gland,endocrine tissues,non_CNS_non_ocular
+tongue,proximal digestive tract,non_CNS_non_ocular
+tonsil,bone marrow & lymphoid tissues,non_CNS_non_ocular
+urinary bladder,kidney & urinary bladder,non_CNS_non_ocular
+vagina,breast and female reproductive system,non_CNS_non_ocular

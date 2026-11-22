@@ -1,0 +1,21 @@
+{
+  "pipeline_version": "1.0",
+  "mouse_geo_accession": "GSE225948",
+  "human_geo_accession": "GSE256493",
+  "ensembl_release": 116,
+  "uniprot_release": "2026_04",
+  "integration_unit": "Mouse gene and reported human Ensembl gene relationship",
+  "mouse_gene_universe": "All data-driven candidates and curated references",
+  "structural_review_scope": "Previously defined structural assessment scope",
+  "missing_evidence_policy": "Unassessed quantitative evidence retained as missing",
+  "biological_evidence_policy": "Independent literature curation required",
+  "prioritisation_performed": false,
+  "limitations": [
+    "Orthology does not establish functional equivalence",
+    "RNA expression does not establish protein abundance",
+    "Extracellular topology does not establish luminal accessibility",
+    "Sequence conservation does not establish binding conservation",
+    "Endothelial enrichment does not establish BBB transcytosis"
+  ],
+  "generated_utc": "2026-11-19T11:12:39.989809+00:00"
+}
